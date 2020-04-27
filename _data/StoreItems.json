@@ -9017,7 +9017,619 @@
 		"price": 1333,
 		"category": "Prosthetic",
 		"defname": "MechaTentacleME"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 8967,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "isr2g",
+		"price": 1150,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
+	{
+		"abr": "medicbag",
+		"price": 30,
+		"category": "Medicine",
+		"defname": "RNMedicine_MedicBag"
+	},
+	{
+		"abr": "medicalribreplacement",
+		"price": 650,
+		"category": "Bionic",
+		"defname": "MedicalRib"
+	},
+	{
+		"abr": "medicinalcactipinequill",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "AA_CactipineQuill"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "megalouse",
+		"price": 667,
+		"category": "Animal",
+		"defname": "AA_MegaLouse"
+	},
+	{
+		"abr": "megalouseegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_MegalouseEggFertilized"
+	},
+	{
+		"abr": "megalouseegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "AA_MegalouseEggUnfertilized"
+	},
+	{
+		"abr": "meleeshield",
+		"price": 257,
+		"category": "Shields",
+		"defname": "Apparel_MeleeShield"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawMelons"
+	},
+	{
+		"abr": "mendingkit",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "MendingKit"
+	},
+	{
+		"abr": "mendingworkbench",
+		"price": 583,
+		"category": "Production",
+		"defname": "TableMending"
+	},
+	{
+		"abr": "messengerbagtactical",
+		"price": 179,
+		"category": "Accessories",
+		"defname": "RHApparel_Backpack_Tactical_ShoulderBag"
+	},
+	{
+		"abr": "metallicwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "SteelWool"
+	},
+	{
+		"abr": "michhelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_Tan"
+	},
+	{
+		"abr": "michhelmetajax",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_Ajax"
+	},
+	{
+		"abr": "michhelmetbreezy",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Breezy"
+	},
+	{
+		"abr": "michhelmetdpm",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_DPM"
+	},
+	{
+		"abr": "michhelmethesh",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_Hesh"
+	},
+	{
+		"abr": "michhelmetranger",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_USArmyRanger"
+	},
+	{
+		"abr": "michhelmetrecon",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_FORECON"
+	},
+	{
+		"abr": "michhelmetroach",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Roach"
+	},
+	{
+		"abr": "michhelmetscarecrow",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_MICHHelmet_141Scarecrow"
+	},
+	{
+		"abr": "microscyther",
+		"price": 67,
+		"category": "Animal",
+		"defname": "MicroScyther"
+	},
+	{
+		"abr": "militaryturret",
+		"price": 842,
+		"category": "Security",
+		"defname": "VFES_Turret_MilitaryTurret"
+	},
+	{
+		"abr": "milkormgl",
+		"price": 3000,
+		"category": "Grenade launcher",
+		"defname": "RNEx_MilkorMGL"
+	},
+	{
+		"abr": "millingstone",
+		"price": 143,
+		"category": "Production",
+		"defname": "GrindStone"
+	},
+	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Furniture",
+		"defname": "RGK_MiniTableA"
+	},
+	{
+		"abr": "minitable",
+		"price": 88,
+		"category": "Furniture",
+		"defname": "RGK_MiniTableB"
+	},
+	{
+		"abr": "miningarm",
+		"price": 1667,
+		"category": "Android",
+		"defname": "MiningArm"
+	},
+	{
+		"abr": "minnow",
+		"price": 2,
+		"category": "Raw fish",
+		"defname": "VCEF_RawMinnow"
+	},
+	{
+		"abr": "mk14ebr",
+		"price": 742,
+		"category": "DMR",
+		"defname": "RNGun_Mk14EBR"
+	},
+	{
+		"abr": "mk48",
+		"price": 892,
+		"category": "LMG and GPMG",
+		"defname": "RNGun_MK48LMG"
+	},
+	{
+		"abr": "mk7helmet",
+		"price": 213,
+		"category": "Helmets",
+		"defname": "RNApparel_MK7Helmet"
+	},
+	{
+		"abr": "mk11mod0",
+		"price": 708,
+		"category": "DMR",
+		"defname": "RNGun_MK11DMR"
+	},
+	{
+		"abr": "model1887",
+		"price": 292,
+		"category": "Shotgun",
+		"defname": "RNGun_Model1887LA"
+	},
+	{
+		"abr": "mono-salvepill",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "RegenPillAt"
+	},
+	{
+		"abr": "mosinnagant",
+		"price": 400,
+		"category": "Bolt action",
+		"defname": "RNGun_MosinNagant"
+	},
+	{
+		"abr": "mosinnagantmercenary",
+		"price": 400,
+		"category": "Bolt action",
+		"defname": "RNGun_MosinNagant_Mercenary"
+	},
+	{
+		"abr": "mossberg500",
+		"price": 332,
+		"category": "Shotgun",
+		"defname": "RNGun_Mossberg500S"
+	},
+	{
+		"abr": "mossberg500tactical",
+		"price": 383,
+		"category": "Shotgun",
+		"defname": "RNGun_Mossberg500TacticalS"
+	},
+	{
+		"abr": "mp40",
+		"price": 617,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP40_PDW"
+	},
+	{
+		"abr": "mp-412rex",
+		"price": 213,
+		"category": "Revolver",
+		"defname": "RNGun_MP412REX"
+	},
+	{
+		"abr": "mp445",
+		"price": 288,
+		"category": "Pistol",
+		"defname": "RNGun_MP445P"
+	},
+	{
+		"abr": "mp5a2",
+		"price": 575,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2_PDW"
+	},
+	{
+		"abr": "mp5a2hrt",
+		"price": 642,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2SDHRT_PDW"
+	},
+	{
+		"abr": "mp5a2sd",
+		"price": 600,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A2SD_PDW"
+	},
+	{
+		"abr": "mp5a3",
+		"price": 592,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A3_PDW"
+	},
+	{
+		"abr": "mp5a3contractor",
+		"price": 592,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A3Contractor_PDW"
+	},
+	{
+		"abr": "mp5a3sd",
+		"price": 583,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5A3SD_PDW"
+	},
+	{
+		"abr": "mp5k-a3sd",
+		"price": 592,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5KPDWSD_PDW"
+	},
+	{
+		"abr": "mp5k-pdw",
+		"price": 558,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP5KPDW_PDW"
+	},
+	{
+		"abr": "mp7a1",
+		"price": 558,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP7A1_PDW"
+	},
+	{
+		"abr": "mp7a2",
+		"price": 558,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP7_PDW"
+	},
+	{
+		"abr": "mp9",
+		"price": 533,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MP9_PDW"
+	},
+	{
+		"abr": "mpx",
+		"price": 575,
+		"category": "SMG and PDW",
+		"defname": "RNGun_MPX_PDW"
+	},
+	{
+		"abr": "mrebritish",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_British"
+	},
+	{
+		"abr": "mreration",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Civilian"
+	},
+	{
+		"abr": "mrerussian",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_Russian"
+	},
+	{
+		"abr": "mreusarmy",
+		"price": 67,
+		"category": "MRE Rations",
+		"defname": "RN_MRE_USArmy"
+	},
+	{
+		"abr": "msbs-5.56",
+		"price": 717,
+		"category": "Assault rifle",
+		"defname": "RNGun_MSBS556AR"
+	},
+	{
+		"abr": "muffin",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "muffin"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 4167,
+		"category": "Archotech",
+		"defname": "MuscleStimulator"
+	},
+	{
+		"abr": "mushroom",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Rawmushroom"
+	},
+	{
+		"abr": "mutantarm",
+		"price": 167,
+		"category": "Natural",
+		"defname": "AA_MutantArm"
+	},
+	{
+		"abr": "mutanteye",
+		"price": 167,
+		"category": "Natural",
+		"defname": "AA_MutantEye"
+	},
+	{
+		"abr": "mutantleg",
+		"price": 167,
+		"category": "Natural",
+		"defname": "AA_MutantLeg"
+	},
+	{
+		"abr": "mycoidcolossus",
+		"price": 917,
+		"category": "Animal",
+		"defname": "AA_MycoidColossus"
+	},
+	{
+		"abr": "mycoidcolossusmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_MycoidColossus"
+	},
+	{
+		"abr": "mycoidcolossussporeclump(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_MycoidColossusSpores"
+	},
+	{
+		"abr": "mysterysoda",
+		"price": 25,
+		"category": "Garden soda",
+		"defname": "MysterySoda"
+	},
+	{
+		"abr": "n.solutionunit",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "RoboticCow"
+	},
+	{
+		"abr": "n.solutionunitmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_RoboticCow"
+	},
+	{
+		"abr": "nagantm1895",
+		"price": 213,
+		"category": "Revolver",
+		"defname": "RNGun_NagantRevolver"
+	},
+	{
+		"abr": "nanitesbank(cooling)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCoolingSerum"
+	},
+	{
+		"abr": "nanitesbank(cpu)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesCPUSerum"
+	},
+	{
+		"abr": "nanitesbank(framework)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesFrameSerum"
+	},
+	{
+		"abr": "nanitesbank(hydraulic)",
+		"price": 583,
+		"category": "Items",
+		"defname": "ATPP_NanitesHydraulicSerum"
+	},
+	{
+		"abr": "needlepost",
+		"price": 1050,
+		"category": "Animal",
+		"defname": "AA_Needlepost"
+	},
+	{
+		"abr": "needlepostmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_Needlepost"
+	},
+	{
+		"abr": "needleroll",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AA_Needleroll"
+	},
+	{
+		"abr": "needlerollmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_Needleroll"
+	},
+	{
+		"abr": "negotiatorimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "NegotiationMindImplant"
+	},
+	{
+		"abr": "neuralhighways",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SpeedMindImplant"
+	},
+	{
+		"abr": "neutroflowerpetals",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "NeutroPetals"
+	},
+	{
+		"abr": "nightave",
+		"price": 667,
+		"category": "Animal",
+		"defname": "AA_NightAve"
+	},
+	{
+		"abr": "nightaveegg(fert.)",
+		"price": 58,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggNightAveFertilized"
+	},
+	{
+		"abr": "nightavemeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_NightAve"
+	},
+	{
+		"abr": "nightleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "Leather_Night"
+	},
+	{
+		"abr": "nightvisiongoggles",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_NightVisionGoggles"
+	},
+	{
+		"abr": "nightling",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AA_Nightling"
+	},
+	{
+		"abr": "nightlingegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggNightlingFertilized"
+	},
+	{
+		"abr": "nightlingmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_Nightling"
+	},
+	{
+		"abr": "nightmule",
+		"price": 583,
+		"category": "Animal",
+		"defname": "AA_NightMule"
+	},
+	{
+		"abr": "nightmulemeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_NightMule"
+	},
+	{
+		"abr": "nightram",
+		"price": 917,
+		"category": "Animal",
+		"defname": "AA_NightRam"
+	},
+	{
+		"abr": "nightrammeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_AA_NightRam"
+	},
+	{
+		"abr": "nigiri",
+		"price": 27,
+		"category": "Fine Meals",
+		"defname": "Nigiri"
+	},
+	{
+		"abr": "nomexflightsuit(raf)",
+		"price": 350,
+		"category": "Combat uniform",
+		"defname": "RNApparel_Nomex_FlightSuit_RAF"
+	},
+	{
+		"abr": "nose",
+		"price": 833,
+		"category": "Natural",
+		"defname": "Nose"
+	},
+	{
+		"abr": "nutrientsolution",
+		"price": 13,
+		"category": "Raw animal products",
+		"defname": "NSolution"
 	}
 	],
-	"total": 2298
+	"total": 2300
 }
