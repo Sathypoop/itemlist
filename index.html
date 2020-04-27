@@ -74,7 +74,7 @@ title: Store
         </tr>
 
         {%- for item in site.data.StoreIncidents.incitems -%}
-        {%- if item.price > 0 -%}
+        {%- if item.price > 0 and item.category == site.data.language.str_AK_Style_Rifle -%}
         <tr>
             <td>{{- item.abr -}}</td>
             {%- if item.abr == site.data.language.str_trait_id or item.abr == site.data.language.str_removetrait_id -%}
