@@ -10,6 +10,8 @@ title: Store
     <button class="tablinks" onclick="changeTab(event, 'traits')">{{- site.data.language.str_traits -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'races')">{{- site.data.language.str_races -}}</button>
 	<button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'apparel')">{{- site.data.language.str_apparel -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'ammo')">{{- site.data.language.str_ammo -}}</button>
 </div>
 
 <div id="items" class="tabcontent">
@@ -84,7 +86,53 @@ title: Store
 
 <div id="apparel" class="tabcontent">
     <input type="text" class="search" id="apparelInput" onkeyup="filterTable('apparel')"
-        placeholder="{{- site.data.language.apparel_search -}}">
+        placeholder="{{- site.data.language.str_apparel_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_apparel 
+                or item.category == site.data.language.str_Accessories
+                or item.category == site.data.language.str_Armor
+                or item.category == site.data.language.str_Body_Armor
+                or item.category == site.data.language.str_Casual
+                or item.category == site.data.language.str_Casual_Jackets
+                or item.category == site.data.language.str_Combat_Jackets
+                or item.category == site.data.language.str_Footwear
+                or item.category == site.data.language.str_Formal
+                or item.category == site.data.language.str_Handgear
+                or item.category == site.data.language.str_Headgear
+                or item.category == site.data.language.str_Hats
+                or item.category == site.data.language.str_Handwear
+                or item.category == site.data.language.str_Helmets
+                or item.category == site.data.language.str_Loadbearing_Gear
+                or item.category == site.data.language.str_Masks
+                or item.category == site.data.language.str_Noble_Apparel
+                or item.category == site.data.language.str_Rocket_Launcher
+                or item.category == site.data.language.str_SMG_and_PDW
+                or item.category == site.data.language.str_Shotgun
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="ammo" class="tabcontent">
+    <input type="text" class="search" id="apparelInput" onkeyup="filterTable('ammo')"
+        placeholder="{{- site.data.language.str_ammo_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>

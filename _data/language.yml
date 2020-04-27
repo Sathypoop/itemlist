@@ -13,6 +13,8 @@ str_previous_page: 'Prev'
 str_javascript_required_disqus: 'Please enable JavaScript to view comments.'
 
 
+
+#Weapon search strings
 str_AK_Style_Rifle: 'AK style rifle'
 str_ARM: 'AMR'
 str_AR_Style_Rifle: 'AR style rifle'
@@ -33,6 +35,24 @@ str_Revolver: 'Revolver'
 str_Rocket_Launcher: 'Rocket launcher'
 str_SMG_and_PDW: 'SMG and PWD'
 str_Shotgun: 'Shotgun'
+
+#Apparel search strings
+str_apparel: 'Apparel'
+str_Accessories: 'Accessories'
+str_Armor: 'Armor'
+str_Body_Armor: 'Body Armor'
+str_Casual: 'Casual'
+str_Casual_Jackets: 'Casual jackets'
+str_Combat_Jackets: 'Combat jackets'
+str_Footwear: 'Footwear'
+str_Formal: 'Formal'
+str_Handgear: 'Headgear'
+str_Hats: 'Hats'
+str_Handwear: 'Handwear'
+str_Helmets: 'Helmets'
+str_Loadbearing_Gear: 'Loadbearing Gear'
+str_Masks: 'Masks'
+str_Noble_Apparel: 'Noble apparel'
 
 str_no_commands: 'These are not the commands you are looking for.'
 str_items: 'Items'
