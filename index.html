@@ -48,7 +48,16 @@ title: Store
         </tr>
 
         {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 and item.category == site.data.language.str_AK_Style_Rifle -%}
+        {%- if item.price >= 0 and item.category == site.data.language.str_AK_Style_Rifle 
+        or item.category == site.data.language.str_ARM
+                or item.category == site.data.language.str_AR_Style_Rifle
+                or item.category == site.data.language.str_Assault_Rifle
+                or item.category == site.data.language.str_Blade_And_Bow
+                or item.category == site.data.language.str_Bladelink_Weapons
+                or item.category == site.data.language.str_Bolt_Action
+                or item.category == site.data.language.str_Bullpup_Rifle
+                or item.category == site.data.language.str_DMR
+        -%}
         <tr>
             
             <td>{{- item.abr -}}</td>
