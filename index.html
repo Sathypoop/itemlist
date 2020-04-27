@@ -49,12 +49,13 @@ title: Store
 
         {%- for item in site.data.StoreItems.items -%}
         {%- if item.price >= 0 -%}
+        {%- if item.category == site.data.language.str_AK_Style_Rifle -%}
         <tr>
             
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
-            {%- if item.category == site.data.language.str_AK_Style_Rifle -%}
+
         </tr>
         {%- endif -%}
         {%- endfor -%}
