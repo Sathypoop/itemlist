@@ -35,6 +35,31 @@ title: Store
     </table>
 </div>
 
+
+<div id="items" class="tabcontent">
+    <input type="text" class="search" id="itemsInput" onkeyup="filterTable('weapons')"
+        placeholder="{{- site.data.language.str_weapons -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 -%}
+        <tr>
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
 <div id="events" class="tabcontent">
     <input type="text" class="search" id="eventsInput" onkeyup="filterTable('events')"
         placeholder="{{- site.data.language.str_events_search -}}">
