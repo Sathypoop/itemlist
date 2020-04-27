@@ -11,6 +11,7 @@ title: Store
     <button class="tablinks" onclick="changeTab(event, 'races')">{{- site.data.language.str_races -}}</button>
 	<button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'apparel')">{{- site.data.language.str_apparel -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'medical')">{{- site.data.language.str_medical -}}</button>
 </div>
 
 <div id="items" class="tabcontent">
@@ -116,6 +117,42 @@ title: Store
                 or item.category == site.data.language.str_Rocket_Launcher
                 or item.category == site.data.language.str_SMG_and_PDW
                 or item.category == site.data.language.str_Shotgun
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="medical" class="tabcontent">
+    <input type="text" class="search" id="medicalInput" onkeyup="filterTable('medical')"
+        placeholder="{{- site.data.language.str_medical_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_Animal_body_Part 
+                or item.category == site.data.language.str_Archotech
+                or item.category == site.data.language.str_Bionic
+                or item.abr == site.data.language.str_HealerMechSerum
+                or item.abr == site.data.language.str_RessurectorMechSerum
+                or item.category == site.data.language.str_Medicine
+                or item.category == site.data.language.str_Natural
+                or item.category == site.data.language.str_Prostethic
+                or item.category == site.data.language.str_SimpleParts
+                or item.category == site.data.language.str_Ultratech
         -%}
         <tr>
             
