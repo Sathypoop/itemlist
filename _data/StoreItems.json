@@ -2960,7 +2960,7 @@
 	},
 	{
 		"abr": "40mmcannon",
-		"price": 1500,
+		"price": 2500,
 		"category": "Ranged weapons",
 		"defname": "Mech40MMCannon"
 	},
@@ -4493,12 +4493,6 @@
 		"price": 1117,
 		"category": "Animal Body Part",
 		"defname": "AA_BionicWing"
-	},
-	{
-		"abr": "biosolids",
-		"price": 0,
-		"category": "Waste",
-		"defname": "Biosolids"
 	},
 	{
 		"abr": "biosolidscomposter",
@@ -7496,7 +7490,7 @@
 	},
 	{
 		"abr": "hardtack",
-		"price": 0,
+		"price": 3,
 		"category": "Meals",
 		"defname": "RC2_Hardtack"
 	},
@@ -8924,7 +8918,7 @@
 	},
 	{
 		"abr": "mastiffshotgun",
-		"price": 1500,
+		"price": 4500,
 		"category": "Ranged weapons",
 		"defname": "MechMastiffGun"
 	},
@@ -9629,7 +9623,7 @@
 		"price": 13,
 		"category": "Raw animal products",
 		"defname": "NSolution"
-	}
+	},
 	],
 	"total": 2300
 }
