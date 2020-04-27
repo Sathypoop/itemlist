@@ -167,8 +167,8 @@ title: Store
     </table>
 </div>
 
-<div id="Furniture" class="tabcontent">
-    <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('Furniture')"
+<div id="furniture" class="tabcontent">
+    <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('furniture')"
         placeholder="{{- site.data.language.str_furniture_search -}}">
 
     <table style="display: table" class="sortable">
@@ -180,8 +180,8 @@ title: Store
 
         {%- for item in site.data.StoreItems.items -%}
         {%- if item.price >= 0 
-               and item.category == site.data.language.furniture 
-                or item.category == site.data.language.Hygiene
+               and item.category == site.data.language.str_furniture 
+                or item.category == site.data.language.str_Hygiene
         -%}
         <tr>
             
