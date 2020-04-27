@@ -4154,7 +4154,7 @@
 	},
 	{
 		"abr": "basicnanokit",
-		"price": 17,
+		"price": 20,
 		"category": "Medicine",
 		"defname": "ATPP_AndroidNanokitBasic"
 	},
@@ -7466,7 +7466,7 @@
 	},
 	{
 		"abr": "handcannon",
-		"price": 1800,
+		"price": 3000,
 		"category": "Ranged weapons",
 		"defname": "MechHandCannon"
 	},
