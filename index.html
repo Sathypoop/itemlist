@@ -82,6 +82,52 @@ title: Store
     </table>
 </div>
 
+<div id="apparel" class="tabcontent">
+    <input type="text" class="search" id="apparelInput" onkeyup="filterTable('apparel')"
+        placeholder="{{- site.data.language.apparel_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_AK_Style_Rifle 
+                or item.category == site.data.language.str_ARM
+                or item.category == site.data.language.str_AR_Style_Rifle
+                or item.category == site.data.language.str_Assault_Rifle
+                or item.category == site.data.language.str_Blade_And_Bow
+                or item.category == site.data.language.str_Bladelink_Weapons
+                or item.category == site.data.language.str_Bolt_Action
+                or item.category == site.data.language.str_Bullpup_Rifle
+                or item.category == site.data.language.str_DMR
+                or item.category == site.data.language.str_Grenade_Launcher
+                or item.category == site.data.language.str_LMG_And_GPMG
+                or item.category == site.data.language.str_Melee_Weapons
+                or item.category == site.data.language.str_One_Use_Launcher
+                or item.category == site.data.language.str_One_use_Explosive
+                or item.category == site.data.language.str_Pistol
+                or item.category == site.data.language.str_Ranged_Weapons
+                or item.category == site.data.language.str_Revolver
+                or item.category == site.data.language.str_Rocket_Launcher
+                or item.category == site.data.language.str_SMG_and_PDW
+                or item.category == site.data.language.str_Shotgun
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
 
 <div id="events" class="tabcontent">
     <input type="text" class="search" id="eventsInput" onkeyup="filterTable('events')"
