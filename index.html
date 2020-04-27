@@ -9,6 +9,7 @@ title: Store
     <button class="tablinks" onclick="changeTab(event, 'events')">{{- site.data.language.str_events -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'traits')">{{- site.data.language.str_traits -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'races')">{{- site.data.language.str_races -}}</button>
+	    <button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
 </div>
 
 <div id="items" class="tabcontent">
@@ -191,7 +192,8 @@ title: Store
         price = 0;
         priceSearch = 1;
 
-        if (filter.startsWith("CATEGORY:") && category == "items") {
+        if (filter.startsWith("CATEGORY:") && category == "items") 
+		{
             filter = filter.substring("category".length + 1);
             column = 2;
         }
