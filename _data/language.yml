@@ -12,6 +12,9 @@ str_next_page: 'Next'
 str_previous_page: 'Prev'
 str_javascript_required_disqus: 'Please enable JavaScript to view comments.'
 
+
+str_AK_Style_Rifle: 'AK style rifle'
+
 str_no_commands: 'These are not the commands you are looking for.'
 str_items: 'Items'
 str_events: 'Events'
