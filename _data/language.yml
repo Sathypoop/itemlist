@@ -68,6 +68,13 @@ str_Prostethic: 'Prostethic'
 str_SimpleParts: 'Simple Parts'
 str_Ultratech: 'Ultatech'
 
+#Furniture Search
+str_furniture: 'Furniture'
+str_furniture_search: 'Search for furniture...'
+str_Hygiene: 'Hygiene'
+
+
+
 str_no_commands: 'These are not the commands you are looking for.'
 str_items: 'Items'
 str_events: 'Events'
