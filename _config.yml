@@ -29,7 +29,7 @@ url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'Sathypoop'
 
-remote_theme: gustavoquinalha/jekyll-help-center-theme
+remote_theme: Sylhare/Type-on-Strap
 
 # Build settings
 # theme: minima
