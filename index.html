@@ -13,6 +13,9 @@ title: Shop
     <button class="tablinks" onclick="changeTab(event, 'apparel')">{{- site.data.language.str_apparel -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'medical')">{{- site.data.language.str_medical -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'furniture')">{{- site.data.language.str_furniture -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'animal')">{{- site.data.language.str_animals -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'food')">{{- site.data.language.str_food -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'drugs')">{{- site.data.language.str_drugs -}}</button>
 </div>
 
 <div id="items" class="tabcontent">
@@ -167,6 +170,117 @@ title: Shop
     </table>
 </div>
 
+<div id="animal" class="tabcontent">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('animal')"
+        placeholder="{{- site.data.language.str_animal_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_animal 
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+<div id="food" class="tabcontent">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('food')"
+        placeholder="{{- site.data.language.str_food_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_Animal_Feed 
+                or item.category == site.data.language.str_Eggs_Fert
+                or item.category == site.data.language.str_Eggs_Unfert
+                or item.category == site.data.language.str_Fine_Meals
+                or item.category == site.data.language.str_Foods
+                or item.category == site.data.language.str_Fruits
+                or item.category == site.data.language.str_Garden_Alcohol
+                or item.category == site.data.language.str_Garden_Soda
+                or item.category == site.data.language.str_Ingredients
+                or item.category == site.data.language.str_Lavish_Meals
+                or item.category == site.data.language.str_MRE_Rations
+                or item.category == site.data.language.str_Meals
+                or item.category == site.data.language.str_Processed_fruits
+                or item.category == site.data.language.str_Processed_grains
+                or item.category == site.data.language.str_Processed_meat
+                or item.category == site.data.language.str_Processed_Sweets
+                or item.category == site.data.language.str_raw_animal
+                or item.category == site.data.language.str_raw_fish
+                or item.category == site.data.language.str_raw_fruits
+                or item.category == site.data.language.str_raw_grains
+                or item.category == site.data.language.str_raw_meat
+                or item.category == site.data.language.str_raw_vege
+                or item.category == site.data.language.str_raw_vegetarian
+                or item.category == site.data.language.str_simple_meals
+                or item.category == site.data.language.str_snacks
+                or item.category == site.data.language.str_sweets
+        
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
+
+<div id="drugs" class="tabcontent">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('drugs')"
+        placeholder="{{- site.data.language.str_drugs_search -}}">
+
+    <table style="display: table" class="sortable">
+        <tr>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Category</th>
+        </tr>
+
+        {%- for item in site.data.StoreItems.items -%}
+        {%- if item.price >= 0 
+               and item.category == site.data.language.str_drugs 
+                or item.category == site.data.language.str_alcohol_precursor
+                or item.category == site.data.language.str_plant_matter
+                or item.category == site.data.language.str_Garden_Alcohol
+        -%}
+        <tr>
+            
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+
+        </tr>
+        {%- endif -%}
+        {%- endfor -%}
+    </table>
+</div>
+
 <div id="furniture" class="tabcontent">
     <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('furniture')"
         placeholder="{{- site.data.language.str_furniture_search -}}">
@@ -249,7 +363,7 @@ title: Shop
                 {%- endcapture -%}
 
                 {%- if temp != "" -%}
-                <span style="font-style:italic; color: #5a5454; font-size: 17px;">
+                <span style="font-style:italic; color: #09cbd4; font-size: 17px;">
                     <br />
                     <br />
                     {{- site.data.language.str_trait_stats -}}
@@ -267,7 +381,7 @@ title: Shop
                 {%- endcapture -%}
 
                 {%- if nameTemp != "" -%}
-                <span style="font-style:italic; color: #5a5454; font-size: 17px;">
+                <span style="font-style:italic; color: #09cbd4; font-size: 17px;">
                     {%- if temp == "" -%}
                     <br />
                     <br />
