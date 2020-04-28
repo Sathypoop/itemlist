@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
 title: "Sathy's Wee Rimworld Shop"
 favicon: assets/img/favicon.png
 description: >-
@@ -54,3 +55,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+sass:
+  sass_dir: _sass
