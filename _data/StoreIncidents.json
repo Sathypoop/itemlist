@@ -201,6 +201,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "mechanoidraid",
+		"price": 7000,
+		"karmatype": "Doom"
+	},
+	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -248,7 +253,7 @@
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -311,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 63
 }

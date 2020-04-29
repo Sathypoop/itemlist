@@ -113,7 +113,6 @@ str_drugs: 'Drugs'
 str_drugs_search: 'Search for drug items...'
 str_alcohol_precursor: 'Alcohol precursor'
 str_drugs: 'Drugs'
-str_plant_matter: 'Plant matter'
 
 str_no_commands: 'These are not the commands you are looking for.'
 str_items: 'All Items'
