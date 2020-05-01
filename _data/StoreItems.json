@@ -10566,6 +10566,1200 @@
 		"category": "Animal",
 		"defname": "AA_ShockGoat"
 	},
+	{
+		"abr": "shockgoatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_ShockGoat"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 725,
+		"category": "Security",
+		"defname": "Turret_ShredderTurret"
+	},
+	{
+		"abr": "siegeturret",
+		"price": 2333,
+		"category": "Ranged weapons",
+		"defname": "AA_SiegeTurret"
+	},
+	{
+		"abr": "sigtread",
+		"price": 550,
+		"category": "AR style rifle",
+		"defname": "RNGun_SIGM400Tread"
+	},
+	{
+		"abr": "silage",
+		"price": 2,
+		"category": "Animal Feed",
+		"defname": "Silage"
+	},
+	{
+		"abr": "silentjaw",
+		"price": 583,
+		"category": "Bionic",
+		"defname": "SilentJaw"
+	},
+	{
+		"abr": "simpleanimalearimplant",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "EarAnimalSimple"
+	},
+	{
+		"abr": "simpleanimaljawimplant",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "JawAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalnose",
+		"price": 121,
+		"category": "Animal Body Part",
+		"defname": "NoseAnimalSimple"
+	},
+	{
+		"abr": "simpleanimalspine",
+		"price": 202,
+		"category": "Animal Body Part",
+		"defname": "SpineAnimalSimple"
+	},
+	{
+		"abr": "simplechair",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "RGK_SimpleChair"
+	},
+	{
+		"abr": "simpleprostheticanimalarm",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticArmAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimalleg",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "SimpleProstheticLegAnimal"
+	},
+	{
+		"abr": "simpleprostheticanimaltail",
+		"price": 112,
+		"category": "Animal Body Part",
+		"defname": "ProstheticTailAnimal"
+	},
+	{
+		"abr": "simpleprostheticbuoyancymechanism",
+		"price": 533,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticBuoyancyMechanism"
+	},
+	{
+		"abr": "simpleprostheticclaw",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AB_SimpleProstheticClaw"
+	},
+	{
+		"abr": "simpleprostheticfoot",
+		"price": 475,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFoot"
+	},
+	{
+		"abr": "simpleprosthetichand",
+		"price": 475,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHand"
+	},
+	{
+		"abr": "simpleprostheticshell",
+		"price": 260,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticShell"
+	},
+	{
+		"abr": "simpleprosthetictentacle",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticTentacle"
+	},
+	{
+		"abr": "simpleprostheticwing",
+		"price": 234,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticWing"
+	},
+	{
+		"abr": "simpleresearchbench",
+		"price": 350,
+		"category": "Production",
+		"defname": "RGK_SimpleResearchBench"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "singleactionarmy",
+		"price": 169,
+		"category": "Revolver",
+		"defname": "RNGun_ColtPeacemaker_II"
+	},
+	{
+		"abr": "skimpydress",
+		"price": 298,
+		"category": "Combat uniform",
+		"defname": "RNApparel_SkimpyDress"
+	},
+	{
+		"abr": "skinnerknife",
+		"price": 111,
+		"category": "Melee weapons",
+		"defname": "RNMeleeWeapon_Knife_Skinner"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "skorpionvz.61",
+		"price": 525,
+		"category": "SMG and PDW",
+		"defname": "RNGun_SkorpionVZ61_PDW"
+	},
+	{
+		"abr": "skorpionvz.61sd",
+		"price": 567,
+		"category": "SMG and PDW",
+		"defname": "RNGun_SkorpionVZ61SD_PDW"
+	},
+	{
+		"abr": "sksdmr",
+		"price": 600,
+		"category": "DMR",
+		"defname": "RNGun_SKSDMR"
+	},
+	{
+		"abr": "sksdmr-sd",
+		"price": 625,
+		"category": "DMR",
+		"defname": "RNGun_SKSSDDMR"
+	},
+	{
+		"abr": "skysteel",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "AA_SkySteel"
+	},
+	{
+		"abr": "skymindrelaytower",
+		"price": 1292,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindRelayTower"
+	},
+	{
+		"abr": "skymindv1antenna",
+		"price": 1400,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindLAN"
+	},
+	{
+		"abr": "skymindv2antenna",
+		"price": 4967,
+		"category": "Misc",
+		"defname": "ATPP_SkyMindWAN"
+	},
+	{
+		"abr": "slurrypede",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AA_Slurrypede"
+	},
+	{
+		"abr": "slurrypedemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Slurrypede"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallshieldgenerator",
+		"price": 3983,
+		"category": "Security",
+		"defname": "VFES_ShieldGenerator_Small"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "smaw",
+		"price": 3333,
+		"category": "Rocket launcher",
+		"defname": "RNEx_SMAWRL"
+	},
+	{
+		"abr": "smithingcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "smockdpm",
+		"price": 315,
+		"category": "Combat jackets",
+		"defname": "RNApparel_Parka"
+	},
+	{
+		"abr": "smokegrenade",
+		"price": 14,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "smoothie",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "smoothie"
+	},
+	{
+		"abr": "sneakingsuitmsf",
+		"price": 708,
+		"category": "Combat uniform",
+		"defname": "RNApparel_SneakingSuit_MSF"
+	},
+	{
+		"abr": "sniperturret",
+		"price": 1075,
+		"category": "Security",
+		"defname": "Turret_SniperTurret"
+	},
+	{
+		"abr": "snipexm75",
+		"price": 942,
+		"category": "AMR",
+		"defname": "RNGun_SNIPEXM75Sn"
+	},
+	{
+		"abr": "snowbeet",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "Rawsnowbeet"
+	},
+	{
+		"abr": "socommk23",
+		"price": 325,
+		"category": "Pistol",
+		"defname": "RNGun_MK23P"
+	},
+	{
+		"abr": "sodatable",
+		"price": 302,
+		"category": "Production",
+		"defname": "CPD_DrinksTable"
+	},
+	{
+		"abr": "soflam",
+		"price": 2000,
+		"category": "Air support",
+		"defname": "RNAir_SOFLAM"
+	},
+	{
+		"abr": "softarmorvest",
+		"price": 239,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_BulletproofVest"
+	},
+	{
+		"abr": "soldierimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SoldierMindImplant"
+	},
+	{
+		"abr": "spas-12",
+		"price": 408,
+		"category": "Shotgun",
+		"defname": "RNGun_SPAS12S"
+	},
+	{
+		"abr": "spectre(codered)",
+		"price": 2000,
+		"category": "Air support",
+		"defname": "RNAir_RedSpectre"
+	},
+	{
+		"abr": "spectreairbombardment",
+		"price": 3333,
+		"category": "Air support",
+		"defname": "RNAir_Spectre"
+	},
+	{
+		"abr": "sprat",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSprat"
+	},
+	{
+		"abr": "sr-25",
+		"price": 658,
+		"category": "DMR",
+		"defname": "RNGun_SR25DMR"
+	},
+	{
+		"abr": "ssg08",
+		"price": 692,
+		"category": "Bolt action",
+		"defname": "RNGun_SSG08Sn"
+	},
+	{
+		"abr": "ssmturret",
+		"price": 2383,
+		"category": "Security",
+		"defname": "RNTurret_SSM"
+	},
+	{
+		"abr": "standardturret",
+		"price": 900,
+		"category": "Security",
+		"defname": "Turret_StandardTurret"
+	},
+	{
+		"abr": "steelarm",
+		"price": 173,
+		"category": "Simple parts",
+		"defname": "SteelArm"
+	},
+	{
+		"abr": "steelframing",
+		"price": 833,
+		"category": "Android",
+		"defname": "SteelPlating"
+	},
+	{
+		"abr": "steyrauga2",
+		"price": 800,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_AUGA2AR"
+	},
+	{
+		"abr": "steyrauga3sd",
+		"price": 792,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_AUGA3SDAR"
+	},
+	{
+		"abr": "steyrscout",
+		"price": 508,
+		"category": "Bolt action",
+		"defname": "RNGun_SteyrScoutSn"
+	},
+	{
+		"abr": "stickbomb",
+		"price": 43,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeStickBomb"
+	},
+	{
+		"abr": "stirfry",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "stirfry"
+	},
+	{
+		"abr": "stomach",
+		"price": 1667,
+		"category": "Natural",
+		"defname": "Stomach"
+	},
+	{
+		"abr": "stonewarmask",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_StoneWarMask"
+	},
+	{
+		"abr": "structuregel",
+		"price": 58,
+		"category": "Drugs",
+		"defname": "StructureGel"
+	},
+	{
+		"abr": "stunningturret",
+		"price": 450,
+		"category": "Security",
+		"defname": "Turret_StunningTurret"
+	},
+	{
+		"abr": "sugar",
+		"price": 7,
+		"category": "Ingredients",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "sugarcanemash",
+		"price": 17,
+		"category": "Alcohol precursor",
+		"defname": "VG_CaneMash"
+	},
+	{
+		"abr": "sugarcane",
+		"price": 3,
+		"category": "Ingredients",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "suitjacketblack",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Black"
+	},
+	{
+		"abr": "suitjacketblue",
+		"price": 275,
+		"category": "Formal jackets",
+		"defname": "RNApparel_Blazer_Blue"
+	},
+	{
+		"abr": "summitcrab",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "AA_SummitCrab"
+	},
+	{
+		"abr": "summitcrabmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_SummitCrab"
+	},
+	{
+		"abr": "superseducerimplant",
+		"price": 3717,
+		"category": "Bionic",
+		"defname": "RH_AestheticShaper"
+	},
+	{
+		"abr": "supernova",
+		"price": 325,
+		"category": "Shotgun",
+		"defname": "RNGun_Supernova"
+	},
+	{
+		"abr": "super-shorty",
+		"price": 219,
+		"category": "Shotgun",
+		"defname": "RNGun_SuperShorty"
+	},
+	{
+		"abr": "surrogatekidney",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateKidney"
+	},
+	{
+		"abr": "surrogateliver",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateLiver"
+	},
+	{
+		"abr": "surrogatelung",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateLung"
+	},
+	{
+		"abr": "surrogatestomach",
+		"price": 583,
+		"category": "Prosthetic",
+		"defname": "SurrogateStomach"
+	},
+	{
+		"abr": "sv-98",
+		"price": 658,
+		"category": "Bolt action",
+		"defname": "RNGun_SV98Sn"
+	},
+	{
+		"abr": "svk",
+		"price": 575,
+		"category": "DMR",
+		"defname": "RNGun_SVKDMR"
+	},
+	{
+		"abr": "swarmling",
+		"price": 58,
+		"category": "Animal",
+		"defname": "AA_Swarmling"
+	},
+	{
+		"abr": "swarmlingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_Swarmling"
+	},
+	{
+		"abr": "sweetbun",
+		"price": 42,
+		"category": "Fine Meals",
+		"defname": "sweetbun"
+	},
+	{
+		"abr": "sweetstable",
+		"price": 217,
+		"category": "Production",
+		"defname": "CandyTable"
+	},
+	{
+		"abr": "swordfish",
+		"price": 25,
+		"category": "Raw fish",
+		"defname": "VCEF_RawSwordfish"
+	},
+	{
+		"abr": "synthetickidney",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticKidney"
+	},
+	{
+		"abr": "syntheticliver",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticLiver"
+	},
+	{
+		"abr": "syntheticlung",
+		"price": 1183,
+		"category": "Bionic",
+		"defname": "SyntheticLung"
+	},
+	{
+		"abr": "syrup",
+		"price": 13,
+		"category": "Garden soda",
+		"defname": "CPD_Syrup"
+	},
+	{
+		"abr": "t1android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android1Tier"
+	},
+	{
+		"abr": "t2android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android2Tier"
+	},
+	{
+		"abr": "t3android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android3Tier"
+	},
+	{
+		"abr": "t4android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android4Tier"
+	},
+	{
+		"abr": "t5android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Android5Tier"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "RGK_TableA"
+	},
+	{
+		"abr": "table(2x2)",
+		"price": 229,
+		"category": "Furniture",
+		"defname": "RGK_TableC"
+	},
+	{
+		"abr": "tablewareshelf",
+		"price": 279,
+		"category": "Misc",
+		"defname": "GL_TablewareShelf"
+	},
+	{
+		"abr": "tac-50",
+		"price": 950,
+		"category": "AMR",
+		"defname": "RNGun_TAC50Sn"
+	},
+	{
+		"abr": "tacos",
+		"price": 25,
+		"category": "Fine Meals",
+		"defname": "Tacos"
+	},
+	{
+		"abr": "tacticalcorneaimplant",
+		"price": 4167,
+		"category": "Archotech",
+		"defname": "TacticalCorneaImplant"
+	},
+	{
+		"abr": "tacticaljacket",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket"
+	},
+	{
+		"abr": "tacticaljacketlmmc",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_LMM"
+	},
+	{
+		"abr": "tacticaljacketm81",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_M81C"
+	},
+	{
+		"abr": "tacticaljacketmulticam",
+		"price": 275,
+		"category": "Combat jackets",
+		"defname": "RNApparel_TacticalJacket_Multicam"
+	},
+	{
+		"abr": "tacticalsocks",
+		"price": 50,
+		"category": "Footwear",
+		"defname": "RNFootwear_TacticalSocks"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 198,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "taffy",
+		"price": 42,
+		"category": "Sweets",
+		"defname": "Taffy"
+	},
+	{
+		"abr": "tailorcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "taintedskin",
+		"price": 13,
+		"category": "Leathers",
+		"defname": "Tainted_Skin"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "tankexplorerblue",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel__Tank_ExplorerA"
+	},
+	{
+		"abr": "tankexplorerred",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_ExplorerB"
+	},
+	{
+		"abr": "tanktelnyashka",
+		"price": 265,
+		"category": "Casual",
+		"defname": "RNApparel_Tank_Tenlyashka"
+	},
+	{
+		"abr": "targuzzler",
+		"price": 250,
+		"category": "Animal",
+		"defname": "AA_TarGuzzler"
+	},
+	{
+		"abr": "targuzzlermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_TarGuzzler"
+	},
+	{
+		"abr": "tar-21contractor",
+		"price": 767,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_TAR-21_ContractorAR"
+	},
+	{
+		"abr": "tazingturret",
+		"price": 633,
+		"category": "Security",
+		"defname": "Turret_TazingTurret"
+	},
+	{
+		"abr": "tealeaves",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "Rawtea"
+	},
+	{
+		"abr": "teaset",
+		"price": 67,
+		"category": "Furniture",
+		"defname": "RGK_Teaset"
+	},
+	{
+		"abr": "tec-9",
+		"price": 288,
+		"category": "Pistol",
+		"defname": "RNGun_TEC-9P"
+	},
+	{
+		"abr": "techprint(repulsortechnology)",
+		"price": 1667,
+		"category": "Techprints",
+		"defname": "Techprint_VFES_RepulsorTechnology"
+	},
+	{
+		"abr": "teddybear",
+		"price": 67,
+		"category": "Furniture",
+		"defname": "GL_Teddy"
+	},
+	{
+		"abr": "tequila",
+		"price": 40,
+		"category": "Garden alcohol",
+		"defname": "tequila"
+	},
+	{
+		"abr": "teratogenicoriginator",
+		"price": 1417,
+		"category": "Animal",
+		"defname": "AA_TeratogenicOriginator"
+	},
+	{
+		"abr": "teratogenicoriginatormeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_TeratogenicOriginator"
+	},
+	{
+		"abr": "tetraslug",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "AA_TetraSlug"
+	},
+	{
+		"abr": "tetraslugmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AA_TetraSlug"
+	},
+	{
+		"abr": "therapycouch",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "Couch"
+	},
+	{
+		"abr": "thermadon",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AA_Thermadon"
+	},
+	{
+		"abr": "thermalhat(british)",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_ThermalHat_British"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "thompsonsmg",
+		"price": 608,
+		"category": "SMG and PDW",
+		"defname": "RNGun_ThompsonSMG_PDW"
+	},
+	{
+		"abr": "tissueprinter",
+		"price": 3900,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "tobacco",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RawTobacco"
+	},
+	{
+		"abr": "tofu",
+		"price": 23,
+		"category": "Meat",
+		"defname": "Rawtofu"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "tracksuitjacketblue",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Blue"
+	},
+	{
+		"abr": "tracksuitjacketred",
+		"price": 275,
+		"category": "Casual jackets",
+		"defname": "RNApparel_Tracksuit_Red"
+	},
+	{
+		"abr": "trainers",
+		"price": 158,
+		"category": "Footwear",
+		"defname": "RNFootwear_Generic_Trainers"
+	},
+	{
+		"abr": "trainers(5.11recon)",
+		"price": 158,
+		"category": "Footwear",
+		"defname": "RNFootwear_511RECON_Trainers"
+	},
+	{
+		"abr": "trainers(newbalance775)",
+		"price": 158,
+		"category": "Footwear",
+		"defname": "RNFootwear_NewBalance775_Trainers"
+	},
+	{
+		"abr": "trainers(nikeairjordan)",
+		"price": 158,
+		"category": "Footwear",
+		"defname": "RNFootwear_NikeAirJordan_Trainers"
+	},
+	{
+		"abr": "trainers(nikerunallday)",
+		"price": 158,
+		"category": "Footwear",
+		"defname": "RNFootwear_NikeRunallday_Trainers"
+	},
+	{
+		"abr": "trenchcoatbrown",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Brown"
+	},
+	{
+		"abr": "trenchcoatgray",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_Gray"
+	},
+	{
+		"abr": "trenchcoatpubg",
+		"price": 327,
+		"category": "Casual jackets",
+		"defname": "RNApparel_TrenchCoat_PUBG"
+	},
+	{
+		"abr": "tribalbackpack",
+		"price": 97,
+		"category": "Loadbearing gear",
+		"defname": "Apparel_TribalBackpack"
+	},
+	{
+		"abr": "tricorderimplant",
+		"price": 2667,
+		"category": "Android",
+		"defname": "SurgeonMindImplant"
+	},
+	{
+		"abr": "trout",
+		"price": 3,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTrout"
+	},
+	{
+		"abr": "tt-30",
+		"price": 281,
+		"category": "Pistol",
+		"defname": "RNGun_TT30P"
+	},
+	{
+		"abr": "tuna",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_RawTuna"
+	},
+	{
+		"abr": "tuquem81",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_M81Tuque"
+	},
+	{
+		"abr": "tuquemulticam",
+		"price": 91,
+		"category": "Hats",
+		"defname": "RNApparel_MulticamTuque"
+	},
+	{
+		"abr": "type56",
+		"price": 600,
+		"category": "AK style rifle",
+		"defname": "RNGun_Type56AR"
+	},
+	{
+		"abr": "type88",
+		"price": 817,
+		"category": "DMR",
+		"defname": "RNGun_QBU88DMR"
+	},
+	{
+		"abr": "type97",
+		"price": 700,
+		"category": "Bullpup rifle",
+		"defname": "RNGun_Type97AR"
+	},
+	{
+		"abr": "type99",
+		"price": 883,
+		"category": "AMR",
+		"defname": "RNGun_M99AMR"
+	},
+	{
+		"abr": "ump45",
+		"price": 583,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45_PDW"
+	},
+	{
+		"abr": "ump45contractor",
+		"price": 583,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45Contractor_PDW"
+	},
+	{
+		"abr": "ump45hrt",
+		"price": 583,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45HRT_PDW"
+	},
+	{
+		"abr": "ump45sd",
+		"price": 625,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UMP45SD_PDW"
+	},
+	{
+		"abr": "undistilledvodka",
+		"price": 3,
+		"category": "Alcohol precursor",
+		"defname": "CPD_VodkaPrecursor"
+	},
+	{
+		"abr": "unicorn",
+		"price": 917,
+		"category": "Animal",
+		"defname": "MM_Unicorn"
+	},
+	{
+		"abr": "unicornmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MM_Unicorn"
+	},
+	{
+		"abr": "unrefineduraniumcrystals",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "AA_UraniumCrystals"
+	},
+	{
+		"abr": "upgradecabinet",
+		"price": 717,
+		"category": "Furniture",
+		"defname": "AndroidOperationKit"
+	},
+	{
+		"abr": "upgradekit",
+		"price": 50,
+		"category": "Manufactured",
+		"defname": "RepairKitAT"
+	},
+	{
+		"abr": "usas-12",
+		"price": 658,
+		"category": "Shotgun",
+		"defname": "RNGun_USAS12S"
+	},
+	{
+		"abr": "usp45sd",
+		"price": 306,
+		"category": "Pistol",
+		"defname": "RNGun_USP45SD"
+	},
+	{
+		"abr": "uts-15",
+		"price": 367,
+		"category": "Shotgun",
+		"defname": "RNGun_UTS15S"
+	},
+	{
+		"abr": "uzi",
+		"price": 583,
+		"category": "SMG and PDW",
+		"defname": "RNGun_Uzi_PDW"
+	},
+	{
+		"abr": "uzisd",
+		"price": 608,
+		"category": "SMG and PDW",
+		"defname": "RNGun_UziSD_PDW"
+	},
+	{
+		"abr": "veganeggsubstitute",
+		"price": 3,
+		"category": "Eggs (unfert.)",
+		"defname": "VeganEgg"
+	},
+	{
+		"abr": "virtushelmet",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet"
+	},
+	{
+		"abr": "virtushelmet(fullmasked)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_FullMasked"
+	},
+	{
+		"abr": "virtushelmet(goggledown)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_GoggleDown"
+	},
+	{
+		"abr": "virtushelmet(goggleup)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_GoggleUp"
+	},
+	{
+		"abr": "virtushelmet(gsrgasmask)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_GSRGasmask"
+	},
+	{
+		"abr": "virtushelmet(marine)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_CamCream"
+	},
+	{
+		"abr": "virtushelmet(masked)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_Masked"
+	},
+	{
+		"abr": "virtushelmet(para)",
+		"price": 442,
+		"category": "Helmets",
+		"defname": "RNApparel_VIRTUSHelmet_Scrim"
+	},
+	{
+		"abr": "virtusstvbodyarmor",
+		"price": 433,
+		"category": "Body armor",
+		"defname": "RHApparel_VIRTUSSTV_Vest"
+	},
+	{
+		"abr": "vitalscentre",
+		"price": 1125,
+		"category": "Misc",
+		"defname": "Facility_VitalsCentre"
+	},
+	{
+		"abr": "vodka",
+		"price": 27,
+		"category": "Garden alcohol",
+		"defname": "vodka"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 625,
+		"category": "DMR",
+		"defname": "RNGun_VSSDMR"
+	},
+	{
+		"abr": "vssvintorezcontractor",
+		"price": 625,
+		"category": "DMR",
+		"defname": "RNGun_VSSContractorDMR"
+	},
+	{
+		"abr": "vssvintorezmaverick",
+		"price": 625,
+		"category": "DMR",
+		"defname": "RNGun_VSSDMRMaverick"
+	},
+	{
+		"abr": "vx0neuralchip",
+		"price": 417,
+		"category": "Android",
+		"defname": "ATPP_VX0Chip"
+	},
 	],
-	"total": 2121
+	"total": 2071
 }
