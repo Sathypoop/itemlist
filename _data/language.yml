@@ -71,7 +71,7 @@ str_Ultratech: 'Ultatech'
 #Furniture Search
 str_furniture: 'Furniture'
 str_furniture_search: 'Search for furniture...'
-str_Hygiene: 'Hygiene'
+str_Hygiene: 'Art'
 
 #Animal Search
 str_animals: 'Animals'
