@@ -11,6 +11,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "rain",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "vomitrain",
 		"price": 1000,
 		"karmatype": "Neutral"
@@ -316,5 +321,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 63
+	"total": 64
 }
