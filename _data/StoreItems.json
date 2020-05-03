@@ -842,7 +842,7 @@
 	},
 	{
 		"abr": "platearmor",
-		"price": 750,
+		"price": 1250,
 		"category": "Armour",
 		"defname": "Apparel_PlateArmor"
 	},
@@ -2312,7 +2312,7 @@
 	},
 	{
 		"abr": "greengoo",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_GreenGoo"
 	},
@@ -2378,7 +2378,7 @@
 	},
 	{
 		"abr": "infectedaerofleet",
-		"price": 300,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_InfectedAerofleet"
 	},
@@ -2516,7 +2516,7 @@
 	},
 	{
 		"abr": "larvalatispec",
-		"price": 25,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
 	},
@@ -2678,7 +2678,7 @@
 	},
 	{
 		"abr": "answeller(leg)",
-		"price": 14500,
+		"price": 20000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_SwordAnsweller_Leg"
 	},
@@ -2786,7 +2786,7 @@
 	},
 	{
 		"abr": "arcanespell:gateway",
-		"price": 4767,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_FoldReality"
 	},
@@ -2882,13 +2882,13 @@
 	},
 	{
 		"abr": "arcanetome:technomancy",
-		"price": 5500,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfMagitech"
 	},
 	{
 		"abr": "archer'sbracers",
-		"price": 109,
+		"price": 359,
 		"category": "Armour",
 		"defname": "MedTimes_Bracer_Archer"
 	},
@@ -2966,7 +2966,7 @@
 	},
 	{
 		"abr": "ballista",
-		"price": 332,
+		"price": 750,
 		"category": "Security",
 		"defname": "MedTimes_Turret_Ballista"
 	},
@@ -2996,7 +2996,7 @@
 	},
 	{
 		"abr": "bardspell:battlehymn",
-		"price": 2750,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BattleHymn"
 	},
@@ -3026,7 +3026,7 @@
 	},
 	{
 		"abr": "bascinet",
-		"price": 138,
+		"price": 388,
 		"category": "Armour",
 		"defname": "MedTimes_Helm_Bascinet"
 	},
@@ -3128,7 +3128,7 @@
 	},
 	{
 		"abr": "berserker'schain",
-		"price": 70,
+		"price": 320,
 		"category": "Armour",
 		"defname": "MedTimes_Berserker"
 	},
@@ -3170,7 +3170,7 @@
 	},
 	{
 		"abr": "blackheart(leg)",
-		"price": 12167,
+		"price": 20000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_KnifeBlackheart_Leg"
 	},
@@ -3188,13 +3188,13 @@
 	},
 	{
 		"abr": "bloodblade(leg)",
-		"price": 13500,
+		"price": 20000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_AxeBlood_Leg"
 	},
 	{
 		"abr": "bloodmagespell:bloodmoon",
-		"price": 3750,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_BloodMoon"
 	},
@@ -3260,13 +3260,13 @@
 	},
 	{
 		"abr": "bracersofdefense",
-		"price": 1483,
+		"price": 1750,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
 		"abr": "bracersofdeflection",
-		"price": 1558,
+		"price": 1750,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfDeflection"
 	},
@@ -3296,7 +3296,7 @@
 	},
 	{
 		"abr": "brigandine",
-		"price": 342,
+		"price": 542,
 		"category": "Armour",
 		"defname": "MedTimes_Brigandine"
 	},
@@ -3350,7 +3350,7 @@
 	},
 	{
 		"abr": "caladbog(leg)",
-		"price": 13000,
+		"price": 20000,
 		"category": "Legendary",
 		"defname": "MedTimes_Melee_SwordCaladbog_Leg"
 	},
@@ -3368,7 +3368,7 @@
 	},
 	{
 		"abr": "cannon",
-		"price": 650,
+		"price": 1200,
 		"category": "Security",
 		"defname": "Turret_Cannon"
 	},
@@ -3434,7 +3434,7 @@
 	},
 	{
 		"abr": "catapult",
-		"price": 575,
+		"price": 800,
 		"category": "Security",
 		"defname": "MedTimes__Artillery_Catapult"
 	},
@@ -3512,7 +3512,7 @@
 	},
 	{
 		"abr": "chronomancerspell:recall",
-		"price": 3333,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_Recall"
 	},
@@ -3551,7 +3551,7 @@
 		"price": 567,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Claymore"
-	}
+	},
 	],
 	"total": 1572
 }
