@@ -11,6 +11,11 @@
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "clearweather",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "rain",
 		"price": 500,
 		"karmatype": "Good"
@@ -18,6 +23,11 @@
 	{
 		"abr": "vomitrain",
 		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "foggyrain",
+		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
@@ -31,8 +41,28 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "heatwave",
 		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -116,16 +146,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "ambrosiasprout",
 		"price": 150,
 		"karmatype": "Good"
@@ -178,12 +198,7 @@
 	{
 		"abr": "raid",
 		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "dropraid",
-		"price": 2500,
-		"karmatype": "Doom"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
@@ -193,11 +208,6 @@
 	{
 		"abr": "siegeraid",
 		"price": 3500,
-		"karmatype": "Doom"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 7000,
 		"karmatype": "Doom"
 	},
 	{
@@ -276,11 +286,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "reviveall",
 		"price": 22664,
 		"karmatype": "Good"
@@ -311,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 63
 }
