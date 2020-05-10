@@ -3554,7 +3554,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": 108,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -7058,7 +7058,7 @@
 	},
 	{
 		"abr": "larvalatispec",
-		"price": 75,
+		"price": 105,
 		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
 	},
