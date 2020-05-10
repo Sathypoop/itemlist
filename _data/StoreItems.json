@@ -590,7 +590,7 @@
 	},
 	{
 		"abr": "candle",
-		"price": 22,
+		"price": 62,
 		"category": "Furniture",
 		"defname": "AYCandle"
 	},
@@ -692,7 +692,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": 103,
 		"category": "Animal",
 		"defname": "Chicken"
 	},
@@ -929,12 +929,6 @@
 		"price": 4292,
 		"category": "Skill books",
 		"defname": "BookOfBladedancer"
-	},
-	{
-		"abr": "combatstyle:commander",
-		"price": -10,
-		"category": "Skill books",
-		"defname": "BookOfCommander"
 	},
 	{
 		"abr": "combatstyle:deathknight",
@@ -1748,7 +1742,7 @@
 	},
 	{
 		"abr": "granitechunk",
-		"price": 18,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkGranite"
 	},
@@ -1886,7 +1880,7 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": 103,
 		"category": "Animal",
 		"defname": "Hare"
 	},
@@ -2084,7 +2078,7 @@
 	},
 	{
 		"abr": "humanmeat",
-		"price": 1,
+		"price": 4,
 		"category": "Meat",
 		"defname": "Meat_Human"
 	},
@@ -2264,7 +2258,7 @@
 	},
 	{
 		"abr": "lamp",
-		"price": 42,
+		"price": 142,
 		"category": "Furniture",
 		"defname": "RGK_lamp"
 	},
@@ -2282,19 +2276,19 @@
 	},
 	{
 		"abr": "lampm",
-		"price": 42,
+		"price": 142,
 		"category": "Furniture",
 		"defname": "RGK_LampM"
 	},
 	{
 		"abr": "lampm(white)",
-		"price": 42,
+		"price": 142,
 		"category": "Furniture",
 		"defname": "GL_LampM_White"
 	},
 	{
 		"abr": "lamp(white)",
-		"price": 42,
+		"price": 142,
 		"category": "Furniture",
 		"defname": "GL_lamp_White"
 	},
@@ -2402,7 +2396,7 @@
 	},
 	{
 		"abr": "limestonechunk",
-		"price": 16,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkLimestone"
 	},
@@ -2690,7 +2684,7 @@
 	},
 	{
 		"abr": "marblechunk",
-		"price": 13,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkMarble"
 	},
@@ -3122,7 +3116,7 @@
 	},
 	{
 		"abr": "plantpot",
-		"price": 68,
+		"price": 78,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
@@ -3248,7 +3242,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": 128,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -3284,7 +3278,7 @@
 	},
 	{
 		"abr": "replicaflower",
-		"price": 46,
+		"price": 66,
 		"category": "Furniture",
 		"defname": "RGK_Flower"
 	},
@@ -3374,7 +3368,7 @@
 	},
 	{
 		"abr": "sandstonechunk",
-		"price": 13,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSandstone"
 	},
@@ -3494,7 +3488,7 @@
 	},
 	{
 		"abr": "slatechunk",
-		"price": 14,
+		"price": -10,
 		"category": "Stone chunks",
 		"defname": "ChunkSlate"
 	},
@@ -3530,7 +3524,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": 103,
 		"category": "Animal",
 		"defname": "Snowhare"
 	},
@@ -4586,7 +4580,7 @@
 	},
 	{
 		"abr": "explosivepot",
-		"price": 50,
+		"price": -10,
 		"category": "Medieval Artillary",
 		"defname": "MedTimes_Resource_ExplosivePot"
 	},
@@ -4598,7 +4592,7 @@
 	},
 	{
 		"abr": "firepit",
-		"price": 52,
+		"price": -10,
 		"category": "Production",
 		"defname": "MedTimes_Firepit"
 	},
@@ -4766,7 +4760,7 @@
 	},
 	{
 		"abr": "graphicnovel",
-		"price": 25,
+		"price": -10,
 		"category": "Trade goods",
 		"defname": "MedTimes_GraphicNovel"
 	},
@@ -5036,7 +5030,7 @@
 	},
 	{
 		"abr": "aerofleet",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Aerofleet"
 	},
@@ -5198,7 +5192,7 @@
 	},
 	{
 		"abr": "bearofleet",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Bearofleet"
 	},
@@ -5228,7 +5222,7 @@
 	},
 	{
 		"abr": "behemoth",
-		"price": 8333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "FO_RBehemoth"
 	},
@@ -5294,7 +5288,7 @@
 	},
 	{
 		"abr": "blizzariskclutchmother",
-		"price": 1500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_BlizzariskClutchMother"
 	},
@@ -5390,7 +5384,7 @@
 	},
 	{
 		"abr": "bumbledroneegg(fert.)",
-		"price": 10,
+		"price": 30,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BumbledroneQueenEggFertilized"
 	},
@@ -5600,7 +5594,7 @@
 	},
 	{
 		"abr": "colossalaerofleet",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_ColossalAerofleet"
 	},
@@ -5702,7 +5696,7 @@
 	},
 	{
 		"abr": "dedue'searring",
-		"price": 26,
+		"price": 56,
 		"category": "Fire Emblem",
 		"defname": "FE3H_Earring"
 	},
@@ -5732,7 +5726,7 @@
 	},
 	{
 		"abr": "djinn",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Djinn"
 	},
@@ -5774,7 +5768,7 @@
 	},
 	{
 		"abr": "dunealiskclutchmother",
-		"price": 1500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_DunealiskClutchMother"
 	},
@@ -5798,7 +5792,7 @@
 	},
 	{
 		"abr": "duskrat",
-		"price": 58,
+		"price": 128,
 		"category": "Animal",
 		"defname": "AA_DuskRat"
 	},
@@ -5816,7 +5810,7 @@
 	},
 	{
 		"abr": "cobblestone",
-		"price": 36,
+		"price": 136,
 		"category": "Furniture",
 		"defname": "GloomyDeco_Stone"
 	},
@@ -5870,7 +5864,7 @@
 	},
 	{
 		"abr": "fiend",
-		"price": 6667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Fiend"
 	},
@@ -6236,7 +6230,7 @@
 	},
 	{
 		"abr": "flayn'shairclips",
-		"price": 26,
+		"price": 56,
 		"category": "Fire Emblem",
 		"defname": "FE3H_Clips"
 	},
@@ -6398,7 +6392,7 @@
 	},
 	{
 		"abr": "ghoul",
-		"price": 92,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Ghoul"
 	},
@@ -6548,13 +6542,13 @@
 	},
 	{
 		"abr": "goblinspiderbanner",
-		"price": 51,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Goblin_SpiderBanner"
 	},
 	{
 		"abr": "goblinspikedbrazier",
-		"price": 35,
+		"price": 135,
 		"category": "Furniture",
 		"defname": "Goblin_Brazier"
 	},
@@ -6578,7 +6572,7 @@
 	},
 	{
 		"abr": "goblinwallbanner",
-		"price": 51,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Goblin_WallBanner"
 	},
@@ -6644,7 +6638,7 @@
 	},
 	{
 		"abr": "greatdevourer",
-		"price": 667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_GreatDevourer"
 	},
@@ -6716,7 +6710,7 @@
 	},
 	{
 		"abr": "greengoo",
-		"price": 208,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_GreenGoo"
 	},
@@ -6848,7 +6842,7 @@
 	},
 	{
 		"abr": "ignatz'sglasses",
-		"price": 25,
+		"price": 55,
 		"category": "Fire Emblem",
 		"defname": "FE3H_Glasses"
 	},
@@ -6860,7 +6854,7 @@
 	},
 	{
 		"abr": "infectedaerofleet",
-		"price": 300,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_InfectedAerofleet"
 	},
@@ -7064,7 +7058,7 @@
 	},
 	{
 		"abr": "larvalatispec",
-		"price": 25,
+		"price": 75,
 		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
 	},
@@ -7130,7 +7124,7 @@
 	},
 	{
 		"abr": "lorenz'srose",
-		"price": 40,
+		"price": 80,
 		"category": "Fire Emblem",
 		"defname": "FE3H_Rose"
 	},
@@ -7274,7 +7268,7 @@
 	},
 	{
 		"abr": "murkling",
-		"price": 58,
+		"price": 108,
 		"category": "Animal",
 		"defname": "FO_RMurkling"
 	},
@@ -7358,7 +7352,7 @@
 	},
 	{
 		"abr": "nekker",
-		"price": 25,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Nekker"
 	},
@@ -7460,7 +7454,7 @@
 	},
 	{
 		"abr": "ocularjelly",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_OcularJelly"
 	},
@@ -7688,7 +7682,7 @@
 	},
 	{
 		"abr": "redgoo",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_RedGoo"
 	},
@@ -7700,7 +7694,7 @@
 	},
 	{
 		"abr": "redspore",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_RedSpore"
 	},
@@ -7952,7 +7946,7 @@
 	},
 	{
 		"abr": "seteth'stiara",
-		"price": 26,
+		"price": 56,
 		"category": "Fire Emblem",
 		"defname": "FE3H_Tiara"
 	},
@@ -8132,7 +8126,7 @@
 	},
 	{
 		"abr": "spikedbarricade",
-		"price": 34,
+		"price": -10,
 		"category": "Security",
 		"defname": "Goblin_SpikedBarricade"
 	},
@@ -8144,7 +8138,7 @@
 	},
 	{
 		"abr": "steelcaltrops",
-		"price": 36,
+		"price": -10,
 		"category": "Security",
 		"defname": "MedTimes_Trap_Caltrops"
 	},
@@ -8222,19 +8216,19 @@
 	},
 	{
 		"abr": "storagepallet",
-		"price": 8,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "MedTimes_StoragePallet"
 	},
 	{
 		"abr": "storagepot",
-		"price": 17,
+		"price": 117,
 		"category": "Furniture",
 		"defname": "MedTimes_StoragePotPlaced"
 	},
 	{
 		"abr": "storagepot",
-		"price": 17,
+		"price": 117,
 		"category": "Trade goods",
 		"defname": "MedTimes_StoragePot"
 	},
@@ -8300,7 +8294,7 @@
 	},
 	{
 		"abr": "swarmling",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Swarmling"
 	},
@@ -8342,19 +8336,19 @@
 	},
 	{
 		"abr": "tailoredboots",
-		"price": 13,
+		"price": 53,
 		"category": "Footgear",
 		"defname": "MedTimes_Boots_Tailored"
 	},
 	{
 		"abr": "tailoredgloves",
-		"price": 13,
+		"price": 53,
 		"category": "Handgear",
 		"defname": "MedTimes_Gloves_Tailored"
 	},
 	{
 		"abr": "tailoredsocks",
-		"price": 25,
+		"price": 55,
 		"category": "Footgear",
 		"defname": "MedTimes_Socks_Tailored"
 	},
@@ -8558,7 +8552,7 @@
 	},
 	{
 		"abr": "tribalboots",
-		"price": 8,
+		"price": 58,
 		"category": "Footgear",
 		"defname": "MedTimes_Boots_Tribal"
 	},
@@ -8576,7 +8570,7 @@
 	},
 	{
 		"abr": "tribalwraps",
-		"price": 8,
+		"price": 58,
 		"category": "Handgear",
 		"defname": "MedTimes_Gloves_Tribal"
 	},
@@ -8972,7 +8966,7 @@
 	},
 	{
 		"abr": "window",
-		"price": 17,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "RGK_window"
 	},
@@ -8996,7 +8990,7 @@
 	},
 	{
 		"abr": "winterboots",
-		"price": 13,
+		"price": 53,
 		"category": "Footgear",
 		"defname": "MedTimes_Boots_Winter"
 	},
@@ -9068,7 +9062,7 @@
 	},
 	{
 		"abr": "woodenbarricade",
-		"price": 25,
+		"price": -10,
 		"category": "Security",
 		"defname": "MedTimes_Trap_WoodenBarricade"
 	},
@@ -9319,5 +9313,5 @@
 		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 1553
+	"total": 1552
 }
