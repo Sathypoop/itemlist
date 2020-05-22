@@ -57,7 +57,14 @@ title: Shop
         {%- if item.price >= 0 
                and item.category == site.data.language.str_Ranged_Weapons
                 or item.category == site.data.language.str_Melee_Weapons
-                or item.category == site.data.language.str_Nanite
+                or item.category == site.data.language.str_AR.
+                or item.category == site.data.language.str_BA
+              or item.category == site.data.language.str_DMR
+              or item.category == site.data.language.str_LMG
+              or item.category == site.data.language.str_Pistol
+              or item.category == site.data.language.str_Shotgun
+              or item.category == site.data.language.str_SMG
+              or item.category == site.data.language.str_Spacer
         -%}
         <tr>
             
@@ -87,12 +94,15 @@ title: Shop
                and item.category == site.data.language.str_apparel 
                 or item.category == site.data.language.str_Accessories
                 or item.category == site.data.language.str_Armor
-                or item.category == site.data.language.str_Fire_Emblem
+                or item.category == site.data.language.str_Loadbearing_Gear
                 or item.category == site.data.language.str_Magic_Equip
                 or item.category == site.data.language.str_Body_Gear
                 or item.category == site.data.language.str_Footwear
                 or item.category == site.data.language.str_Headgear
                 or item.category == site.data.language.str_Noble_Apparel
+                or item.category == site.data.language.str_BA
+                or item.category == site.data.language.str_CJ
+                or item.category == site.data.language.str_Helmet
         -%}
         <tr>
             
@@ -235,6 +245,7 @@ title: Shop
                 or item.category == site.data.language.str_alcohol_precursor
                 or item.category == site.data.language.str_plant_matter
                 or item.category == site.data.language.str_Garden_Alcohol
+                or item.category == site.data.language.str_DNET
         -%}
         <tr>
             

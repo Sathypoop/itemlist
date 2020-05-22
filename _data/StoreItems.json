@@ -4052,7 +4052,7 @@
 	},
 	{
 		"abr": "werewolf",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WMH_Werewolf"
 	},
@@ -4244,7 +4244,7 @@
 	},
 	{
 		"abr": "256kbattery",
-		"price": 35775,
+		"price": 30775,
 		"category": "Power",
 		"defname": "Battery256k"
 	},
@@ -4256,13 +4256,13 @@
 	},
 	{
 		"abr": "64kbattery",
-		"price": 7725,
+		"price": -10,
 		"category": "Power",
 		"defname": "Battery64k"
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AberrantFleshbeast"
 	},
@@ -5870,7 +5870,7 @@
 	},
 	{
 		"abr": "catwolf",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Catwolf"
 	},
@@ -8072,7 +8072,7 @@
 	},
 	{
 		"abr": "circuitbreaker(300k)",
-		"price": 5117,
+		"price": -10,
 		"category": "Power",
 		"defname": "Building_RTCircuitBreaker_300k"
 	},
@@ -9164,25 +9164,25 @@
 	},
 	{
 		"abr": "hybridbeargenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridBearGenesGenetrainer"
 	},
 	{
 		"abr": "hybridboomalopegenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridBoomalopeGenesGenetrainer"
 	},
 	{
 		"abr": "hybridcatgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridCatGenesGenetrainer"
 	},
 	{
 		"abr": "hybridchickengenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridChickenGenesGenetrainer"
 	},
@@ -9206,43 +9206,43 @@
 	},
 	{
 		"abr": "hybridinsectoidgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridInsectoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmechanoidgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridMechanoidGenesGenetrainer"
 	},
 	{
 		"abr": "hybridmuffalogenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridMuffaloGenesGenetrainer"
 	},
 	{
 		"abr": "hybridreptilegenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridReptileGenesGenetrainer"
 	},
 	{
 		"abr": "hybridrodentgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridRodentGenesGenetrainer"
 	},
 	{
 		"abr": "hybridthrumbogenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridThrumboGenesGenetrainer"
 	},
 	{
 		"abr": "hybridwolfgenesgenetrainer",
-		"price": 167,
+		"price": -10,
 		"category": "Genetrainers",
 		"defname": "GR_HybridWolfGenesGenetrainer"
 	},
@@ -10700,7 +10700,7 @@
 	},
 	{
 		"abr": "microscyther",
-		"price": 67,
+		"price": 97,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
@@ -11672,7 +11672,7 @@
 	},
 	{
 		"abr": "paragonchicken",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AlphaChicken"
 	},
@@ -11732,7 +11732,7 @@
 	},
 	{
 		"abr": "paragoniguana",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AlphaIguana"
 	},
@@ -11864,7 +11864,7 @@
 	},
 	{
 		"abr": "paragonwildboar",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_AlphaWildBoar"
 	},
@@ -14618,7 +14618,7 @@
 	},
 	{
 		"abr": "voidcellbattery",
-		"price": 15000,
+		"price": -10,
 		"category": "Power",
 		"defname": "VoidCell_Battery"
 	},
@@ -15812,7 +15812,7 @@
 	},
 	{
 		"abr": "chimera",
-		"price": 2750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mechanoid_Chimera"
 	},
@@ -16034,19 +16034,19 @@
 	},
 	{
 		"abr": "eldritchbearincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_EldritchBearIncubator"
 	},
 	{
 		"abr": "eldritchboomalopeincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_EldritchBoomalopeIncubator"
 	},
 	{
 		"abr": "eldritchchickenincubator",
-		"price": 75,
+		"price": -10,
 		"category": "Incubators",
 		"defname": "GR_EldritchChickenIncubator"
 	},
@@ -16055,7 +16055,283 @@
 		"price": 858,
 		"category": "Production",
 		"defname": "GR_EldritchGenePod"
+	},
+	{
+		"abr": "eldritchgeneticmaterial",
+		"price": -10,
+		"category": "Genetic materials",
+		"defname": "GR_EldritchGenetic"
+	},
+	{
+		"abr": "eldritchinsectjelly",
+		"price": 17,
+		"category": "Raw strange meat",
+		"defname": "GR_EldritchInsectJelly"
+	},
+	{
+		"abr": "eldritchinsectoidincubator",
+		"price": -10,
+		"category": "Incubators",
+		"defname": "GR_EldritchInsectoidIncubator"
+	},
+	{
+		"abr": "eldritchmilk",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "GR_EldritchMilk"
+	},
+	{
+		"abr": "eldritchmuffaloincubator",
+		"price": -10,
+		"category": "Incubators",
+		"defname": "GR_EldritchMuffaloIncubator"
+	},
+	{
+		"abr": "eldritchreptileincubator",
+		"price": -10,
+		"category": "Incubators",
+		"defname": "GR_EldritchReptileIncubator"
+	},
+	{
+		"abr": "eldritchthrumboincubator",
+		"price": -10,
+		"category": "Incubators",
+		"defname": "GR_EldritchThrumboIncubator"
+	},
+	{
+		"abr": "eldritchwolfincubator",
+		"price": -10,
+		"category": "Incubators",
+		"defname": "GR_EldritchWolfIncubator"
+	},
+	{
+		"abr": "eldritchwood",
+		"price": 3,
+		"category": "Raw resources",
+		"defname": "GR_DarkYoungWoodLog"
+	},
+	{
+		"abr": "eldritchwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_EldritchWool"
+	},
+	{
+		"abr": "formlessboomalopeoftsathoggua",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "GR_EldritchBoomalope"
+	},
+	{
+		"abr": "formlessboomalopeshiftskin",
+		"price": 12,
+		"category": "Leathers",
+		"defname": "GR_Shiftskin"
+	},
+	{
+		"abr": "formlessspawnmeat",
+		"price": 2,
+		"category": "Raw strange meat",
+		"defname": "GR_ROM_RawCHFood_FormlessMeat"
+	},
+	{
+		"abr": "snakeofyig",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GR_EldritchReptile"
+	},
+	{
+		"abr": "snakeofyigegg(fert.)",
+		"price": 15,
+		"category": "Raw strange meat",
+		"defname": "GR_EldritchReptileEggFertilized"
+	},
+	{
+		"abr": "snakeofyigegg(unfert.)",
+		"price": 15,
+		"category": "Raw strange meat",
+		"defname": "GR_EldritchReptileEggUnfertilized"
+	},
+	{
+		"abr": "starvampiremuffalo",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GR_EldritchMuffalo"
+	},
+	{
+		"abr": "wolf-sothoth",
+		"price": -10,
+		"category": "Animal",
+		"defname": "GR_EldritchWolf"
+	},
+	{
+		"abr": "guestandroidpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestclassydoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed2",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleBGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestm7pod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMechGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "rpg-32grenade(heat)",
+		"price": 121,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_HEAT"
+	},
+	{
+		"abr": "rpg-32grenade(thermobaric)",
+		"price": 224,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_Thermobaric"
+	},
+	{
+		"abr": "rpg-7grenade(frag)",
+		"price": 65,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Frag"
+	},
+	{
+		"abr": "rpg-7grenade(heat)",
+		"price": 96,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_HEAT"
+	},
+	{
+		"abr": "rpg-7grenade(thermobaric)",
+		"price": 206,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Thermobaric"
+	},
+	{
+		"abr": "scyther",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mech_Scyther"
+	},
+	{
+		"abr": "siegebreaker",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AA_Siegebreaker"
+	},
+	{
+		"abr": "skullywag",
+		"price": 600,
+		"category": "Animal",
+		"defname": "Mech_Skullywag"
+	},
+	{
+		"abr": "snipper",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Mech_SmallAvtomaton"
+	},
+	{
+		"abr": "tomahawkmissile",
+		"price": 23375,
+		"category": "Missile",
+		"defname": "Ammo_TomahawkLAM"
+	},
+	{
+		"abr": "vespa",
+		"price": 900,
+		"category": "Animal",
+		"defname": "Mechanoid_Vespa"
+	},
+	{
+		"abr": "x-5cartridge",
+		"price": 1,
+		"category": "Advanced",
+		"defname": "Ammo_AndroidTiersX5Pistol"
+	},
+	{
+		"abr": "zealot",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "HRHM_Mech_Zealot"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
 	}
 	],
-	"total": 2694
+	"total": 2722
 }
