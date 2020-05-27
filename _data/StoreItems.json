@@ -290,7 +290,7 @@
 	},
 	{
 		"abr": "chemfuel",
-		"price": 4,
+		"price": 24,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
 	},
@@ -1598,7 +1598,7 @@
 	},
 	{
 		"abr": "plantpot",
-		"price": 78,
+		"price": 278,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
@@ -6548,7 +6548,7 @@
 	},
 	{
 		"abr": "detonatingunstableegg",
-		"price": 75,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "GR_EggBomb"
 	},
@@ -7334,7 +7334,7 @@
 	},
 	{
 		"abr": "glowingpustule",
-		"price": 9,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "HorrorFirefoamPod"
 	},
@@ -7963,12 +7963,6 @@
 		"defname": "CanningFactory"
 	},
 	{
-		"abr": "capacitorarray",
-		"price": 7750,
-		"category": "Furniture",
-		"defname": "ShipCapacitor"
-	},
-	{
 		"abr": "cargomodule",
 		"price": 950,
 		"category": "Manufactured",
@@ -8456,7 +8450,7 @@
 	},
 	{
 		"abr": "energyweapon'deathray'",
-		"price": 12500,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DeathRay"
 	},
@@ -10532,13 +10526,13 @@
 	},
 	{
 		"abr": "mechanoidegg",
-		"price": 17,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "GR_ElectroEgg"
 	},
 	{
 		"abr": "mechanoidinterfacechip",
-		"price": 167,
+		"price": -10,
 		"category": "Items",
 		"defname": "GR_MechanoidInterfaceChip"
 	},
@@ -10700,13 +10694,13 @@
 	},
 	{
 		"abr": "microscyther",
-		"price": 97,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MicroScyther"
 	},
 	{
 		"abr": "microsingularcannon",
-		"price": 18167,
+		"price": 25167,
 		"category": "Security",
 		"defname": "Turret_MicrosingularCannon"
 	},
@@ -11210,7 +11204,7 @@
 	},
 	{
 		"abr": "n.solutionunit",
-		"price": 4500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RoboticCow"
 	},
@@ -11294,73 +11288,73 @@
 	},
 	{
 		"abr": "neurotrainer(animals)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
-		"price": 3250,
+		"price": 1250,
 		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Social"
 	},
@@ -13460,37 +13454,37 @@
 	},
 	{
 		"abr": "spiderfish",
-		"price": 4,
+		"price": -10,
 		"category": "Alien raw fish",
 		"defname": "VCEF_Spiderfish"
 	},
 	{
 		"abr": "spidersnake",
-		"price": 1083,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GR_Spidersnake"
 	},
 	{
 		"abr": "spidersnakeegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "GR_SpidersnakeEggFertilized"
 	},
 	{
 		"abr": "spidersnakeegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "GR_SpidersnakeEggUnfertilized"
 	},
 	{
 		"abr": "spidersnakeshedskin",
-		"price": 68,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "GR_SpidersnakeSkin"
 	},
 	{
 		"abr": "spidersnakesilk",
-		"price": 13,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "GR_SpidersnakeSilk"
 	},
@@ -14023,14 +14017,8 @@
 		"defname": "RNGun_TEC-9P"
 	},
 	{
-		"abr": "techprint(johnson-tanakadrive)",
-		"price": 16667,
-		"category": "Techprints",
-		"defname": "Techprint_SoSJTDrive"
-	},
-	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": 10000,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -14084,7 +14072,7 @@
 	},
 	{
 		"abr": "thermobaricfusiongun",
-		"price": 13333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ThermoFusion"
 	},
@@ -15338,13 +15326,13 @@
 	},
 	{
 		"abr": "12gaugeshell(buck)",
-		"price": -10,
+		"price": 2,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Buck"
 	},
 	{
 		"abr": "12gaugeshell(slug)",
-		"price": -10,
+		"price": 2,
 		"category": "12 gauge",
 		"defname": "Ammo_12Gauge_Slug"
 	},
@@ -15740,7 +15728,7 @@
 	},
 	{
 		"abr": "9x19mmparacartridge(fmj)",
-		"price": -10,
+		"price": 2,
 		"category": "9x19mm Parabellum",
 		"defname": "Ammo_9x19mmPara_FMJ"
 	},
@@ -16164,6 +16152,204 @@
 		"category": "Animal",
 		"defname": "GR_EldritchWolf"
 	},
+	{
+		"abr": "rpg-32grenade(heat)",
+		"price": 121,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_HEAT"
+	},
+	{
+		"abr": "rpg-32grenade(thermobaric)",
+		"price": 224,
+		"category": "RPG-32 rockets",
+		"defname": "Ammo_RPG32Rocket_Thermobaric"
+	},
+	{
+		"abr": "rpg-7grenade(frag)",
+		"price": 65,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Frag"
+	},
+	{
+		"abr": "rpg-7grenade(heat)",
+		"price": 96,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_HEAT"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 158,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "high-explosivetorpedo",
+		"price": 158,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "minimalshipbridge",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "shipcapacitor",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "ShipCapacitorSmall"
+	},
+	{
+		"abr": "guestandroidpod",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodGuest"
+	},
+	{
+		"abr": "guestandroidupgradestation",
+		"price": 1142,
+		"category": "Furniture",
+		"defname": "AndroidOperationBedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleGuest"
+	},
+	{
+		"abr": "guestbed",
+		"price": 155,
+		"category": "Furniture",
+		"defname": "RGK_bedSingleBGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestclassydoublebed",
+		"price": 942,
+		"category": "Furniture",
+		"defname": "GL_ClassyDoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleGuest"
+	},
+	{
+		"abr": "guestdoublebed2",
+		"price": 292,
+		"category": "Furniture",
+		"defname": "RGK_bedDoubleBGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": 290,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": 667,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestm7pod",
+		"price": 1483,
+		"category": "Furniture",
+		"defname": "ATPP_AndroidPodMechGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": 1467,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
+		"abr": "rpg-7grenade(thermobaric)",
+		"price": 206,
+		"category": "RPG-7 grenades",
+		"defname": "Ammo_RPG7Grenade_Thermobaric"
+	},
+	{
+		"abr": "scyther",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Mech_Scyther"
+	},
+	{
+		"abr": "siegebreaker",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "AA_Siegebreaker"
+	},
+	{
+		"abr": "skullywag",
+		"price": 600,
+		"category": "Animal",
+		"defname": "Mech_Skullywag"
+	},
+	{
+		"abr": "snipper",
+		"price": 800,
+		"category": "Animal",
+		"defname": "Mech_SmallAvtomaton"
+	},
+	{
+		"abr": "tomahawkmissile",
+		"price": 23375,
+		"category": "Missile",
+		"defname": "Ammo_TomahawkLAM"
+	},
+	{
+		"abr": "vespa",
+		"price": 900,
+		"category": "Animal",
+		"defname": "Mechanoid_Vespa"
+	},
+	{
+		"abr": "x-5cartridge",
+		"price": 1,
+		"category": "Advanced",
+		"defname": "Ammo_AndroidTiersX5Pistol"
+	},
+	{
+		"abr": "zealot",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "HRHM_Mech_Zealot"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
+	}
 	],
-	"total": 2708
+	"total": 2725
 }

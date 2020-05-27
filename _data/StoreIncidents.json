@@ -36,6 +36,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "eclipse",
 		"price": 450,
 		"karmatype": "Bad"
@@ -63,6 +68,11 @@
 	{
 		"abr": "tradercaravan",
 		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -118,6 +128,11 @@
 	{
 		"abr": "raid",
 		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,7 +242,7 @@
 	},
 	{
 		"abr": "healme",
-		"price": 2200,
+		"price": 750,
 		"karmatype": "Good"
 	},
 	{
@@ -239,7 +254,12 @@
 		"abr": "passionshuffle",
 		"price": 2000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 48
+	"total": 52
 }
