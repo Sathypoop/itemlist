@@ -3,7 +3,13 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.0.0.3"
+    "version": "1.0.2.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "0.4.2.0"
   },
   {
     "author": "AUTOMATIC",
@@ -18,16 +24,10 @@
     "version": "1.0.7378.41688"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "7.2.1"
-  },
-  {
-    "author": "user19990313",
-    "name": "RuntimeGC",
-    "steamId": "2046596586",
-    "version": "20.0.15.1"
+    "author": "Madeline",
+    "name": "Better ModMismatch Window",
+    "steamId": "1872244972",
+    "version": "1.1.3"
   },
   {
     "author": "Kikohi",
@@ -111,12 +111,6 @@
     "author": "Gouda quiche",
     "name": "Medical bay",
     "steamId": "2101075718",
-    "version": null
-  },
-  {
-    "author": "FunkyShit",
-    "name": "Armor Core",
-    "steamId": "1826918547",
     "version": null
   },
   {
@@ -282,12 +276,6 @@
     "version": null
   },
   {
-    "author": "Tad",
-    "name": "No XP Drain",
-    "steamId": "2007051570",
-    "version": "1.0.0.1"
-  },
-  {
     "author": "Chicken Plucker",
     "name": "[CP] Rimmu-Nation - Clothing",
     "steamId": "1541536041",
@@ -342,12 +330,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Alan Dariva",
-    "name": "More Planning",
-    "steamId": "881100382",
-    "version": null
-  },
-  {
     "author": "SirKota",
     "name": "InventoryTab",
     "steamId": "1509278793",
@@ -388,6 +370,12 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.3"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "7.2.1"
   },
   {
     "author": "Falconne",
@@ -435,6 +423,12 @@
     "author": "Neceros",
     "name": "Simple Turrets",
     "steamId": "1790155285",
+    "version": null
+  },
+  {
+    "author": "Alan Dariva",
+    "name": "More Planning",
+    "steamId": "881100382",
     "version": null
   }
 ]

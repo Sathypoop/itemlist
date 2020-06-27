@@ -1573,24 +1573,6 @@
 		"defname": "InfiniteChemreactor"
 	},
 	{
-		"abr": "ablationcoating",
-		"price": 2167,
-		"category": "Armor modules",
-		"defname": "AblationCoating"
-	},
-	{
-		"abr": "activeplates",
-		"price": 3500,
-		"category": "Armor modules",
-		"defname": "ActivePlates"
-	},
-	{
-		"abr": "adrenalineinjectors",
-		"price": 4500,
-		"category": "Armor modules",
-		"defname": "AdrenalineInjectors"
-	},
-	{
 		"abr": "advancedbionicarm",
 		"price": 5667,
 		"category": "Bionic",
@@ -1633,12 +1615,6 @@
 		"defname": "GTLeg"
 	},
 	{
-		"abr": "advancedfiltrationsystem",
-		"price": 4167,
-		"category": "Armor modules",
-		"defname": "AdvancedFiltrationSystem"
-	},
-	{
 		"abr": "advancedpsychicfoilhelmet",
 		"price": 417,
 		"category": "Headgear",
@@ -1649,12 +1625,6 @@
 		"price": 1017,
 		"category": "Melee weapons",
 		"defname": "LB_AdvancedRepairGun"
-	},
-	{
-		"abr": "advancedsolarpanels",
-		"price": 2167,
-		"category": "Armor modules",
-		"defname": "AdvancedSolarPanels"
 	},
 	{
 		"abr": "advancedtablet",
@@ -1745,12 +1715,6 @@
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
-	},
-	{
-		"abr": "antitoxicseals",
-		"price": 3167,
-		"category": "Armor modules",
-		"defname": "AntitoxicSeals"
 	},
 	{
 		"abr": "apb-1pistol",
@@ -1849,22 +1813,10 @@
 		"defname": "AA_Barbslinger"
 	},
 	{
-		"abr": "basicfiltrationsystem",
-		"price": 2000,
-		"category": "Armor modules",
-		"defname": "BasicFiltrationSystem"
-	},
-	{
 		"abr": "battery",
 		"price": 2708,
 		"category": "Power",
 		"defname": "FissionBattery"
-	},
-	{
-		"abr": "batterypack",
-		"price": 2000,
-		"category": "Special",
-		"defname": "ArmorBattareis"
 	},
 	{
 		"abr": "bedbug",
@@ -1973,12 +1925,6 @@
 		"price": 583,
 		"category": "Animal",
 		"defname": "AA_BoulderMit"
-	},
-	{
-		"abr": "brainenergyprotection",
-		"price": 3667,
-		"category": "Armor modules",
-		"defname": "BrainEnergyProtection"
 	},
 	{
 		"abr": "brazier",
@@ -2167,22 +2113,10 @@
 		"defname": "AA_ColossalAerofleet"
 	},
 	{
-		"abr": "combatexoskeleton",
-		"price": 6667,
-		"category": "Armor modules",
-		"defname": "CombatExoskeleton"
-	},
-	{
 		"abr": "computercomponents",
 		"price": 583,
 		"category": "Manufactured",
 		"defname": "ComputerComp"
-	},
-	{
-		"abr": "condenserbatteries",
-		"price": 2500,
-		"category": "Armor modules",
-		"defname": "CondenserBatteries"
 	},
 	{
 		"abr": "coronet",
@@ -2231,12 +2165,6 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "AA_CrystalMit"
-	},
-	{
-		"abr": "cullsolarpanels",
-		"price": 3000,
-		"category": "Armor modules",
-		"defname": "CULLSolarPanels"
 	},
 	{
 		"abr": "cyberneticheart",
@@ -2347,22 +2275,10 @@
 		"defname": "AA_DuskRat"
 	},
 	{
-		"abr": "echosystem'plato'",
-		"price": 2667,
-		"category": "Armor modules",
-		"defname": "Plato"
-	},
-	{
 		"abr": "elbowblade",
 		"price": 592,
 		"category": "Prosthetic",
 		"defname": "ElbowBlade"
-	},
-	{
-		"abr": "electricheater",
-		"price": 3333,
-		"category": "Armor modules",
-		"defname": "ElectricHeater"
 	},
 	{
 		"abr": "eltexhelmet",
@@ -2417,30 +2333,6 @@
 		"price": 2333,
 		"category": "Ranged weapons",
 		"defname": "Gun_EMRifle"
-	},
-	{
-		"abr": "energyaccelerator",
-		"price": 3333,
-		"category": "Armor modules",
-		"defname": "EnergyAccelerator"
-	},
-	{
-		"abr": "energyboots",
-		"price": 3333,
-		"category": "Armor modules",
-		"defname": "EnergyBoots"
-	},
-	{
-		"abr": "energycell",
-		"price": 4000,
-		"category": "Armor modules",
-		"defname": "EnergyCell"
-	},
-	{
-		"abr": "energygridbatteries",
-		"price": 2667,
-		"category": "Special",
-		"defname": "EnergyGridBatteries"
 	},
 	{
 		"abr": "ethanol",
@@ -2513,12 +2405,6 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
-	},
-	{
-		"abr": "firstaidinterface",
-		"price": 3167,
-		"category": "Armor modules",
-		"defname": "FirstAidInterface"
 	},
 	{
 		"abr": "fissionmouse",
@@ -2665,12 +2551,6 @@
 		"defname": "AA_Groundrunner"
 	},
 	{
-		"abr": "guidancesystem",
-		"price": 3000,
-		"category": "Armor modules",
-		"defname": "GuidanceSystem"
-	},
-	{
 		"abr": "handtalon",
 		"price": 592,
 		"category": "Prosthetic",
@@ -2707,12 +2587,6 @@
 		"defname": "AA_Helixien"
 	},
 	{
-		"abr": "highvoltagecladding",
-		"price": 3667,
-		"category": "Armor modules",
-		"defname": "HighVoltageElectrifiedCladding"
-	},
-	{
 		"abr": "high-explosiveshell",
 		"price": 92,
 		"category": "Mortar shells",
@@ -2741,12 +2615,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "Immunoenhancer"
-	},
-	{
-		"abr": "improvedbatterypack",
-		"price": 2333,
-		"category": "Special",
-		"defname": "ImprovedArmorBattareis"
 	},
 	{
 		"abr": "incendiarylauncher",
@@ -3847,12 +3715,6 @@
 		"defname": "RNThrown_Incendiary"
 	},
 	{
-		"abr": "instruments",
-		"price": 1667,
-		"category": "Armor modules",
-		"defname": "Instruments"
-	},
-	{
 		"abr": "interceptorbodyarmor(m81)",
 		"price": 450,
 		"category": "Body armor",
@@ -3953,12 +3815,6 @@
 		"price": 2000,
 		"category": "Air support",
 		"defname": "RNAir_SerbAirstrike"
-	},
-	{
-		"abr": "kineticbuffer",
-		"price": 3000,
-		"category": "Armor modules",
-		"defname": "KineticBuffer"
 	},
 	{
 		"abr": "kneespike",
@@ -4085,12 +3941,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "LoveEnhancer"
-	},
-	{
-		"abr": "lowvoltagecladding",
-		"price": 2833,
-		"category": "Armor modules",
-		"defname": "LowVoltageElectrifiedCladding"
 	},
 	{
 		"abr": "luciferium",
@@ -4549,12 +4399,6 @@
 		"defname": "AA_EggMeadowAveFertilized"
 	},
 	{
-		"abr": "medicalexoskeleton",
-		"price": 6667,
-		"category": "Armor modules",
-		"defname": "MedicalExoskeleton"
-	},
-	{
 		"abr": "medicinalcactipinequill",
 		"price": 17,
 		"category": "Medicine",
@@ -4639,24 +4483,6 @@
 		"defname": "Mindscrew"
 	},
 	{
-		"abr": "minifiedarcreactor",
-		"price": 6667,
-		"category": "Special",
-		"defname": "MiniArcReactor"
-	},
-	{
-		"abr": "minifiedcoldfusionreactor",
-		"price": 4667,
-		"category": "Special",
-		"defname": "MiniColdFusionReactor"
-	},
-	{
-		"abr": "minifiednuclearreactor",
-		"price": 4167,
-		"category": "Special",
-		"defname": "MiniNuclearReactor"
-	},
-	{
 		"abr": "minigun",
 		"price": 1933,
 		"category": "Ranged weapons",
@@ -4727,12 +4553,6 @@
 		"price": 425,
 		"category": "Shotgun",
 		"defname": "RNGun_Mossberg500TacticalS"
-	},
-	{
-		"abr": "motorizedjoints",
-		"price": 3000,
-		"category": "Armor modules",
-		"defname": "MotorizedJoints"
 	},
 	{
 		"abr": "mp40",
@@ -4855,5 +4675,5 @@
 		"defname": "GooseGun"
 	},
 	],
-	"total": 1294
+	"total": 1264
 }
