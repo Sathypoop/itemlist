@@ -2408,19 +2408,19 @@
 	},
 	{
 		"abr": "fissionmouse",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouse"
 	},
 	{
 		"abr": "fissionmouse,secondgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseSecond"
 	},
 	{
 		"abr": "fissionmouse,thirdgeneration",
-		"price": 58,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_FissionMouseThird"
 	},
@@ -3884,7 +3884,7 @@
 	},
 	{
 		"abr": "larvalatispec",
-		"price": 25,
+		"price": 130,
 		"category": "Animal",
 		"defname": "AA_LarvalAtispec"
 	},
@@ -6008,7 +6008,7 @@
 	},
 	{
 		"abr": "redspore",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_RedSpore"
 	},
@@ -7148,25 +7148,25 @@
 	},
 	{
 		"abr": "unuseddonottranslate",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightVII"
 	},
 	{
 		"abr": "unuseddonottranslate",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRedVII"
 	},
 	{
 		"abr": "unuseddonottranslate",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreenVII"
 	},
 	{
 		"abr": "unuseddonottranslate",
-		"price": 16,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlueVII"
 	},
@@ -7244,31 +7244,31 @@
 	},
 	{
 		"abr": "walllight",
-		"price": 16,
+		"price": 116,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLight"
 	},
 	{
 		"abr": "walllight(blue)",
-		"price": 16,
+		"price": 116,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightBlue"
 	},
 	{
 		"abr": "walllight(green)",
-		"price": 16,
+		"price": 116,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightGreen"
 	},
 	{
 		"abr": "walllight(red)",
-		"price": 16,
+		"price": 116,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallLightRed"
 	},
 	{
 		"abr": "wallsunlight",
-		"price": 16,
+		"price": 116,
 		"category": "Furniture",
 		"defname": "Lighting_MURWallSunLight"
 	},
@@ -7409,7 +7409,763 @@
 		"price": 3333,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Red"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Blue"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Green"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Violet"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Yellow"
+	},
+	{
+		"abr": "(old)ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "CeilingLamp_Orange"
+	},
+	{
+		"abr": "(old)walllamp",
+		"price": 45,
+		"category": "Furniture",
+		"defname": "WallLamp"
+	},
+	{
+		"abr": "100kbattery",
+		"price": 6483,
+		"category": "Power",
+		"defname": "Battery100k"
+	},
+	{
+		"abr": "10kbattery",
+		"price": 1258,
+		"category": "Power",
+		"defname": "Battery10k"
+	},
+	{
+		"abr": "16kbattery",
+		"price": 1758,
+		"category": "Power",
+		"defname": "Battery16k"
+	},
+	{
+		"abr": "256kbattery",
+		"price": 17775,
+		"category": "Power",
+		"defname": "Battery256k"
+	},
+	{
+		"abr": "4kbattery",
+		"price": 692,
+		"category": "Power",
+		"defname": "Battery4k"
+	},
+	{
+		"abr": "64kbattery",
+		"price": 4725,
+		"category": "Power",
+		"defname": "Battery64k"
+	},
+	{
+		"abr": "adaptiveassembler",
+		"price": 2083,
+		"category": "Automation",
+		"defname": "MachineLearningAssembler"
+	},
+	{
+		"abr": "adv.machineframe",
+		"price": 500,
+		"category": "Items",
+		"defname": "PRFMachineFrameLarge"
+	},
+	{
+		"abr": "animalmanager",
+		"price": 1533,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Slaughterhouse"
+	},
+	{
+		"abr": "assembler",
+		"price": 1667,
+		"category": "Automation",
+		"defname": "UniversalAssembler"
+	},
+	{
+		"abr": "augerdrill(t1)",
+		"price": 1250,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkI"
+	},
+	{
+		"abr": "blastfurnace",
+		"price": 925,
+		"category": "Automation",
+		"defname": "PRF_FurnaceI"
+	},
+	{
+		"abr": "ceilinglamp",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp"
+	},
+	{
+		"abr": "ceilinglamp(blue)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Blue"
+	},
+	{
+		"abr": "ceilinglamp(green)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Green"
+	},
+	{
+		"abr": "ceilinglamp(orange)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Orange"
+	},
+	{
+		"abr": "ceilinglamp(red)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Red"
+	},
+	{
+		"abr": "ceilinglamp(violet)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Violet"
+	},
+	{
+		"abr": "ceilinglamp(yellow)",
+		"price": 49,
+		"category": "Furniture",
+		"defname": "GLCeilingLamp_Yellow"
+	},
+	{
+		"abr": "circuitbreaker(300k)",
+		"price": 5117,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_300k"
+	},
+	{
+		"abr": "circuitbreaker(30k)",
+		"price": 2558,
+		"category": "Power",
+		"defname": "Building_RTCircuitBreaker_30k"
+	},
+	{
+		"abr": "conveyorbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor"
+	},
+	{
+		"abr": "digitalstorageunit",
+		"price": 2550,
+		"category": "Automation",
+		"defname": "PRFCargoPlatform"
+	},
+	{
+		"abr": "dronecultivator",
+		"price": 2025,
+		"category": "Automation",
+		"defname": "CultivatorTools_DroneCultivator"
+	},
+	{
+		"abr": "dronecultivator(sunlamp)",
+		"price": 2133,
+		"category": "Automation",
+		"defname": "CultivatorTools_CultivatorWithLamp"
+	},
+	{
+		"abr": "dronemodule",
+		"price": 667,
+		"category": "Items",
+		"defname": "PRFDroneModule"
+	},
+	{
+		"abr": "electricfurnace",
+		"price": 2167,
+		"category": "Automation",
+		"defname": "PRF_FurnaceIII"
+	},
+	{
+		"abr": "electricglassworks",
+		"price": 255,
+		"category": "Production",
+		"defname": "GlassworkTable"
+	},
+	{
+		"abr": "fermentingtank",
+		"price": 250,
+		"category": "Automation",
+		"defname": "PRFFermentingBarrel"
+	},
+	{
+		"abr": "floorspotlight",
+		"price": 65,
+		"category": "Automation",
+		"defname": "PRF_FloorSpotlight"
+	},
+	{
+		"abr": "fueledglassworks",
+		"price": 268,
+		"category": "Production",
+		"defname": "FueledGlassworkTable"
+	},
+	{
+		"abr": "fuelingmachine",
+		"price": 492,
+		"category": "Automation",
+		"defname": "FuelingMachine"
+	},
+	{
+		"abr": "genericanimalharvester",
+		"price": 1792,
+		"category": "Automation",
+		"defname": "GenericAnimalHarvester"
+	},
+	{
+		"abr": "glass",
+		"price": 12,
+		"category": "Manufactured",
+		"defname": "Glass"
+	},
+	{
+		"abr": "glassworkstv",
+		"price": 1417,
+		"category": "Recreation",
+		"defname": "GlassMonitorLarge"
+	},
+	{
+		"abr": "growzonepuller",
+		"price": 1008,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_GrowZonePuller"
+	},
+	{
+		"abr": "i/oport",
+		"price": 467,
+		"category": "Automation",
+		"defname": "PRFStorageUnitIOPort"
+	},
+	{
+		"abr": "industrialcooker",
+		"price": 1167,
+		"category": "Automation",
+		"defname": "SelfCooker"
+	},
+	{
+		"abr": "industrialfoodprocessor",
+		"price": 1167,
+		"category": "Automation",
+		"defname": "SelfPrepper"
+	},
+	{
+		"abr": "industrialfurnace",
+		"price": 1058,
+		"category": "Automation",
+		"defname": "PRF_FurnaceII"
+	},
+	{
+		"abr": "industriallamp",
+		"price": 183,
+		"category": "Automation",
+		"defname": "PRF_IndustrialLamp"
+	},
+	{
+		"abr": "industrialstoneworks",
+		"price": 2292,
+		"category": "Automation",
+		"defname": "PRF_StoneWorks"
+	},
+	{
+		"abr": "itemanglepuller",
+		"price": 1008,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller_Side"
+	},
+	{
+		"abr": "itempuller",
+		"price": 1008,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller"
+	},
+	{
+		"abr": "largecircularglass",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "LargeCircularGlass"
+	},
+	{
+		"abr": "machineframe",
+		"price": 250,
+		"category": "Items",
+		"defname": "PRFMachineFrame"
+	},
+	{
+		"abr": "meatgrinder",
+		"price": 1167,
+		"category": "Automation",
+		"defname": "MeatGrinder"
+	},
+	{
+		"abr": "mechanitescultivator",
+		"price": 2183,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18Cultivator"
+	},
+	{
+		"abr": "mechanitescultivator(sunlamp)",
+		"price": 2183,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18CultivatorSun"
+	},
+	{
+		"abr": "mechanitesxlcultivator",
+		"price": 4958,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18CultivatorXL"
+	},
+	{
+		"abr": "metalrefinery",
+		"price": 2800,
+		"category": "Automation",
+		"defname": "PRF_MetalRefinery"
+	},
+	{
+		"abr": "milker",
+		"price": 842,
+		"category": "Automation",
+		"defname": "Milker"
+	},
+	{
+		"abr": "outdoorgroundlamp",
+		"price": 36,
+		"category": "Furniture",
+		"defname": "OutdoorGroundLamp"
+	},
+	{
+		"abr": "plasmadrill(t3)",
+		"price": 6058,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Miner"
+	},
+	{
+		"abr": "pulsedrill(t2)",
+		"price": 2208,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry"
+	},
+	{
+		"abr": "recipedatadisk",
+		"price": 833,
+		"category": "Items",
+		"defname": "RimFactory_Data_Disk"
+	},
+	{
+		"abr": "recipedatabase",
+		"price": 1208,
+		"category": "Automation",
+		"defname": "RecipeDatabase"
+	},
+	{
+		"abr": "reinforcedglass",
+		"price": 30,
+		"category": "Manufactured",
+		"defname": "ReinforcedGlass"
+	},
+	{
+		"abr": "reinforcedglassworks",
+		"price": 600,
+		"category": "Production",
+		"defname": "ReinforcedGlassworkTable"
+	},
+	{
+		"abr": "roboticarm",
+		"price": 250,
+		"category": "Items",
+		"defname": "PRFRoboticArm"
+	},
+	{
+		"abr": "roboticmachiningtable",
+		"price": 1175,
+		"category": "Production",
+		"defname": "TableRoboticMachining"
+	},
+	{
+		"abr": "shearer",
+		"price": 842,
+		"category": "Automation",
+		"defname": "Shearer"
+	},
+	{
+		"abr": "simplemachineframe",
+		"price": 133,
+		"category": "Items",
+		"defname": "PRFMachineFrameSmall"
+	},
+	{
+		"abr": "smallsteelcrate",
+		"price": 205,
+		"category": "Automation",
+		"defname": "StockpileCrateReinforcedTiny"
+	},
+	{
+		"abr": "smallwoodencrate",
+		"price": 118,
+		"category": "Automation",
+		"defname": "StockpileCrateSmall"
+	},
+	{
+		"abr": "smartrecycler",
+		"price": 1817,
+		"category": "Automation",
+		"defname": "PRF_Recycler"
+	},
+	{
+		"abr": "spacercooker",
+		"price": 1167,
+		"category": "Automation",
+		"defname": "PRF_SpacerCooker"
+	},
+	{
+		"abr": "steelcrate",
+		"price": 392,
+		"category": "Automation",
+		"defname": "StockpileCrateReinforced"
+	},
+	{
+		"abr": "table",
+		"price": 62,
+		"category": "Furniture",
+		"defname": "GlassTableShort"
+	},
+	{
+		"abr": "undergroundbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Underground"
+	},
+	{
+		"abr": "vacuumhopper",
+		"price": 367,
+		"category": "Automation",
+		"defname": "SAL_SmartHopper"
+	},
+	{
+		"abr": "wallconveyorbelt",
+		"price": 64,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Wall"
+	},
+	{
+		"abr": "wallitempuller",
+		"price": 1008,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller_Wall"
+	},
+	{
+		"abr": "walllamp",
+		"price": 64,
+		"category": "Automation",
+		"defname": "PRF_WallLight"
+	},
+	{
+		"abr": "walllight",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp"
+	},
+	{
+		"abr": "walllight(blue)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Blue"
+	},
+	{
+		"abr": "walllight(green)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Green"
+	},
+	{
+		"abr": "walllight(orange)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Orange"
+	},
+	{
+		"abr": "walllight(red)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Red"
+	},
+	{
+		"abr": "walllight(violet)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Violet"
+	},
+	{
+		"abr": "walllight(yellow)",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "GLWallLamp_Yellow"
+	},
+	{
+		"abr": "weakaichip",
+		"price": 250,
+		"category": "Items",
+		"defname": "PRFWeakAIChip"
+	},
+	{
+		"abr": "woodencrate",
+		"price": 229,
+		"category": "Automation",
+		"defname": "StockpileCrate"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 750,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "blastturret",
+		"price": 1800,
+		"category": "Security",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "chalkboard",
+		"price": 500,
+		"category": "Furniture",
+		"defname": "ChalkboardCL"
+	},
+	{
+		"abr": "chargebackbattery",
+		"price": 717,
+		"category": "Power",
+		"defname": "ChargeBack_Battery"
+	},
+	{
+		"abr": "chargebackbatteryprototype",
+		"price": 417,
+		"category": "Power",
+		"defname": "ChargeBack_Battery_Prototype"
+	},
+	{
+		"abr": "compost",
+		"price": 2,
+		"category": "Farming",
+		"defname": "RF_Compost"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 483,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 321,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1142,
+		"category": "Security",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "infusionamplifier",
+		"price": 1083,
+		"category": "Artifacts",
+		"defname": "InfusedAmplifier"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1467,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 667,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 1567,
+		"category": "Security",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedmilitarygradeturret",
+		"price": 958,
+		"category": "Security",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1400,
+		"category": "Security",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "militarygradeturret",
+		"price": 1108,
+		"category": "Security",
+		"defname": "MilitaryTurretGun"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "resonancecellbattery",
+		"price": 883,
+		"category": "Artifacts",
+		"defname": "ResonanceCell_Battery"
+	},
+	{
+		"abr": "rimworldglobe",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "GlobeCL"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1192,
+		"category": "Security",
+		"defname": "RocketComplex"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1600,
+		"category": "Security",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 182,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "speedchargebattery",
+		"price": 992,
+		"category": "Power",
+		"defname": "SpeedCharge_Battery"
+	},
+	{
+		"abr": "voidcellbattery",
+		"price": 5000,
+		"category": "Power",
+		"defname": "VoidCell_Battery"
 	}
 	],
-	"total": 1235
+	"total": 1361
 }

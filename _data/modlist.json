@@ -12,10 +12,10 @@
     "version": "0.4.2.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Startup impact",
-    "steamId": "1684944322",
-    "version": "1.1.7423.26536"
+    "author": "YAYO (Original by user19990313)",
+    "name": "RuntimeGC(unofficial)",
+    "steamId": "2013037041",
+    "version": "20.0.15.1"
   },
   {
     "author": "notfood",
@@ -430,5 +430,107 @@
     "name": "More Planning",
     "steamId": "881100382",
     "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.2.7"
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights",
+    "steamId": "826153738",
+    "version": "1.1.3"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nandonalt (Maintained by McKay)",
+    "name": "Colony Leadership",
+    "steamId": "1565942758",
+    "version": null
+  },
+  {
+    "author": "Storm",
+    "name": "Rimworld Farming",
+    "steamId": "1718638765",
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "RunAndGun",
+    "steamId": "1204108550",
+    "version": null
+  },
+  {
+    "author": "NukaFrog",
+    "name": "Enhanced Battery",
+    "steamId": "1556048095",
+    "version": null
+  },
+  {
+    "author": "notfood",
+    "name": "Infused",
+    "steamId": "731287727",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": "1508341791",
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Paradox",
+    "name": "More Vanilla Turrets 1.1",
+    "steamId": "2009766414",
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Turret Extensions",
+    "steamId": "1496122245",
+    "version": "1.3"
+  },
+  {
+    "author": "TeflonJim",
+    "name": "More Vanilla Turrets - Turret Extensions Patch (continued)",
+    "steamId": "2034220378",
+    "version": "1.0.0"
+  },
+  {
+    "author": "sulusdacor, james76543, Meltup",
+    "name": "Advanced Power Plus",
+    "steamId": "2032409628",
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "H.C_AnimalReskins_Complete",
+    "steamId": "2146766912",
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.644"
   }
 ]
