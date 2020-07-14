@@ -12,9 +12,9 @@
     "version": "0.4.2.0"
   },
   {
-    "author": "YAYO (Original by user19990313)",
-    "name": "RuntimeGC(unofficial)",
-    "steamId": "2013037041",
+    "author": "user19990313",
+    "name": "RuntimeGC",
+    "steamId": "2046596586",
     "version": "20.0.15.1"
   },
   {
@@ -183,7 +183,7 @@
     "author": "Mehni",
     "name": "Pick Up And Haul",
     "steamId": "1279012058",
-    "version": "0.1.1.0"
+    "version": null
   },
   {
     "author": "Uuugggg",
@@ -435,7 +435,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.2.7"
+    "version": "2.2.9"
   },
   {
     "author": "NanoCE",
@@ -532,5 +532,53 @@
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
     "version": "1.2.644"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.1.0.10"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Warforged",
+    "steamId": "1927880415",
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": "1216999901",
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
+    "steamId": "1331961995",
+    "version": null
   }
 ]

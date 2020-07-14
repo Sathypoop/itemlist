@@ -32,7 +32,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -111,6 +111,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "shipchunkdrop",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -131,6 +136,16 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "militaryaid",
 		"price": 1500,
 		"karmatype": "Good"
@@ -138,11 +153,6 @@
 	{
 		"abr": "raid",
 		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -154,16 +164,6 @@
 		"abr": "siegeraid",
 		"price": 3500,
 		"karmatype": "Doom"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 4500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -241,16 +241,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healme",
 		"price": 750,
 		"karmatype": "Good"
@@ -271,5 +261,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 54
+	"total": 52
 }
