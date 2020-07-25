@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "tornados",
-		"price": 5000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -21,8 +21,43 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "foggyrain",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rainythunderstorm",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drythunderstorm",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fog",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "heatwave",
 		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
 		"karmatype": "Bad"
 	},
 	{
@@ -31,14 +66,14 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "shortcircuit",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "volcanicwinter",
+		"price": 3200,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "eclipse",
@@ -89,6 +124,16 @@
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
@@ -156,6 +201,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "sapperraid",
 		"price": 2500,
 		"karmatype": "Doom"
@@ -164,6 +214,11 @@
 		"abr": "siegeraid",
 		"price": 3500,
 		"karmatype": "Doom"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
@@ -197,7 +252,7 @@
 	},
 	{
 		"abr": "levelskill",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
@@ -261,5 +316,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 52
+	"total": 63
 }

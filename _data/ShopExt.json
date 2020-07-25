@@ -245,19 +245,6 @@
       ]
     },
     {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "VCEF_Fisherman",
-      "degree": 0,
-      "description": "{PAWN_nameDef} enjoys the solitude and tranquility inherent to long fishing sessions. {PAWN_pronoun} will prefer fishing above other activities.",
-      "name": "fisherman",
-      "removePrice": 1000,
-      "stats": []
-    },
-    {
       "addPrice": 3000,
       "bypassLimit": true,
       "canAdd": true,
@@ -1072,7 +1059,7 @@
     },
     {
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "m7mechanisedinfantry",
       "price": 30000
     },
@@ -1107,10 +1094,52 @@
       "price": 13333
     },
     {
-      "defName": "O21_Alien_Warforged",
+      "defName": "ATPP_Android2TX",
       "enabled": true,
-      "name": "warforged",
-      "price": 4167
+      "name": "tx2android",
+      "price": 5833
+    },
+    {
+      "defName": "ATPP_Android3TX",
+      "enabled": true,
+      "name": "tx3android",
+      "price": 9667
+    },
+    {
+      "defName": "ATPP_Android4TX",
+      "enabled": true,
+      "name": "tx4android",
+      "price": 11667
+    },
+    {
+      "defName": "ATPP_Android2KTX",
+      "enabled": true,
+      "name": "tx2kandroid",
+      "price": 9167
+    },
+    {
+      "defName": "ATPP_Android2KITX",
+      "enabled": true,
+      "name": "tx2kiandroid",
+      "price": 9167
+    },
+    {
+      "defName": "ATPP_Android2ITX",
+      "enabled": true,
+      "name": "tx2iandroid",
+      "price": 5833
+    },
+    {
+      "defName": "ATPP_Android3ITX",
+      "enabled": true,
+      "name": "tx3iandroid",
+      "price": 9667
+    },
+    {
+      "defName": "ATPP_Android4ITX",
+      "enabled": true,
+      "name": "tx4iandroid",
+      "price": 11667
     }
   ]
 }
