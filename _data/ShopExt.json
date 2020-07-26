@@ -1067,29 +1067,29 @@
       "defName": "Android1Tier",
       "enabled": true,
       "name": "t1android",
-      "price": 2333
+      "price": 500
     },
     {
       "defName": "Android2Tier",
       "enabled": true,
       "name": "t2android",
-      "price": 4167
+      "price": 1000
     },
     {
       "defName": "Android3Tier",
       "enabled": true,
       "name": "t3android",
-      "price": 8000
+      "price": 2000
     },
     {
       "defName": "Android4Tier",
       "enabled": true,
       "name": "t4android",
-      "price": 10000
+      "price": 3500
     },
     {
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "t5android",
       "price": 13333
     },
@@ -1097,49 +1097,49 @@
       "defName": "ATPP_Android2TX",
       "enabled": true,
       "name": "tx2android",
-      "price": 5833
-    },
-    {
-      "defName": "ATPP_Android3TX",
-      "enabled": true,
-      "name": "tx3android",
-      "price": 9667
-    },
-    {
-      "defName": "ATPP_Android4TX",
-      "enabled": true,
-      "name": "tx4android",
-      "price": 11667
-    },
-    {
-      "defName": "ATPP_Android2KTX",
-      "enabled": true,
-      "name": "tx2kandroid",
-      "price": 9167
-    },
-    {
-      "defName": "ATPP_Android2KITX",
-      "enabled": true,
-      "name": "tx2kiandroid",
-      "price": 9167
+      "price": 1000
     },
     {
       "defName": "ATPP_Android2ITX",
       "enabled": true,
       "name": "tx2iandroid",
-      "price": 5833
+      "price": 1000
+    },
+    {
+      "defName": "ATPP_Android2KTX",
+      "enabled": true,
+      "name": "tx2kandroid",
+      "price": 1000
+    },
+    {
+      "defName": "ATPP_Android2KITX",
+      "enabled": true,
+      "name": "tx2kiandroid",
+      "price": 1000
+    },
+    {
+      "defName": "ATPP_Android3TX",
+      "enabled": true,
+      "name": "tx3android",
+      "price": 2000
     },
     {
       "defName": "ATPP_Android3ITX",
       "enabled": true,
       "name": "tx3iandroid",
-      "price": 9667
+      "price": 2000
+    },
+    {
+      "defName": "ATPP_Android4TX",
+      "enabled": true,
+      "name": "tx4android",
+      "price": 3500
     },
     {
       "defName": "ATPP_Android4ITX",
       "enabled": true,
       "name": "tx4iandroid",
-      "price": 11667
+      "price": 3500
     }
   ]
 }

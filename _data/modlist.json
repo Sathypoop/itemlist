@@ -441,7 +441,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.3.0"
+    "version": "2.3.3"
   },
   {
     "author": "Mehni",
@@ -705,6 +705,12 @@
     "author": "Pyrce",
     "name": "Dire Raids",
     "steamId": "1542379675",
+    "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
     "version": null
   }
 ]

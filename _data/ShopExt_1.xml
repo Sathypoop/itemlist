@@ -14,67 +14,67 @@
     <XmlRace DefName="Android1Tier">
       <Enabled>true</Enabled>
       <Name>T1 Android</Name>
-      <Price>2333</Price>
+      <Price>500</Price>
     </XmlRace>
     <XmlRace DefName="Android2Tier">
       <Enabled>true</Enabled>
       <Name>T2 Android</Name>
-      <Price>4167</Price>
+      <Price>1000</Price>
     </XmlRace>
     <XmlRace DefName="Android3Tier">
       <Enabled>true</Enabled>
       <Name>T3 Android</Name>
-      <Price>8000</Price>
+      <Price>2000</Price>
     </XmlRace>
     <XmlRace DefName="Android4Tier">
       <Enabled>true</Enabled>
       <Name>T4 Android</Name>
-      <Price>10000</Price>
+      <Price>3500</Price>
     </XmlRace>
     <XmlRace DefName="Android5Tier">
-      <Enabled>true</Enabled>
+      <Enabled>false</Enabled>
       <Name>T5 Android</Name>
       <Price>13333</Price>
     </XmlRace>
     <XmlRace DefName="ATPP_Android2TX">
       <Enabled>true</Enabled>
       <Name>TX2 Android</Name>
-      <Price>5833</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android3TX">
-      <Enabled>true</Enabled>
-      <Name>TX3 Android</Name>
-      <Price>9667</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android4TX">
-      <Enabled>true</Enabled>
-      <Name>TX4 Android</Name>
-      <Price>11667</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android2KTX">
-      <Enabled>true</Enabled>
-      <Name>TX2K Android</Name>
-      <Price>9167</Price>
-    </XmlRace>
-    <XmlRace DefName="ATPP_Android2KITX">
-      <Enabled>true</Enabled>
-      <Name>TX2KI Android</Name>
-      <Price>9167</Price>
+      <Price>1000</Price>
     </XmlRace>
     <XmlRace DefName="ATPP_Android2ITX">
       <Enabled>true</Enabled>
       <Name>TX2I Android</Name>
-      <Price>5833</Price>
+      <Price>1000</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2KTX">
+      <Enabled>true</Enabled>
+      <Name>TX2K Android</Name>
+      <Price>1000</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android2KITX">
+      <Enabled>true</Enabled>
+      <Name>TX2KI Android</Name>
+      <Price>1000</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android3TX">
+      <Enabled>true</Enabled>
+      <Name>TX3 Android</Name>
+      <Price>2000</Price>
     </XmlRace>
     <XmlRace DefName="ATPP_Android3ITX">
       <Enabled>true</Enabled>
       <Name>TX3I Android</Name>
-      <Price>9667</Price>
+      <Price>2000</Price>
+    </XmlRace>
+    <XmlRace DefName="ATPP_Android4TX">
+      <Enabled>true</Enabled>
+      <Name>TX4 Android</Name>
+      <Price>3500</Price>
     </XmlRace>
     <XmlRace DefName="ATPP_Android4ITX">
       <Enabled>true</Enabled>
       <Name>TX4I Android</Name>
-      <Price>11667</Price>
+      <Price>3500</Price>
     </XmlRace>
   </Races>
   <Traits>
