@@ -4736,55 +4736,55 @@
 	},
 	{
 		"abr": "bioship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottom"
 	},
 	{
 		"abr": "bioship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkBottomPointy"
 	},
 	{
 		"abr": "bioship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideLeft"
 	},
 	{
 		"abr": "bioship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkSideRight"
 	},
 	{
 		"abr": "bioship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTop"
 	},
 	{
 		"abr": "bioship,topleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopLeft"
 	},
 	{
 		"abr": "bioship,topright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkTopRight"
 	},
 	{
 		"abr": "bioship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingLeft"
 	},
 	{
 		"abr": "bioship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_PurpleShipChunkWingRight"
 	},
@@ -4850,13 +4850,13 @@
 	},
 	{
 		"abr": "cargoshuttle",
-		"price": 3925,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "CargoShuttle"
 	},
 	{
 		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleCargoRace"
 	},
@@ -5780,7 +5780,7 @@
 	},
 	{
 		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleHeavyRace"
 	},
@@ -5942,109 +5942,109 @@
 	},
 	{
 		"abr": "imperialescortship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottom"
 	},
 	{
 		"abr": "imperialescortship,leftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideLeft"
 	},
 	{
 		"abr": "imperialescortship,rightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSideRight"
 	},
 	{
 		"abr": "imperialescortship,roundcore",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRound"
 	},
 	{
 		"abr": "imperialescortship,roundsideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideLeft"
 	},
 	{
 		"abr": "imperialescortship,roundsideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkRoundSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallleftside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideLeft"
 	},
 	{
 		"abr": "imperialescortship,smallrightside",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallSideRight"
 	},
 	{
 		"abr": "imperialescortship,smallwingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingLeft"
 	},
 	{
 		"abr": "imperialescortship,smallwingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkSmallWingRight"
 	},
 	{
 		"abr": "imperialescortship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTop"
 	},
 	{
 		"abr": "imperialescortship,topalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAlternate"
 	},
 	{
 		"abr": "imperialescortship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopPointy"
 	},
 	{
 		"abr": "imperialescortship,topnarrowantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennasNarrow"
 	},
 	{
 		"abr": "imperialescortship,topwithantennas",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkTopAntennas"
 	},
 	{
 		"abr": "imperialescortship,widebottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkBottomAlternate"
 	},
 	{
 		"abr": "imperialescortship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingLeft"
 	},
 	{
 		"abr": "imperialescortship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_BlueShipChunkWingRight"
 	},
@@ -6368,55 +6368,55 @@
 	},
 	{
 		"abr": "mechanoidship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottom"
 	},
 	{
 		"abr": "mechanoidship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipBottomLong"
 	},
 	{
 		"abr": "mechanoidship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideLeft"
 	},
 	{
 		"abr": "mechanoidship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidSideRight"
 	},
 	{
 		"abr": "mechanoidship,tankleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankLeft"
 	},
 	{
 		"abr": "mechanoidship,tankright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidTankRight"
 	},
 	{
 		"abr": "mechanoidship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidShipTop"
 	},
 	{
 		"abr": "mechanoidship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingLeft"
 	},
 	{
 		"abr": "mechanoidship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_MechanoidWingRight"
 	},
@@ -6806,7 +6806,7 @@
 	},
 	{
 		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
 	},
@@ -6818,55 +6818,55 @@
 	},
 	{
 		"abr": "pirateship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkBottom"
 	},
 	{
 		"abr": "pirateship,largewingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateLeft"
 	},
 	{
 		"abr": "pirateship,largewingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingAlternateRight"
 	},
 	{
 		"abr": "pirateship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideLeft"
 	},
 	{
 		"abr": "pirateship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkSideRight"
 	},
 	{
 		"abr": "pirateship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTop"
 	},
 	{
 		"abr": "pirateship,toplarge",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChunkTopPointy"
 	},
 	{
 		"abr": "pirateship,wingleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingLeft"
 	},
 	{
 		"abr": "pirateship,wingright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_GreyShipChukWingRight"
 	},
@@ -7627,12 +7627,6 @@
 		"defname": "Techprint_BrainWiring"
 	},
 	{
-		"abr": "techprint(cyberneticorganism)",
-		"price": 5000,
-		"category": "Techprints",
-		"defname": "Techprint_ANN_CyberneticOrganism"
-	},
-	{
 		"abr": "thrasher",
 		"price": 2867,
 		"category": "Buildings",
@@ -7646,43 +7640,43 @@
 	},
 	{
 		"abr": "tradeship,bottom",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottom"
 	},
 	{
 		"abr": "tradeship,bottomalternate",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipBottomAlternate"
 	},
 	{
 		"abr": "tradeship,sideleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipLeft"
 	},
 	{
 		"abr": "tradeship,sideright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipRight"
 	},
 	{
 		"abr": "tradeship,tanksleft",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksLeft"
 	},
 	{
 		"abr": "tradeship,tanksright",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTanksRight"
 	},
 	{
 		"abr": "tradeship,top",
-		"price": 2500,
+		"price": -10,
 		"category": "Ship parts",
 		"defname": "AS_OrangeShipTop"
 	},
@@ -8486,7 +8480,7 @@
 	},
 	{
 		"abr": "wraith",
-		"price": 20000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mech_Wraith"
 	},
@@ -8495,6 +8489,12 @@
 		"price": 1250,
 		"category": "Animal",
 		"defname": "HRHM_Mech_Zealot"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Misc",
+		"defname": "Zombrella"
 	}
 	],
 	"total": 1416
