@@ -206,7 +206,7 @@
 		"karmatype": "Doom"
 	},
 	{
-		"abr": "siegeraid",
+		"abr": "siege",
 		"price": 3500,
 		"karmatype": "Doom"
 	},
@@ -302,14 +302,39 @@
 	},
 	{
 		"abr": "passionshuffle",
-		"price": 2000,
+		"price": 1000,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "passion",
+		"price": 7000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 67
 }
