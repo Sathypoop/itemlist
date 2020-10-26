@@ -2,7 +2,7 @@
   "items": [
     {
       "abr": "agavefruit",
-      "category": "Vegetarian",
+      "category": "Fruits",
       "defname": "RawAgave",
       "price": 2
     },
@@ -92,7 +92,7 @@
     },
     {
       "abr": "berries",
-      "category": "Vegetarian",
+      "category": "Fruits",
       "defname": "RawBerries",
       "price": 2
     },
@@ -242,7 +242,7 @@
     },
     {
       "abr": "chocolate",
-      "category": "Foods",
+      "category": "Sweets",
       "defname": "Chocolate",
       "price": 5
     },
@@ -560,7 +560,7 @@
     },
     {
       "abr": "hay",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Hay",
       "price": 1
     },
@@ -674,7 +674,7 @@
     },
     {
       "abr": "kibble",
-      "category": "Foods",
+      "category": "Animal Feed",
       "defname": "Kibble",
       "price": 2
     },
@@ -788,7 +788,7 @@
     },
     {
       "abr": "milk",
-      "category": "Animal products",
+      "category": "Ingredients",
       "defname": "Milk",
       "price": 5
     },
@@ -9167,7 +9167,505 @@
       "category": "Items",
       "defname": "NWardroidKit",
       "price": 5667
+    },
+    {
+      "abr": "apples",
+      "category": "Fruits",
+      "defname": "Rawapple",
+      "price": 2
+    },
+    {
+      "abr": "bakedpolenta",
+      "category": "Fine Meals",
+      "defname": "bakedpolenta",
+      "price": 42
+    },
+    {
+      "abr": "bamboo",
+      "category": "Raw resources",
+      "defname": "Bamboo",
+      "price": 2
+    },
+    {
+      "abr": "banana",
+      "category": "Fruits",
+      "defname": "Rawbanana",
+      "price": 2
+    },
+    {
+      "abr": "barley",
+      "category": "Vegetarian",
+      "defname": "RawBarley",
+      "price": 2
+    },
+    {
+      "abr": "bean",
+      "category": "Vegetarian",
+      "defname": "Rawbean",
+      "price": 2
+    },
+    {
+      "abr": "biofuel",
+      "category": "Manufactured",
+      "defname": "VG_Biofuel",
+      "price": 7
+    },
+    {
+      "abr": "blueberry",
+      "category": "Fruits",
+      "defname": "Rawblueberry",
+      "price": 2
+    },
+    {
+      "abr": "bowlofstew",
+      "category": "Lavish Meals",
+      "defname": "bowlstew",
+      "price": 42
+    },
+    {
+      "abr": "bread",
+      "category": "Simple Meals",
+      "defname": "Bread",
+      "price": 25
+    },
+    {
+      "abr": "cactusfruit",
+      "category": "Vegetarian",
+      "defname": "RawCactusFruit",
+      "price": 2
+    },
+    {
+      "abr": "caramel",
+      "category": "Sweets",
+      "defname": "Caramel",
+      "price": 42
+    },
+    {
+      "abr": "cheese",
+      "category": "Ingredients",
+      "defname": "cheese",
+      "price": 25
+    },
+    {
+      "abr": "cheeseburger",
+      "category": "Fine Meals",
+      "defname": "grilledmeat",
+      "price": 42
+    },
+    {
+      "abr": "cherries",
+      "category": "Fruits",
+      "defname": "RawCherry",
+      "price": 2
+    },
+    {
+      "abr": "chocolatemilk",
+      "category": "Sweets",
+      "defname": "Chocomilk",
+      "price": 25
+    },
+    {
+      "abr": "cloudberry",
+      "category": "Fruits",
+      "defname": "Rawcloudberry",
+      "price": 2
+    },
+    {
+      "abr": "coconut",
+      "category": "Fruits",
+      "defname": "RawCoconut",
+      "price": 2
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Plant matter",
+      "defname": "CPD_CoffeeBeans",
+      "price": 7
+    },
+    {
+      "abr": "cookie",
+      "category": "Lavish Meals",
+      "defname": "cookie",
+      "price": 33
+    },
+    {
+      "abr": "cookingtools",
+      "category": "Production",
+      "defname": "CookingTools",
+      "price": 800
+    },
+    {
+      "abr": "cornbread",
+      "category": "Simple Meals",
+      "defname": "Cornbread",
+      "price": 25
+    },
+    {
+      "abr": "cornmeal",
+      "category": "Ingredients",
+      "defname": "Cornmeal",
+      "price": 5
+    },
+    {
+      "abr": "date",
+      "category": "Fruits",
+      "defname": "Rawdate",
+      "price": 2
+    },
+    {
+      "abr": "driedfruit",
+      "category": "Fruits",
+      "defname": "driedfruit",
+      "price": 23
+    },
+    {
+      "abr": "electricmillingstone",
+      "category": "Production",
+      "defname": "ElectricGrindStone",
+      "price": 276
+    },
+    {
+      "abr": "electricoven",
+      "category": "Production",
+      "defname": "ElectricOven",
+      "price": 367
+    },
+    {
+      "abr": "fig",
+      "category": "Fruits",
+      "defname": "Rawfig",
+      "price": 2
+    },
+    {
+      "abr": "flour",
+      "category": "Ingredients",
+      "defname": "Flour",
+      "price": 7
+    },
+    {
+      "abr": "foodpreptable",
+      "category": "Production",
+      "defname": "Canningstove",
+      "price": 139
+    },
+    {
+      "abr": "foodshelf2x2",
+      "category": "Furniture",
+      "defname": "VG_FoodShelf",
+      "price": 333
+    },
+    {
+      "abr": "fruitdrink",
+      "category": "Sweets",
+      "defname": "Fruitdrink",
+      "price": 12
+    },
+    {
+      "abr": "fruitpieslice",
+      "category": "Simple Meals",
+      "defname": "BlueberryPie",
+      "price": 42
+    },
+    {
+      "abr": "fueledfoodpreptable",
+      "category": "Production",
+      "defname": "HandCanningstove",
+      "price": 139
+    },
+    {
+      "abr": "fueledsweetstable",
+      "category": "Production",
+      "defname": "FueledCandyTable",
+      "price": 217
+    },
+    {
+      "abr": "gardencoffee",
+      "category": "Sweets",
+      "defname": "Coffee",
+      "price": 13
+    },
+    {
+      "abr": "gardentea",
+      "category": "Sweets",
+      "defname": "Cuptea",
+      "price": 13
+    },
+    {
+      "abr": "gooseberry",
+      "category": "Fruits",
+      "defname": "Rawgooseberry",
+      "price": 2
+    },
+    {
+      "abr": "grapes",
+      "category": "Fruits",
+      "defname": "Rawgrape",
+      "price": 2
+    },
+    {
+      "abr": "grilledcheesesandwich",
+      "category": "Simple Meals",
+      "defname": "grilledcheese",
+      "price": 33
+    },
+    {
+      "abr": "grilledkabob",
+      "category": "Simple Meals",
+      "defname": "Kabob",
+      "price": 30
+    },
+    {
+      "abr": "grilledpolenta",
+      "category": "Fine Meals",
+      "defname": "grilledpolenta",
+      "price": 42
+    },
+    {
+      "abr": "grilledsteak",
+      "category": "Simple Meals",
+      "defname": "Grilledsteak",
+      "price": 30
+    },
+    {
+      "abr": "grilledvegetables",
+      "category": "Simple Meals",
+      "defname": "Grilledveg",
+      "price": 30
+    },
+    {
+      "abr": "hardcandy",
+      "category": "Sweets",
+      "defname": "Hardcandy",
+      "price": 42
+    },
+    {
+      "abr": "honey",
+      "category": "Ingredients",
+      "defname": "Honey",
+      "price": 13
+    },
+    {
+      "abr": "honeymead",
+      "category": "Drugs",
+      "defname": "Mead",
+      "price": 18
+    },
+    {
+      "abr": "icecream",
+      "category": "Sweets",
+      "defname": "icecream",
+      "price": 42
+    },
+    {
+      "abr": "ironwood",
+      "category": "Raw resources",
+      "defname": "VG_IronWoodLog",
+      "price": 3
+    },
+    {
+      "abr": "makiroll",
+      "category": "Fine Meals",
+      "defname": "MakiRoll",
+      "price": 35
+    },
+    {
+      "abr": "meatpie",
+      "category": "Simple Meals",
+      "defname": "meatpie",
+      "price": 20
+    },
+    {
+      "abr": "millingstone",
+      "category": "Production",
+      "defname": "GrindStone",
+      "price": 143
+    },
+    {
+      "abr": "muffin",
+      "category": "Fine Meals",
+      "defname": "muffin",
+      "price": 42
+    },
+    {
+      "abr": "mushroom",
+      "category": "Meat",
+      "defname": "Rawmushroom",
+      "price": 3
+    },
+    {
+      "abr": "nigiri",
+      "category": "Fine Meals",
+      "defname": "Nigiri",
+      "price": 27
+    },
+    {
+      "abr": "olive",
+      "category": "Vegetarian",
+      "defname": "RawOlive",
+      "price": 2
+    },
+    {
+      "abr": "orange",
+      "category": "Fruits",
+      "defname": "Raworange",
+      "price": 2
+    },
+    {
+      "abr": "oven",
+      "category": "Production",
+      "defname": "Oven",
+      "price": 212
+    },
+    {
+      "abr": "peach",
+      "category": "Fruits",
+      "defname": "Rawpeach",
+      "price": 2
+    },
+    {
+      "abr": "pickledvegetable",
+      "category": "Vegetarian",
+      "defname": "PickledVeg",
+      "price": 22
+    },
+    {
+      "abr": "pineapple",
+      "category": "Fruits",
+      "defname": "Rawpineapple",
+      "price": 2
+    },
+    {
+      "abr": "pizza",
+      "category": "Lavish Meals",
+      "defname": "pizza",
+      "price": 42
+    },
+    {
+      "abr": "polenta",
+      "category": "Vegetarian",
+      "defname": "RawPolenta",
+      "price": 23
+    },
+    {
+      "abr": "porridge",
+      "category": "Simple Meals",
+      "defname": "Porridge",
+      "price": 27
+    },
+    {
+      "abr": "redlentil",
+      "category": "Meat",
+      "defname": "RawRedLentil",
+      "price": 3
+    },
+    {
+      "abr": "salt",
+      "category": "Raw resources",
+      "defname": "ChunkSalt",
+      "price": 2
+    },
+    {
+      "abr": "saltedmeat",
+      "category": "Meat",
+      "defname": "SaltedMeat",
+      "price": 8
+    },
+    {
+      "abr": "silage",
+      "category": "Animal Feed",
+      "defname": "Silage",
+      "price": 2
+    },
+    {
+      "abr": "smoothie",
+      "category": "Sweets",
+      "defname": "smoothie",
+      "price": 42
+    },
+    {
+      "abr": "snowbeet",
+      "category": "Vegetarian",
+      "defname": "Rawsnowbeet",
+      "price": 2
+    },
+    {
+      "abr": "stirfry",
+      "category": "Fine Meals",
+      "defname": "stirfry",
+      "price": 42
+    },
+    {
+      "abr": "sugar",
+      "category": "Ingredients",
+      "defname": "Sugar",
+      "price": 7
+    },
+    {
+      "abr": "sugarcane",
+      "category": "Ingredients",
+      "defname": "Rawsugarcane",
+      "price": 3
+    },
+    {
+      "abr": "sweetbun",
+      "category": "Fine Meals",
+      "defname": "sweetbun",
+      "price": 42
+    },
+    {
+      "abr": "sweetstable",
+      "category": "Production",
+      "defname": "CandyTable",
+      "price": 217
+    },
+    {
+      "abr": "tacos",
+      "category": "Fine Meals",
+      "defname": "Tacos",
+      "price": 25
+    },
+    {
+      "abr": "taffy",
+      "category": "Sweets",
+      "defname": "Taffy",
+      "price": 42
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Plant matter",
+      "defname": "Rawtea",
+      "price": 3
+    },
+    {
+      "abr": "tofu",
+      "category": "Meat",
+      "defname": "Rawtofu",
+      "price": 23
+    },
+    {
+      "abr": "veganeggsubstitute",
+      "category": "Eggs (unfert.)",
+      "defname": "VeganEgg",
+      "price": 3
+    },
+    {
+      "abr": "watermelon",
+      "category": "Fruits",
+      "defname": "Rawwatermelon",
+      "price": 2
+    },
+    {
+      "abr": "wheat",
+      "category": "Vegetarian",
+      "defname": "Rawwheat",
+      "price": 3
+    },
+    {
+      "abr": "yogurt",
+      "category": "Sweets",
+      "defname": "yogurt",
+      "price": 42
     }
   ],
-  "total": 1528
+  "total": 1611
 }
