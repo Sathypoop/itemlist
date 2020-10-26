@@ -13388,5 +13388,1885 @@
     "KarmaType": "Neutral",
     "Mod": "[CP] Rimmu-Nation - Weapons",
     "QuantityLimit": -1
+  },
+  "Mech40MMCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidT2Kit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "NanowireBattery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "HighPowerTransformer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvancedCoolantInjector": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvRearCounterweight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvHearingS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MultiLayerHeatsink": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MultiSpectrumEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "NaniteStorageDevice": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_AndroidNanokitAdvanced": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "HighPowerConverter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SmellingAdvS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "FarmingMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidT1Kit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_ReloadStation": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidOtherStuffTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidPartsTable": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_AndroidPod": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidOperationBed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AntiMechRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MolecularDecomposer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SecretBatteryPack": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SecretCoolantPump": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ArchHearingS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SecretHeatsink": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MDEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ArchotechNanites": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "QuantumConverter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_T1ArtificialBrain": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_T2ArtificialBrain": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_T3ArtificialBrain": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_T4ArtificialBrain": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BasicRearCounterweight": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BasicLaborMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_AndroidNanokitBasic": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BasicReplacementArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BasicReplacementLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BuilderMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CharismaMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ChemicalEgg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidChicken": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CompositePlating": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SmallBatteryPack": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "LowPowerTransformer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "FlimsyCoolantPump": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CrudeHearingS": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CrudeHeatsink": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CrudeJawAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "LightReceivingDiode": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "TubeSealantTank": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "BasicDCConverter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CookingMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CyberReplacementArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvJawAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "CyberReplacementLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MechanicMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "EvolvingImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX2KFemale": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX3Female": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX4Female": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "FractalPill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "GeoMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MechHandCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvancedReplacementArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvancedReplacementLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "HydraulicArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "HydraulicFrame": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "HydraulicLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I100Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I100Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I100Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I300Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I300Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I300Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I500Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I500Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_I500Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_AndroidNanokitIntermediate": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidDog": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidMuff": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "M7Mech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_AndroidPodMech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX2KMale": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX3Male": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_GS_TX4Male": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "MechMastiffGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MechSwarm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SteelWool": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MicroScyther": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "MiningArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "RegenPillAt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "RoboticCow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_NanitesCoolingSerum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_NanitesCPUSerum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_NanitesFrameSerum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_NanitesHydraulicSerum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "NegotiationMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SpeedMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "NSolution": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "OrbitalTargeterMechFall": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "RoboticSheep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "PlasteelPlating": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Antifreeze": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "PositronMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AndroidProductionVat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_RXChip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_SkyMindRelayTower": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_SkyMindLAN": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_SkyMindWAN": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SoldierMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SteelPlating": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "StructureGel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Nanoswarm_shell": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Android1Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Android2Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Android3Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Android4Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Android5Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "Tainted_Skin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "SurgeonMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android2TX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android2ITX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android2KTX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android2KITX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android3TX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android3ITX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android4TX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "ATPP_Android4ITX": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers - TX Series",
+    "QuantityLimit": -1
+  },
+  "AndroidOperationKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "RepairKitAT": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_VX0Chip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_VX1Chip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_VX2Chip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "ATPP_VX3Chip": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AnimalMindImplant": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1
+  },
+  "AdvancedArchotechArm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "AdvancedArchotechLeg": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ChjSpacerDroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NAdvDroidKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "ChjAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "Leather_ChJAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "Meat_ChjAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChJAndroidPrinter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ArchotechBrainMelder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechDeathClaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechDenture": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechEar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechHeart": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechKidney": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechLiver": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechLung": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechMembrane": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechObliterator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechPelvis": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechSpine": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ArchotechStomach": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "Attomachinery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "BasicArchotechWorkbench": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidMaidBattleDress": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidBattleDroidAssemblyKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidBattleMaidHat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjBattleDroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "NChefDrone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NChefDroneKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "Gun_ChjCoreLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjDroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidDroidAssemblyKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidBattery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroid_ChemfuelGenerator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChJDroidPrinter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjDroidRepairKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjDroidRepairParts": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroid_SolarDuster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "NDronePrinter": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NEngiDrone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NEngiDroneKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "ChjDroidHibernationPad": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidMaidOutfit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "NMedicDrone": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NMedicDroneKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "Nanomachinery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "Picomachinery": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Archotech Expanded",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidGun_Rebelpistol": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjAndroidGun_RebelRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChJAndroidThermalBandages": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
+    "QuantityLimit": -1
+  },
+  "ChjSpacerBattleDroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
+  },
+  "NWardroidKit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids Expanded",
+    "QuantityLimit": -1
   }
 }

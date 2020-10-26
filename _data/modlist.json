@@ -72,6 +72,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -404,12 +410,6 @@
     "name": "[CP] Rimmu-Nation - Weapons"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]",
-    "steamId": "2006605356",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "The White Crayon (Updated for 1.1 by Ogliss)",
     "name": "Quarry 1.1",
     "steamId": "2007576583",
@@ -428,5 +428,39 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time"
+  },
+  {
+    "author": "Neceros",
+    "name": "Android Tiers + Vanilla Expanded Medical"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "aRandomKiwi, CrackaJack",
+    "name": "Android tiers - TX Series"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Rice Rice Baby",
+    "steamId": "1908712892",
+    "version": "2.0.3.0"
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "Androids Expanded"
   }
 ]
