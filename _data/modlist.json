@@ -72,12 +72,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
     "name": "[KV] More Trait Slots",
     "steamId": "1508292711",
@@ -136,10 +130,6 @@
     "name": "High Tech Laboratory Facilities (Continued)",
     "steamId": "1542048177",
     "version": "1.0.12.0"
-  },
-  {
-    "author": "match_milk",
-    "name": "Machine gun defense (Continued)"
   },
   {
     "author": "MRGames",
@@ -272,6 +262,12 @@
     "name": "[FSF] Advanced Bionics Expansion"
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ryflamer",
     "name": "[Ry]Draw a bead"
   },
@@ -279,12 +275,6 @@
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "fed1sPlay",
-    "name": "PawnTargetFix",
-    "steamId": "2014789938",
     "version": "1.0.0.0"
   },
   {
@@ -444,12 +434,6 @@
     "name": "Android tiers - TX Series"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Rice Rice Baby",
-    "steamId": "1908712892",
-    "version": "2.0.3.0"
-  },
-  {
     "author": "Teok25",
     "name": "Archotech Expanded"
   },
@@ -486,5 +470,59 @@
   {
     "author": "dismarzero",
     "name": "VGP Garden Gourmet"
+  },
+  {
+    "author": "Luca De Petrillo",
+    "name": "Real Fog of War",
+    "steamId": "836245605",
+    "version": "1.1.8.1"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.0.9.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness (Light)"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir",
+    "name": "[T] MoreFloors"
+  },
+  {
+    "author": "Rainbeau Flambe (original) & Kiame Vivacity",
+    "name": "[KV] Faction Control",
+    "steamId": "1509102551",
+    "version": "1.0.7546.40571"
+  },
+  {
+    "author": "Kyrrisayo",
+    "name": "Weapons+"
+  },
+  {
+    "author": "MrFisse",
+    "name": "Better Ground Textures?"
+  },
+  {
+    "author": "Jaxxa",
+    "name": "ED-Embrasures",
+    "steamId": "722085442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "match_milk",
+    "name": "Machine gun defense (Continued)"
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Flares"
   }
 ]

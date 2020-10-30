@@ -175,7 +175,7 @@
     },
     "description": "Shows you the current list of commands, which may or may not be this list.",
     "name": "All commands",
-    "usage": "!allcommands",
+    "usage": "!commands",
     "userLevel": "Anyone",
     "shortcut": false
   },

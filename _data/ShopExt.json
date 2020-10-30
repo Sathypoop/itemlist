@@ -2064,7 +2064,7 @@
     {
       "price": 600,
       "defName": "Android3Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T3 Android",
       "data": {
         "customName": false
@@ -2073,7 +2073,7 @@
     {
       "price": 5000,
       "defName": "Android4Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T4 Android",
       "data": {
         "customName": false
@@ -2127,7 +2127,7 @@
     {
       "price": 600,
       "defName": "ATPP_Android3TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3 Android",
       "data": {
         "customName": false
@@ -2136,7 +2136,7 @@
     {
       "price": 600,
       "defName": "ATPP_Android3ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX3I Android",
       "data": {
         "customName": false
@@ -2145,7 +2145,7 @@
     {
       "price": 5000,
       "defName": "ATPP_Android4TX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX4 Android",
       "data": {
         "customName": false
@@ -2154,7 +2154,7 @@
     {
       "price": 5000,
       "defName": "ATPP_Android4ITX",
-      "enabled": true,
+      "enabled": false,
       "name": "TX4I Android",
       "data": {
         "customName": false
@@ -2165,6 +2165,15 @@
       "defName": "ChjSpacerBattleDroid",
       "enabled": false,
       "name": "Wardroid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Zombie",
+      "enabled": false,
+      "name": "Zombie",
       "data": {
         "customName": false
       }

@@ -5169,126 +5169,6 @@
     "Mod": "[SY4] Vanilla-Friendly Weapon Pack",
     "QuantityLimit": -1
   },
-  "AAA_12_7mmAmmoBox": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Magazine_20mm_ArmorPiercing": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "20mm_Shell_ArmorPiercing": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Magazine_20mm_HighExplosive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "20mm_Shell_HighExplosive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "AAA_Crate_Oerlikon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Clip_40mm_HighExplosive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "40mm_Shell_HighExplosive": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Clip_40mm_Incendiary": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "40mm_Shell_Incendiary": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "AAA_Crate_Bofors": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "AAA_MachineGunAmmo": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
   "GTArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5499,16 +5379,6 @@
     "Mod": "Glitter Tech",
     "QuantityLimit": -1
   },
-  "Turret_40mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
   "CannisterTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5579,16 +5449,6 @@
     "Mod": "Glitter Tech",
     "QuantityLimit": -1
   },
-  "CIWS_Turret": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
   "CMissileTurret": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5647,36 +5507,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": -1
-  },
-  "AAA_Turret_Dual40mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_DualM2MG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_Dual20mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "VCEF_RawEel": {
@@ -5747,26 +5577,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Utility Columns",
-    "QuantityLimit": -1
-  },
-  "Turret_GAU17gatling": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_GAU19gatling": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "VCEF_RawGoldfish": {
@@ -5899,36 +5709,6 @@
     "Mod": "Glitter Tech",
     "QuantityLimit": -1
   },
-  "Turret_M2MG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "AAA_Crate_M2_Browning": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_QuadM2MG": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
   "VCEF_RawMackerel": {
     "HasQuantityLimit": false,
     "IsMelee": true,
@@ -5947,26 +5727,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": -1
-  },
-  "Turret_Maxim": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "AAA_Crate_Maxim": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "MendingKit": {
@@ -6057,16 +5817,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Glitter Tech",
-    "QuantityLimit": -1
-  },
-  "Turret_single20mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "OrbitalTradeColumnMod": {
@@ -6187,36 +5937,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Fishing Expanded",
-    "QuantityLimit": -1
-  },
-  "AAA_Turret_Quad40mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_QuadMaxim": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
-    "QuantityLimit": -1
-  },
-  "Turret_Quad20mmGun": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "Apparel_Reactive": {
@@ -15279,14 +14999,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "bakedpolenta": {
+  "WoolCloth": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[T] MoreFloors",
     "QuantityLimit": -1
   },
   "Bamboo": {
@@ -15349,14 +15069,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "bowlstew": {
+  "SurveillanceCamera": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Vegetable Garden",
+    "Mod": "Real Fog of War",
     "QuantityLimit": -1
   },
   "Bread": {
@@ -15389,7 +15109,7 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "cheese": {
+  "muffin": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -15399,7 +15119,7 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "grilledmeat": {
+  "meatpie": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -15459,14 +15179,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "cookie": {
+  "Turret_40mmGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Machine gun defense (Continued)",
     "QuantityLimit": -1
   },
   "CookingTools": {
@@ -15509,14 +15229,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "driedfruit": {
+  "MeleeWeapon_Great_Axe": {
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Weapons+",
     "QuantityLimit": -1
   },
   "ElectricGrindStone": {
@@ -15659,14 +15379,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "grilledcheese": {
+  "MeleeWeapon_Glaive": {
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Weapons+",
     "QuantityLimit": -1
   },
   "Kabob": {
@@ -15679,14 +15399,14 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "grilledpolenta": {
+  "MeleeWeapon_Flail": {
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Weapons+",
     "QuantityLimit": -1
   },
   "Grilledsteak": {
@@ -15739,14 +15459,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "icecream": {
+  "FSFBionicFieldArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[FSF] Advanced Bionics Expansion",
     "QuantityLimit": -1
   },
   "VG_IronWoodLog": {
@@ -15769,14 +15489,14 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "meatpie": {
+  "FSFBionicDrillArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[FSF] Advanced Bionics Expansion",
     "QuantityLimit": -1
   },
   "GrindStone": {
@@ -15789,14 +15509,14 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "muffin": {
+  "FSFBionicConstructionArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[FSF] Advanced Bionics Expansion",
     "QuantityLimit": -1
   },
   "Rawmushroom": {
@@ -15879,14 +15599,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "pizza": {
+  "Eccentric_IlluminationShell": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Eccentric Tech - Flares",
     "QuantityLimit": -1
   },
   "RawPolenta": {
@@ -15949,14 +15669,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "smoothie": {
+  "AMW_MechanoidComponents": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
     "QuantityLimit": -1
   },
   "Rawsnowbeet": {
@@ -15969,14 +15689,14 @@
     "Mod": "VGP Vegetable Garden",
     "QuantityLimit": -1
   },
-  "stirfry": {
+  "AMW_MechanitePack": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Vegetable Garden",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
     "QuantityLimit": -1
   },
   "Sugar": {
@@ -15999,14 +15719,14 @@
     "Mod": "VGP Garden Gourmet",
     "QuantityLimit": -1
   },
-  "sweetbun": {
+  "AMW_AntigranFragments": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
     "QuantityLimit": -1
   },
   "CandyTable": {
@@ -16087,6 +15807,836 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "AMW_MechanoidPlates": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_MechanoidMechanites": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AAA_MachineGunAmmo": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Claymore": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "AAA_Crate_Bofors": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "AMW_MechanoidCores": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_Gun_SChargeCannonAWM": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_MechaWeapon_SSeekerKatana": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_Gun_SNomadRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_Gun_SShreder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "AMW_Gun_SStalkerRifle": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "[RWY]Advanced Mechanoid Warfare",
+    "QuantityLimit": -1
+  },
+  "40mm_Shell_Incendiary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Brass_Knuckles": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "Clip_40mm_Incendiary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Bo_Staff": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Bardiche": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "ZombieExtract": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Meat_Zombie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie10Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie100Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie20Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie30Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie40Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie50Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie60Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie70Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie80Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "Zombie90Serum": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Zombieland",
+    "QuantityLimit": -1
+  },
+  "BenchWoolLoom": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "[T] MoreFloors",
+    "QuantityLimit": -1
+  },
+  "40mm_Shell_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Katana": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Kukri": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "RangedWeapon_Kunai": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Maul": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "Clip_40mm_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Morning_Star": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "AAA_Crate_Oerlikon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Naginata": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Nunchaku": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "20mm_Shell_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Primitive_Knife": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Sabre": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Scythe": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "Magazine_20mm_HighExplosive": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "20mm_Shell_ArmorPiercing": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Magazine_20mm_ArmorPiercing": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Tonfa": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "AAA_12_7mmAmmoBox": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "MeleeWeapon_Zweihander": {
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Weapons+",
+    "QuantityLimit": -1
+  },
+  "icecream": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "grilledpolenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "CIWS_Turret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "grilledcheese": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "AAA_Turret_Dual40mmGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_DualM2MG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_Dual20mmGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_GAU17gatling": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_GAU19gatling": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "EccentricChemlightGreen": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
+    "QuantityLimit": -1
+  },
+  "Eccentric_FlareGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
+    "QuantityLimit": -1
+  },
+  "Eccentric_Flare": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
+    "QuantityLimit": -1
+  },
+  "Turret_M2MG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "AAA_Crate_M2_Browning": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_QuadM2MG": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_Maxim": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "AAA_Crate_Maxim": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "driedfruit": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "cookie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "Turret_single20mmGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "grilledmeat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "AAA_Turret_Quad40mmGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_QuadMaxim": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "Turret_Quad20mmGun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Machine gun defense (Continued)",
+    "QuantityLimit": -1
+  },
+  "cheese": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "bowlstew": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Vegetable Garden",
+    "QuantityLimit": -1
+  },
+  "EccentricChemlightBlue": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
+    "QuantityLimit": -1
+  },
+  "bakedpolenta": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "pizza": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "EccentricChemlightRed": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
+    "QuantityLimit": -1
+  },
+  "smoothie": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "stirfry": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Vegetable Garden",
+    "QuantityLimit": -1
+  },
+  "sweetbun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Gourmet",
+    "QuantityLimit": -1
+  },
+  "EccentricChemlightYellow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Eccentric Tech - Flares",
     "QuantityLimit": -1
   },
   "yogurt": {
