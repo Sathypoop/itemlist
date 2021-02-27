@@ -192,14 +192,14 @@
     "name": "Interaction Bubbles"
   },
   {
-    "author": "Ryflamer",
-    "name": "[Ry]Draw a bead"
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Mod Manager",
-    "steamId": "1507748539",
-    "version": "3.8.1038"
+    "author": "Ryflamer",
+    "name": "[Ry]Draw a bead"
   },
   {
     "author": "Ogre",
@@ -278,12 +278,6 @@
     "version": "2.5.51"
   },
   {
-    "author": "Oskar Potocki, Helixien, Erin, Luizi",
-    "name": "Vanilla Textures Expanded",
-    "steamId": "2016436324",
-    "version": "1.0.0"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -330,12 +324,6 @@
   {
     "author": "Ravvy",
     "name": "[RWY]Advanced Mechanoid Warfare"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0.0"
   },
   {
     "author": "Cocaine™",
@@ -398,10 +386,6 @@
     "name": "More Vanilla Turrets 1.1"
   },
   {
-    "author": "Jaxe",
-    "name": "RimHUD"
-  },
-  {
     "author": "Storm",
     "name": "Rimworld Farming"
   },
@@ -442,5 +426,17 @@
   {
     "author": "Mehni",
     "name": "Dismiss Trader (Continued)"
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0.0"
   }
 ]
