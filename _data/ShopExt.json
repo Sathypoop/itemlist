@@ -183,6 +183,29 @@
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 1000,
+      "defName": "Bravery",
+      "degree": 1,
+      "name": "brave",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-50% suppressability"
+        ]
+      },
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.\n(Combat Extended)",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "defName": "Brawler",
       "degree": 0,
       "name": "brawler",
@@ -198,7 +221,9 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance"
+          "+4.0 melee hit chance",
+          "+25% melee critical chance",
+          "+25% melee parry chance"
         ]
       },
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
@@ -206,7 +231,9 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance"
+        "+4.0 melee hit chance",
+        "+25% melee critical chance",
+        "+25% melee parry chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -254,13 +281,13 @@
         "customName": false,
         "stats": [
           "+25% aiming time",
-          "+5.0 shooting accuracy"
+          "x150% weapon handling"
         ]
       },
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "+5.0 shooting accuracy"
+        "x150% weapon handling"
       ],
       "conflicts": [
         "brawler"
@@ -288,7 +315,7 @@
           "+20.00% trade price improvement"
         ]
       },
-      "description": "Timmy has a shining personality. his words can get through to others more than usual.",
+      "description": "Timmy has a shining personality. his words can get through to others more than usual.\n(Moloy Traits)",
       "stats": [
         "+4 social",
         "+50.00% social impact",
@@ -352,7 +379,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy is an effective leader in ranged combat. Colonists around Timmy have better aim.",
+      "description": "Timmy is an effective leader in ranged combat. Colonists around Timmy have better aim.\n(Moloy Traits)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -371,8 +398,31 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy leads the movement of others well. Colonists around Timmy move faster.",
+      "description": "Timmy leads the movement of others well. Colonists around Timmy move faster.\n(Moloy Traits)",
       "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "defName": "Bravery",
+      "degree": -1,
+      "name": "cowardly",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+25% suppressability"
+        ]
+      },
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.\n(Combat Extended)",
+      "stats": [
+        "+25% suppressability"
+      ],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -433,7 +483,7 @@
           "+50.00% social impact"
         ]
       },
-      "description": "Timmy Acts abnormally, probably due to their oddly high intelligence. he often makes a larger impact socially... For better or worse. Timmy is so out of the social loop, he doesn't realise when he is being insulted.",
+      "description": "Timmy Acts abnormally, probably due to their oddly high intelligence. he often makes a larger impact socially... For better or worse. Timmy is so out of the social loop, he doesn't realise when he is being insulted.\n(Moloy Traits)",
       "stats": [
         "+4 intellectual",
         "+50.00% social impact"
@@ -494,17 +544,21 @@
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 1000,
-      "defName": "VCEF_Fisherman",
-      "degree": 0,
-      "name": "fisherman",
+      "defName": "Bravery",
+      "degree": 2,
+      "name": "fearless",
       "data": {
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "stats": []
+        "stats": [
+          "-100% suppressability"
+        ]
       },
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.\n(Combat Extended)",
+      "stats": [
+        "-100% suppressability"
+      ],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -628,25 +682,6 @@
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 1000,
-      "defName": "FeelingsTowardHumanity",
-      "degree": 2,
-      "name": "hateshumanity",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
       "defName": "MT_Hermit",
       "degree": 0,
       "name": "hermit",
@@ -661,7 +696,7 @@
           "-50.00% social impact"
         ]
       },
-      "description": "Timmy prefers being solitary. he is better at working with plants anyways.",
+      "description": "Timmy prefers being solitary. he is better at working with plants anyways.\n(Moloy Traits)",
       "stats": [
         "-4 social",
         "+4 plants",
@@ -690,39 +725,6 @@
       "description": "Timmy has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "stats": [
         "+35% global work speed"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
-      "defName": "Intolerance",
-      "degree": 0,
-      "name": "intolerance",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "Only mental break \"Berserk\" allowed.",
-          "Only mental break \"Slaughterer\" allowed.",
-          "Only mental break \"MurderousRage\" allowed.",
-          "Only mental break \"SadisticRage\" allowed.",
-          "Only mental break \"InsultingSpree\" allowed.",
-          "-90.00% social impact"
-        ]
-      },
-      "description": "Timmy is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
-      "stats": [
-        "Only mental break \"Berserk\" allowed.",
-        "Only mental break \"Slaughterer\" allowed.",
-        "Only mental break \"MurderousRage\" allowed.",
-        "Only mental break \"SadisticRage\" allowed.",
-        "Only mental break \"InsultingSpree\" allowed.",
-        "-90.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false
@@ -855,25 +857,6 @@
       "canRemove": true,
       "addPrice": 2000,
       "removePrice": 1000,
-      "defName": "FeelingsTowardHumanity",
-      "degree": 1,
-      "name": "loveshumanity",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
       "defName": "MT_Luminary",
       "degree": 0,
       "name": "luminary",
@@ -883,7 +866,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "For whatever reason, everyone seems to really care how Timmy is feeling.",
+      "description": "For whatever reason, everyone seems to really care how Timmy is feeling.\n(Moloy Traits)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -907,29 +890,6 @@
       "description": "For Timmy, there's something exciting about getting hurt. he doesn't know why, he's just wired differently.",
       "stats": [
         "Morbid meditation focus type allowed."
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
-      "defName": "MechAtlas",
-      "degree": 0,
-      "name": "mech",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-90.00% social impact"
-        ]
-      },
-      "description": "A mechanized infantry unit, they do not think or feel.",
-      "stats": [
-        "-90.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false
@@ -1052,13 +1012,13 @@
         "conflicts": [],
         "customName": false,
         "stats": [
-          "+15.0 melee dodge chance",
+          "+50% melee dodge chance",
           "x10% trap spring chance"
         ]
       },
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+15.0 melee dodge chance",
+        "+50% melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -1116,7 +1076,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy is full of energy. he will randomly gain the Frenzy Go Inspiration, even if he is not happy.",
+      "description": "Timmy is full of energy. he will randomly gain the Frenzy Go Inspiration, even if he is not happy.\n(Moloy Traits)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1159,7 +1119,7 @@
           "-2 social"
         ]
       },
-      "description": "Timmy is overtly concerned with social hitches. he tends to annoy others and can't stand his ex-lovers moving on.",
+      "description": "Timmy is overtly concerned with social hitches. he tends to annoy others and can't stand his ex-lovers moving on.\n(Moloy Traits)",
       "stats": [
         "-2 social"
       ],
@@ -1393,29 +1353,6 @@
       "description": "Timmy has an awful immune system. he gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "stats": [
         "+4 medical"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
-      "defName": "SimpleMindedAndroid",
-      "degree": 0,
-      "name": "simpleminded",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-90.00% social impact"
-        ]
-      },
-      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
-      "stats": [
-        "-90.00% social impact"
       ],
       "conflicts": [],
       "bypassLimit": false
@@ -1711,13 +1648,13 @@
         "customName": false,
         "stats": [
           "-50% aiming time",
-          "-5.0 shooting accuracy"
+          "x50% weapon handling"
         ]
       },
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
-        "-5.0 shooting accuracy"
+        "x50% weapon handling"
       ],
       "conflicts": [
         "brawler"
@@ -1741,7 +1678,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy harshly criticizes and dictates the actions of others. Colonists around Timmy move and work faster, but receive a mood debuff from the added stress.",
+      "description": "Timmy harshly criticizes and dictates the actions of others. Colonists around Timmy move and work faster, but receive a mood debuff from the added stress.\n(Moloy Traits)",
       "stats": [],
       "conflicts": [
         "kind",
@@ -1809,7 +1746,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy loves to take risks and complete quests. he will recieve mood buffs for successful quests, and debuffs for failed quests.",
+      "description": "Timmy loves to take risks and complete quests. he will recieve mood buffs for successful quests, and debuffs for failed quests.\n(Moloy Traits)",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1883,7 +1820,7 @@
           "+20% mental break threshold"
         ]
       },
-      "description": "Timmy is a genius crafter, and will often have creative inspiration. However, his mind is constantly ticking, making Timmy much more likely to have a mental break.",
+      "description": "Timmy is a genius crafter, and will often have creative inspiration. However, his mind is constantly ticking, making Timmy much more likely to have a mental break.\n(Moloy Traits)",
       "stats": [
         "+3 artistic",
         "+3 crafting",
@@ -1921,259 +1858,14 @@
         "brawler"
       ],
       "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
-      "defName": "Xenophobia",
-      "degree": -1,
-      "name": "xenophile",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 1000,
-      "defName": "Xenophobia",
-      "degree": 1,
-      "name": "xenophobe",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
     }
   ],
   "races": [
     {
-      "price": 2750,
-      "defName": "ChjSpacerDroid",
-      "enabled": false,
-      "name": "Advanced droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "ChjAndroid",
-      "enabled": false,
-      "name": "Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3167,
-      "defName": "ChjBattleDroid",
-      "enabled": false,
-      "name": "Battledroid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 667,
-      "defName": "NChefDrone",
-      "enabled": false,
-      "name": "chef",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1417,
-      "defName": "ChjDroid",
-      "enabled": false,
-      "name": "Droid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 667,
-      "defName": "NEngiDrone",
-      "enabled": false,
-      "name": "engineer",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 500,
+      "price": 2917,
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 30000,
-      "defName": "M7Mech",
-      "enabled": false,
-      "name": "M7 Mechanised infantry",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1100,
-      "defName": "NMedicDrone",
-      "enabled": false,
-      "name": "medic",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 200,
-      "defName": "Android1Tier",
-      "enabled": true,
-      "name": "T1 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 300,
-      "defName": "Android2Tier",
-      "enabled": true,
-      "name": "T2 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 600,
-      "defName": "Android3Tier",
-      "enabled": false,
-      "name": "T3 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "Android4Tier",
-      "enabled": false,
-      "name": "T4 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 13333,
-      "defName": "Android5Tier",
-      "enabled": false,
-      "name": "T5 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 300,
-      "defName": "ATPP_Android2TX",
-      "enabled": true,
-      "name": "TX2 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 300,
-      "defName": "ATPP_Android2ITX",
-      "enabled": true,
-      "name": "TX2I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 300,
-      "defName": "ATPP_Android2KTX",
-      "enabled": true,
-      "name": "TX2K Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 300,
-      "defName": "ATPP_Android2KITX",
-      "enabled": true,
-      "name": "TX2KI Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 600,
-      "defName": "ATPP_Android3TX",
-      "enabled": false,
-      "name": "TX3 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 600,
-      "defName": "ATPP_Android3ITX",
-      "enabled": false,
-      "name": "TX3I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ATPP_Android4TX",
-      "enabled": false,
-      "name": "TX4 Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5000,
-      "defName": "ATPP_Android4ITX",
-      "enabled": false,
-      "name": "TX4I Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 5833,
-      "defName": "ChjSpacerBattleDroid",
-      "enabled": false,
-      "name": "Wardroid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1,
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
       "data": {
         "customName": false
       }
