@@ -174,12 +174,10 @@
     "name": "Dire Raids"
   },
   {
-    "author": "Azelion",
-    "name": "Sort colonist bar"
-  },
-  {
     "author": "Jaxe",
-    "name": "Interaction Bubbles"
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "1.7.0.0"
   },
   {
     "author": "erdelf",
@@ -265,7 +263,7 @@
     "author": "zymex",
     "name": "Project RimFactory Revived",
     "steamId": "2033979700",
-    "version": "2.5.51"
+    "version": "2.5.61"
   },
   {
     "author": "Andreas Pardeike",
@@ -344,10 +342,6 @@
     "name": "FrameRateControl",
     "steamId": "1591142767",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Sam",
-    "name": "Glitter Tech"
   },
   {
     "author": "Pravus",
