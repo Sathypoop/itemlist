@@ -73,7 +73,7 @@ str_Lime_Art: 'Lime plaster art'
 
 #Animal Search
 str_animals: 'Animals'
-str_animal: 'Animal'
+str_animal: 'Animals'
 str_animal_search: 'Search for animals...'
 
 #Food search
