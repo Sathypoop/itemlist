@@ -15,13 +15,13 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "2.3.2.0"
+    "version": "2.5.0.0"
   },
   {
     "author": "hodlhodl",
@@ -39,7 +39,37 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.2"
+    "version": "6.1.6.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike and  BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.1.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
+    "name": "Alpha Animals",
+    "steamId": "1541721856",
+    "version": "1.3.7862.41411"
   },
   {
     "author": "lbmaian",
@@ -48,8 +78,50 @@
     "version": "1.5"
   },
   {
+    "author": "Owlchemist",
+    "name": "Moonlight",
+    "steamId": "2589384830",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and  Usagirei",
+    "name": "More Planning 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan",
+    "steamId": "1253251478",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll",
     "steamId": null,
     "version": null
   },
@@ -63,7 +135,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.3.3096.1"
+    "version": "1.3.3117.2"
   },
   {
     "author": "Telefonmast",
@@ -111,7 +183,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.2.3.0"
+    "version": "3.3.8.0"
   },
   {
     "author": "Oskar Potocki,  Kikohi and  Helixien",
@@ -171,7 +243,7 @@
     "author": "Andreas Pardeike",
     "name": "Rice Rice Baby",
     "steamId": "1908712892",
-    "version": "2.1.2.0"
+    "version": "2.2.0.0"
   },
   {
     "author": "Spdskatr and  CaesarV6",
@@ -225,7 +297,7 @@
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
-    "version": "1.3.7862.41411"
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -366,12 +438,6 @@
     "version": null
   },
   {
-    "author": "Helpful Bot; Inspired by Viceroy,  creator of Darkness Revamp which was updated by Cram and to A14 by Helpful Bot",
-    "name": "Realistic Darkness V2.0 A16",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Jaxe",
     "name": "Interaction Bubbles",
     "steamId": "1516158345",
@@ -381,7 +447,7 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "0.6.3.2195"
+    "version": "0.6.3.2196"
   },
   {
     "author": "Ghost_Rolly",
