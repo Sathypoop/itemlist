@@ -60,6 +60,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "legodude17",
+    "name": "Quality Colors",
+    "steamId": "2420141361",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -94,6 +100,18 @@
     "name": "Begone, Message!",
     "steamId": "1951637504",
     "version": "1.5"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Break Mod",
+    "steamId": "1722398508",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Sarg",
+    "name": "Smart Speed",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Fluffy",
@@ -256,6 +274,12 @@
     "name": "Gunplay",
     "steamId": "2034896549",
     "version": "1.0.379.0018"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation",
+    "steamId": "2575938407",
+    "version": "1.0.0.0"
   },
   {
     "author": "Kor_HellCross",
@@ -444,12 +468,6 @@
     "version": null
   },
   {
-    "author": "Derek Bickley",
-    "name": "[LTO] Texture Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Orion",
     "name": "Therapy",
     "steamId": null,
@@ -598,5 +616,95 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "sy4",
+    "name": "[SY4] Vanilla-Friendly Weapon Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Avoid Friendly Fire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madeline",
+    "name": "Better ModMismatch Window",
+    "steamId": "1872244972",
+    "version": "1.1.3"
+  },
+  {
+    "author": "Jellypowered",
+    "name": "Craftsmanship",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mythos",
+    "name": "Diseases Overhauled",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ryflamer",
+    "name": "[Ry]Draw a bead",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "notfood",
+    "name": "Infused",
+    "steamId": "731287727",
+    "version": "1.1.1.0"
+  },
+  {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dninemfive",
+    "name": "Quality Cooldown",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Set Owner for Prisoner Beds",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NukaFrog Gloomylynx",
+    "name": "SheathYourSword",
+    "steamId": null,
+    "version": null
   }
 ]

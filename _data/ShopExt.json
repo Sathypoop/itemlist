@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -2418,6 +2418,39 @@
       "enabled": true,
       "name": "troll",
       "price": 100
+    },
+    {
+      "data": {
+        "stats": [
+          "+65.00 Mass",
+          "+100% Flammability",
+          "+$2750 Market value",
+          "+4.80 Move speed",
+          "+35.0C Maximum comfortable temperature",
+          "+10.0C Minimum comfortable temperature",
+          "+100% Immunity gain speed",
+          "+75 Carrying capacity",
+          "+80 Meat amount",
+          "+50 Leather amount",
+          "+80% Psychic sensitivity",
+          "+1.2 Melee dodge chance",
+          "+55.00% Social impact",
+          "+80% General labor speed",
+          "+120% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+6 Honor value"
+        ],
+        "mod": "Heyra the Horned",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "These savage barbarians are the nemesis of Heyras. They have thrown away the sense of moral and pursuit the primal pleasure. A series of evidence indicates that Rong is a separated branch of Heyra, although the Supreme Hierarch of Heyra denies this in all her strength.",
+      "defName": "Alien_Heyra_Rong",
+      "enabled": true,
+      "name": "Rong",
+      "price": 4583
     }
   ]
 }

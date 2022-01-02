@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -81,11 +81,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "toxicfallout",
-		"price": 6500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "volcanicwinter",
 		"price": 3200,
 		"karmatype": "Doom"
@@ -107,7 +102,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 450,
 		"karmatype": "Good"
 	},
 	{
@@ -237,11 +232,6 @@
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -436,5 +426,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 85
 }
