@@ -8799,26 +8799,6 @@
     "Mod": "Dubs Bad Hygiene",
     "KarmaType": null
   },
-  "cheese": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
   "PitLatrine": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -10439,26 +10419,6 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "meatpie": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
   "PegLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -11539,7 +11499,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "LTS_Klimpfjall": {
+  "UT_AncientStack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11556,10 +11516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Mullfjallet": {
+  "UT_SleeveCasket": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11576,10 +11536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Kivik": {
+  "UT_FilledCorticalStack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11596,10 +11556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Kyrre": {
+  "UT_EmptyCorticalStack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11609,17 +11569,17 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Norraryd": {
+  "UT_OrganicNose": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11636,10 +11596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Arkelstorp": {
+  "UT_OrganicEar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11656,10 +11616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_HangingBed": {
+  "UT_OrganicEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11676,10 +11636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Firepit": {
+  "UT_OrganicStomach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11696,10 +11656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_FirepitRound": {
+  "UT_OrganicLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11716,10 +11676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Fireplace": {
+  "UT_OrganicArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -11736,16 +11696,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "LTS_Lanternpost": {
+  "VFEP_WarcasketGun_HeavyFlamer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -11756,16 +11716,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "LTS_Lightpost": {
+  "VFEP_WarcasketGun_GrenadeLauncher": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -11776,16 +11736,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "LTS_PathA": {
+  "VFEP_WarcasketGun_Minigun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -11796,16 +11756,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "LTS_PathB": {
+  "VFEP_WarcasketGun_Slugthrower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -11816,7 +11776,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[LTS]Furnishing",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
   "FSFAdvBionicBladder": {
@@ -13459,7 +13419,87 @@
     "Mod": "[FSF] Advanced Bionics Expansion",
     "KarmaType": null
   },
-  "VCE_ElectricPot": {
+  "VFEP_WarcasketGun_UraniumSlugRifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketGun_Autorifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketMeleeWeapon_Broadsword": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_WarcasketMeleeWeapon_CombatKnife": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Apparel_Rumsuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13476,10 +13516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_Grill": {
+  "VFEP_Apparel_Privateer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13496,10 +13536,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_DeepFrier": {
+  "VFEP_Rum": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Vanilla Factions Expanded - Pirates",
+    "KarmaType": null
+  },
+  "VFEP_Box_Broadsword": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13516,10 +13576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CanningMachine": {
+  "VFEP_Box_CombatKnife": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13536,10 +13596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CondimentPrepTable": {
+  "VFEP_Box_HeavyFlamer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13556,10 +13616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CheesePress": {
+  "VFEP_Box_GrenadeLauncher": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13576,10 +13636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_SimpleBake": {
+  "VFEP_Box_Minigun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13596,10 +13656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_FineBake": {
+  "VFEP_Box_Slugthrower": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13616,10 +13676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_LavishBake": {
+  "VFEP_Box_UraniumSlugRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13636,10 +13696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_GourmetBake": {
+  "VFEP_Box_Autorifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13656,10 +13716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CannedMeat": {
+  "VFEP_Turret_Cannon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13676,10 +13736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CannedProduce": {
+  "VFEP_Turret_FieldGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13696,250 +13756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Vanilla Factions Expanded - Pirates",
     "KarmaType": null
   },
-  "VCE_CannedFruit": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_CannedAP": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_CannedFish": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_Cheese": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_AgaveNectar": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_RawSugar": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_RawSpices": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_Salt": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_Mayo": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_InsectJellyPreserves": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_SmokeleafButter": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_ChocolateSyrup": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
-    "KarmaType": null
-  },
-  "VCE_DigestibleResurrectorNanites": {
+  "PRF_MachineFrame_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13956,10 +13776,50 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_DeepFriedBigMeat": {
+  "PRF_MachineFrame_II": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_MachineFrame_I": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_DataDisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13976,10 +13836,110 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_DeepFriedVegetables": {
+  "PRF_DroneModule": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_ElectronicChip_III": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_ElectronicChip_II": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_ElectronicChip_I": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_RoboticArm": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Project RimFactory Revived",
+    "KarmaType": null
+  },
+  "PRF_ItemSlide": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -13996,10 +13956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_DeepFriedFish": {
+  "PRF_IOPPusher_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14016,10 +13976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_SimpleDessert": {
+  "PRF_IOPort_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14036,10 +13996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_FineDessert": {
+  "PRF_DigitalStorageUnit_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14056,10 +14016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_LavishDessert": {
+  "PRF_SteelCrate_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14076,10 +14036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_GourmetDessert": {
+  "PRF_SteelCrate_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14096,10 +14056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_MealGourmet": {
+  "PRF_WoodCrate_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14116,10 +14076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_SimpleGrill": {
+  "PRF_WoodCrate_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14136,10 +14096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_RuinedSimpleGrill": {
+  "PRF_GodlyCrafter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14156,10 +14116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_FineGrill": {
+  "PRF_SALAutoMinerI": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14176,10 +14136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_RuinedFineGrill": {
+  "PRF_SALAutoCooker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14196,10 +14156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_LavishGrill": {
+  "PRF_OverclockedAutoAssemblerII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14216,10 +14176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_RuinedLavishGrill": {
+  "PRF_OverclockedAutoAssembler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14236,10 +14196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_GourmetGrill": {
+  "PRF_TheArtMaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14256,10 +14216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_RuinedGourmetGrill": {
+  "PRF_TheArtMachine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14276,10 +14236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_Flour": {
+  "PRF_AutoCrafter": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14296,10 +14256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_UncookedSoupSimple": {
+  "PRF_AutoCrafterSimple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14316,10 +14276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_CookedSoupSimple": {
+  "PRF_Floorspotlight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14336,10 +14296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_UncookedSoupFine": {
+  "PRF_IndustrialLamp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14356,10 +14316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_CookedSoupFine": {
+  "PRF_SunWallLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14376,10 +14336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_UncookedSoupLavish": {
+  "PRF_WallLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14396,10 +14356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_CookedSoupLavish": {
+  "PRF_BillTypeMiner_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14416,10 +14376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_UncookedSoupGourmet": {
+  "PRF_DeepQuarry_mkIII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14436,10 +14396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "VCE_CookedSoupGourmet": {
+  "PRF_DeepQuarry_mkII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14456,10 +14416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_ElectricMill": {
+  "PRF_DeepQuarry_mkI": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14476,10 +14436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_PrimitiveCrushingSpot": {
+  "PRF_MineShaft": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14496,10 +14456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_Quernstone": {
+  "PRF_Conveyor_Splitter_Wall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14516,10 +14476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_Sugarcane": {
+  "PRF_Conveyor_Splitter_UG": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14536,10 +14496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_SugarcaneJuice": {
+  "PRF_Conveyor_Splitter_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14556,10 +14516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "COMIGO_WheatGrain": {
+  "PRF_Conveyor_Connector_To_Floor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -14576,7 +14536,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Comigo's Adequate Cooking Expanded",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
   "Heyra_Hierarchattire": {
@@ -16079,7 +16039,7 @@
     "Mod": "Perfectly Generic Item",
     "KarmaType": null
   },
-  "BULDRESTStool": {
+  "PRF_Conveyor_Connector_To_UG": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16096,10 +16056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "WODENTable": {
+  "PRF_Conveyor_UG_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16116,10 +16076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "PILFURBed": {
+  "PRF_Conveyor_Wall_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16136,10 +16096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp": {
+  "PRF_Conveyor_Simple_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16156,10 +16116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp_Red": {
+  "PRF_Conveyor_Simple_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16176,10 +16136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp_Green": {
+  "PRF_Conveyor_Simple_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16196,10 +16156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp_Blue": {
+  "PRF_SimplePuller_II_Wall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16216,10 +16176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp_Violet": {
+  "PRF_SimplePuller_II_Side": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16236,10 +16196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAGESHAINLamp_Yellow": {
+  "PRF_SimplePuller_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16256,10 +16216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "LAMPONLamp": {
+  "PRF_SimplePuller_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16276,10 +16236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "FEERSTELL": {
+  "PRF_GrowzonePuller_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16296,10 +16256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "BUMRESTStool": {
+  "PRF_SmartHopper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16316,10 +16276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SITEGGArmchair": {
+  "PRF_FuelingMachine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16336,10 +16296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "CHILLEGGCouch": {
+  "PRF_FurnaceIII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16356,10 +16316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "EATFLATTTable": {
+  "PRF_FurnaceII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16376,10 +16336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SNOREGGSingle": {
+  "PRF_FurnaceI": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16396,10 +16356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SNOREGGDouble": {
+  "PRF_PartAssembler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16416,10 +16376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "PETSNORR": {
+  "PRF_MetalRefinery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16436,10 +16396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp": {
+  "PRF_MrTsArtMachine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16456,10 +16416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp_Red": {
+  "PRF_Recycler": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16476,10 +16436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp_Green": {
+  "PRF_StoneWorks": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16496,10 +16456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp_Blue": {
+  "PRF_MiniDroneColumn": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16516,10 +16476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp_Violet": {
+  "PRF_MiniHelper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16536,10 +16496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SHAINBRAITLamp_Yellow": {
+  "PRF_Sprinkler_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16556,10 +16516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "POTBLUM": {
+  "PRF_Sprinkler_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16576,10 +16536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "FUTSTENTRug": {
+  "PRF_OldTypeCultivator_Xl": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16596,10 +16556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "STEPFUTRug": {
+  "PRF_OldTypeCultivator_Sun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16616,10 +16576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "RUGUN": {
+  "PRF_OldTypeCultivator_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16636,10 +16596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "RUGDWA": {
+  "PRF_DroneCultivator_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16656,10 +16616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "RUGTRE": {
+  "PRF_DroneCultivator_II_sun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16676,10 +16636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "RUGFIR": {
+  "PRF_DroneCultivator_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16696,10 +16656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "REGSITStool": {
+  "PRF_DroneCultivator_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16716,10 +16676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SITTSLABChair": {
+  "PRF_SelfPrepper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16736,10 +16696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "STAMMRESTChair": {
+  "PRF_FermentingBarrel": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16756,10 +16716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "PILREKLINCouch": {
+  "PRF_MeatGrinder": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16776,10 +16736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "BUTTEKUSHPillow": {
+  "PRF_SelfCookerIII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16796,10 +16756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "STAMMFLATTTable": {
+  "PRF_SelfCookerII": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16816,10 +16776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SLABFLATTTable": {
+  "PRF_SelfCookerI": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16836,10 +16796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KRUDNEPPSingle": {
+  "TableRoboticMachining": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16856,10 +16816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SLABNEPPDouble": {
+  "PRF_ResearchTerminal": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16876,10 +16836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SNORHOI": {
+  "PRF_256k_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16896,10 +16856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "BOLTASKLamp": {
+  "PRF_64k_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16916,10 +16876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "KAROMUF": {
+  "PRF_16k_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16936,10 +16896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SMOERTIGE": {
+  "PRF_4k_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16956,10 +16916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "LORDOKI": {
+  "PRF_TypeTwoAssembler_III": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16976,10 +16936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "BLUMTASK": {
+  "PRF_TypeTwoAssembler_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16996,10 +16956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "muffin": {
+  "PRF_TypeTwoAssembler_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17016,10 +16976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "MATIPESSIRug": {
+  "PRF_TypeOneAssembler_I": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17036,10 +16996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "MISKANTAARug": {
+  "PRF_RecipeDatabase": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17056,27 +17016,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
-    "KarmaType": null
-  },
-  "HOISTEPRug": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
   "RF_Compost": {
@@ -17119,7 +17059,7 @@
     "Mod": "Rimworld Farming",
     "KarmaType": null
   },
-  "SM_MeatRack": {
+  "PRF_Slaughterhouse": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17136,10 +17076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SM_SausagePost": {
+  "PRF_GenericAnimalHarvester_II": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17156,10 +17096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SM_SaltedMeat": {
+  "PRF_GenericAnimalHarvester": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17176,10 +17116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SM_Salt": {
+  "PRF_Milker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17196,10 +17136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SM_Sausage_Raw": {
+  "PRF_Shearer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17216,10 +17156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "Project RimFactory Revived",
     "KarmaType": null
   },
-  "SM_Sausage": {
+  "Building_RTMagneticShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -17236,7 +17176,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Salted Meat 2.0",
+    "Mod": "RT Solar Flare Shield",
     "KarmaType": null
   },
   "DwarfRace": {
@@ -17899,13 +17839,13 @@
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
     "KarmaType": null
   },
-  "VCEF_RawAnchovy": {
+  "RNApparel_Backpack_Wasing": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -17916,16 +17856,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawAngelfish": {
+  "RNApparel_Backpack_HelikonBailOutBag": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -17936,16 +17876,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawAnglerfish": {
+  "RNApparel_Backpack_AnCHero": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -17956,16 +17896,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawBass": {
+  "RNApparel_Backpack_TarpBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -17976,16 +17916,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawCatfish": {
+  "RNApparel_Backpack_HelloKitty": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -17996,16 +17936,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawClownfish": {
+  "RNApparel_Backpack_Tomahawk": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18016,16 +17956,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawCod": {
+  "RNApparel_Backpack_AMAPIII": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18036,16 +17976,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawEel": {
+  "RNApparel_Backpack_MountainWarehouseMerlin": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18056,16 +17996,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawGoldfish": {
+  "RNApparel_Backpack_WENGERSyngery": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18076,16 +18016,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawGuppy": {
+  "RNApparel_Backpack_BearGryllsBearpac": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18096,16 +18036,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawHaddock": {
+  "RNApparel_Backpack_WarriorPegasus": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18116,16 +18056,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawHalibut": {
+  "RNApparel_Backpack_KeltyRaven2500Pack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18136,16 +18076,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawHerring": {
+  "RNApparel_Backpack_FASTPack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18156,16 +18096,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawKoi": {
+  "RNApparel_Backpack_RUSH24BP": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18176,16 +18116,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawLobster": {
+  "RNApparel_Backpack_WarriorHelmetCarrier": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18196,16 +18136,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawMackerel": {
+  "RNApparel_Backpack_NitecoreBP20Pack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18216,16 +18156,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawMinnow": {
+  "RNApparel_Backpack_AssaultPack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18236,16 +18176,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawPerch": {
+  "RNApparel_Backpack_RUSH12BP": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18256,16 +18196,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawPiranha": {
+  "RNApparel_Backpack_TactixHalfday": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18276,16 +18216,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawPufferfish": {
+  "RNApparel_Backpack_OutdoorMaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18296,16 +18236,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawSalmon": {
+  "RNApparel_Backpack_Gootium": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18316,16 +18256,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawSprat": {
+  "RNApparel_Backpack_Motherlode": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18336,16 +18276,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawSwordfish": {
+  "RNApparel_Backpack_Naotak": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18356,16 +18296,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawTrout": {
+  "RNApparel_Backpack_StudentBackpack": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18376,16 +18316,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VCEF_RawTuna": {
+  "RNApparel_Backpack_LBT0101JJ": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -18396,7 +18336,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Fishing Expanded",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Radio_Industrial": {
@@ -19999,7 +19939,7 @@
     "Mod": "VGP Garden Medicine",
     "KarmaType": null
   },
-  "Raweggplant": {
+  "RNApparel_Backpack_NorthFaceTerra65L": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20016,10 +19956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Rawpumpkin": {
+  "RNApparel_Backpack_AzimutSSKangaroo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20036,10 +19976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Rawsquash": {
+  "RNApparel_Backpack_BerghausVulcanIV": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20056,10 +19996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawTomatoes": {
+  "RNApparel_Backpack_MOLLE2UCP": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20076,10 +20016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawCarrots": {
+  "RNApparel_RiotSuit_SecPro": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20096,10 +20036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawKiwi": {
+  "RNApparel_SecProHelmet_Riot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20116,10 +20056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawMango": {
+  "RNApparel_MedEng_JuggernautSuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20136,10 +20076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawAvocado": {
+  "RNApparel_Helmet_Juggernaut": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20156,10 +20096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VG_Guacamole": {
+  "RNApparel_6B48_Helmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20176,7 +20116,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP More Veggies",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Cuptea": {
@@ -20279,7 +20219,7 @@
     "Mod": "VGP Vegetable Garden",
     "KarmaType": null
   },
-  "bakedpolenta": {
+  "SpeedCharge_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20296,10 +20236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Enhanced Battery",
     "KarmaType": null
   },
-  "grilledpolenta": {
+  "ChargeBack_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20316,7 +20256,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Enhanced Battery",
     "KarmaType": null
   },
   "VG_Hardtack": {
@@ -20999,7 +20939,7 @@
     "Mod": "VGP Vegetable Garden",
     "KarmaType": null
   },
-  "smoothie": {
+  "ChargeBack_Battery_Prototype": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21016,10 +20956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Enhanced Battery",
     "KarmaType": null
   },
-  "BlueberryPie": {
+  "RNApparel_STSh81_Helmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21036,10 +20976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "icecream": {
+  "RNApparel_LZSH2DTM_Olive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21056,16 +20996,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Bread": {
+  "Heyra_Swordmastersword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -21076,10 +21016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "yogurt": {
+  "Heyra_Rawbean": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21096,47 +21036,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
-  "pizza": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "VGP Garden Gourmet",
-    "KarmaType": null
-  },
-  "grilledmeat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
   "Alien_Heyra_Rong": {
@@ -21159,7 +21059,7 @@
     "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "Porridge": {
+  "RNApparel_ACH_UCP": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21176,7 +21076,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Heyra_Gunblade": {
@@ -21239,7 +21139,7 @@
     "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "Tacos": {
+  "RNApparel_LWH_DMARPAT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21256,10 +21156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Grilledsteak": {
+  "RNApparel_PASGT_ENVO": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21276,10 +21176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Grilledveg": {
+  "RNApparel_PASGT_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21296,10 +21196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Kabob": {
+  "RNApparel_VestGuardPASGT_PRESS": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21316,7 +21216,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Heyra_Rong_MaskA": {
@@ -21359,7 +21259,7 @@
     "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "Cornbread": {
+  "RNApparel_VestGuardPASGT_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21376,7 +21276,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Heyra_Rong_Berserkerarmor": {
@@ -21399,7 +21299,7 @@
     "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "grilledcheese": {
+  "Heyra_Beanpulp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21416,10 +21316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "Rawwheat": {
+  "RNApparel_Mk7BallisticHelmet_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21436,10 +21336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Rawsugarcane": {
+  "RNApparel_Mk6ABallisticHelmet_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21456,10 +21356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "sweetbun": {
+  "Heyra_Biscuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21476,10 +21376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "Sugar": {
+  "RNApparel_Mk6BallisticHelmet_Olive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21496,10 +21396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Flour": {
+  "RNApparel_Mk6BallisticHelmet_DDPM": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21516,10 +21416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Cornmeal": {
+  "RNApparel_MICH2000_AmericanSniper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21536,10 +21436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VeganEgg": {
+  "RNApparel_MICH2000_CAG": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21556,10 +21456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MakiRoll": {
+  "RNApparel_OpsCoreFASTCarbon_Grey": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21576,10 +21476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Nigiri": {
+  "RNApparel_OpsCoreFASTBUMP_Multicam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21596,10 +21496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Caramel": {
+  "RNApparel_OpsCoreFAST_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21616,10 +21516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Hardcandy": {
+  "RNApparel_VestGuardFAST_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21636,10 +21536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Taffy": {
+  "RNApparel_UaRmsTORD_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21656,10 +21556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "SaltedMeat": {
+  "RNApparel_FLUXBallisticHelmet_Raid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21676,10 +21576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Rawtofu": {
+  "RNApparel_3MF70HighCut_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21696,10 +21596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "RawPolenta": {
+  "RNApparel_EXFILBallisticHelmet_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21716,10 +21616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "PickledVeg": {
+  "RNApparel_ProTecPrime_PizzaTime": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21736,10 +21636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Oven": {
+  "RNApparel_M1Helmet_Vietnam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21756,10 +21656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "ElectricOven": {
+  "RNApparel_GalacTecBodyArmour_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21776,10 +21676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "HandCanningstove": {
+  "RNApparel_GalacTacFAST_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21796,10 +21696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Canningstove": {
+  "RNApparel_MedEng_EOD9Suit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21816,10 +21716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "FueledCandyTable": {
+  "RNApparel_MedEngHelmet_EOD9A": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21836,10 +21736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CandyTable": {
+  "RNApparel_Defender2_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21856,10 +21756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CookingTools": {
+  "RNApparel_BristolBodyArmor_Olive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21876,10 +21776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "GrindStone": {
+  "RNApparel_PACALVC_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21896,10 +21796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "ElectricGrindStone": {
+  "RNApparel_MBCFantom_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21916,10 +21816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "ChunkSalt": {
+  "RNApparel_AR500Veritas_Brown": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21936,10 +21836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MealCannedFood": {
+  "RNApparel_LBTG3_Multicam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21956,10 +21856,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Canning",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CannedVeg": {
+  "RNApparel_LBTMPC_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21976,10 +21876,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Canning",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CannedMeat": {
+  "RNApparel_PointBlankFASTC_CoyoteBrown": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -21996,10 +21896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Canning",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CannedFruit": {
+  "RNApparel_PointBlankASPC_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22016,10 +21916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Canning",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "CanningFactory": {
+  "RNApparel_ViperLazerSOPC_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22036,10 +21936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Canning",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggGriffinFertilized": {
+  "RNApparel_PASGTVest_Olive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22056,10 +21956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggPhoenixFertilized": {
+  "RNApparel_PinnacleArmor_DragonSkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22076,10 +21976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggSalamanderFertilized": {
+  "RNApparel_VestguardQRX_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22096,10 +21996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggFenghuangFertilized": {
+  "RNApparel_VestguardQRA_Black": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22116,10 +22016,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggIeltxuFertilized": {
+  "RNApparel_VestguardOT103_Navy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22136,10 +22036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_EggBasiliskFertilized": {
+  "RNApparel_VestguardCT101_Navy": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22156,10 +22056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_LightMagicalLeather": {
+  "RNApparel_MTV_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22176,10 +22076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_HeavyMagicalLeather": {
+  "RNApparel_IOTV_UCP": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22196,10 +22096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Ahuizotl": {
+  "RNApparel_OTV_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22216,10 +22116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Basilisk": {
+  "RNApparel_OspreyMk3_DDPM": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22236,10 +22136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Catoblepas": {
+  "RNApparel_FlyyeFCPC_Multicam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22256,10 +22156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Cerberus": {
+  "RNApparel_ENVOVestSystem_Grey": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22276,10 +22176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_CeryneianHind": {
+  "RNApparel_WarriorDCS_ODGreen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22296,10 +22196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Chimera": {
+  "RNApparel_DDTGhost_ODGreen": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22316,10 +22216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_ErymanthianBoar": {
+  "RNApparel_511TacTec_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22336,10 +22236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Fenghuang": {
+  "RHApparel_SafarilandPoliceBelt_Glock": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22356,10 +22256,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Griffin": {
+  "RHApparel_SafarilandPoliceBelt_Beretta": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22376,10 +22276,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Ieltxu": {
+  "RHApparel_TexShoemakerPoliceBelt_Python": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22396,10 +22296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Kappa": {
+  "RHApparel_Arktis_TacticalVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22416,10 +22316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Kitsune": {
+  "RHApparel_KulaMongoose_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22436,10 +22336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_LernaeanHydra": {
+  "RHApparel_M23_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22456,10 +22356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_LesserWyvern": {
+  "RHApparel_Type63Webbing_ColdWar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22476,10 +22376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Manticore": {
+  "RHApparel_Type56Webbing_ColdWar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22496,10 +22396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Pegasus": {
+  "RHApparel_SuperBelt_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22516,10 +22416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Phoenix": {
+  "RHApparel_VTACBattleBelt_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22536,10 +22436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Qilin": {
+  "RHApparel_CondorBattleBelt_Tan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22556,10 +22456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Salamander": {
+  "RHApparel_WarriorFalcon_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22576,10 +22476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Tlilcoatl": {
+  "RHApparel_MilTec_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22596,10 +22496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Unicorn": {
+  "RHApparel_CryeAVSTan_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22616,10 +22516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_WildMinotaur": {
+  "RHApparel_CondorRecon_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22636,10 +22536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_WillOWisp": {
+  "RHApparel_USMC_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22656,10 +22556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "MM_Xiezhi": {
+  "RHApparel_RRV_ChestRig": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22676,7 +22576,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Magical Menagerie",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "ArcheryTarget": {
@@ -22739,7 +22639,7 @@
     "Mod": "Misc. Training",
     "KarmaType": null
   },
-  "Leather_Arachnids": {
+  "RHApparel_ALICEWebbing_ColdWar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22756,30 +22656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "ArachnidLeg": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
-    "KarmaType": null
-  },
-  "ArachnidCarapace": {
+  "RHApparel_M56Webbing_Vietnam": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22796,10 +22676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_WarriorBug": {
+  "RNApparel_UBACShirt_DDPM": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22816,10 +22696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_WarriorBugHive": {
+  "RNApparel_BDU_DMARPAT": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22836,10 +22716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_TankerBug": {
+  "RNApparel_ACU_UCP": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22856,10 +22736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_ScorpionBug": {
+  "RNApparel_HawaiianShirt_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22876,10 +22756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_FireFlyBug": {
+  "RNApparel_ButtonShirt_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22896,10 +22776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_BombardierBug": {
+  "RNApparel_TankTop_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22916,10 +22796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_PlasmaGrenadierBug": {
+  "RNApparel_FlightSuit_Brandit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22936,10 +22816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_HopperBug": {
+  "RNApparel_Shirt_BlackhawkPursuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22956,10 +22836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Arachnid_PlasmaBug": {
+  "RNApparel_Jacket_GORKA3Jacket": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22976,7 +22856,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "[1.3] Starship Troopers Arachnids Ver6.3",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_UBACShirt_511RapidAssault": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Lighting_MURWallLight": {
@@ -23279,7 +23179,7 @@
     "Mod": "Wall Light",
     "KarmaType": null
   },
-  "SM_FishDrier": {
+  "RNApparel_PoloShirt_511Tactical": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23296,10 +23196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "SM_DriedFish": {
+  "RNApparel_NorweiganShirt_Pullover": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -23316,7 +23216,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Meat_Bear_Grizzly": {
@@ -25659,7 +25559,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "driedfruit": {
+  "Heyra_Stonemill": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25676,10 +25576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "cookie": {
+  "Heyra_Rainhat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25696,10 +25596,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Garden Gourmet",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "stirfry": {
+  "Heyra_Swordmasterarmor": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Heyra the Horned",
+    "KarmaType": null
+  },
+  "PlantPot_BambooBonsai": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25719,7 +25639,7 @@
     "Mod": "VGP Vegetable Garden",
     "KarmaType": null
   },
-  "bowlstew": {
+  "Heyra_Scalearmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25736,10 +25656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "VGP Vegetable Garden",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "aFLIKFUTRug": {
+  "Heyra_Raincoat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25756,10 +25676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "RIMkea",
+    "Mod": "Heyra the Horned",
     "KarmaType": null
   },
-  "denture": {
+  "RNApparel_Hoodie_FruitOfTheLoom": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -25776,27 +25696,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
-    "KarmaType": null
-  },
-  "plumbingValve": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "Meat_Heyra_Dismemberer": {
@@ -30599,7 +30499,7 @@
     "Mod": "A Dog Said... Animal Prosthetics",
     "KarmaType": null
   },
-  "Detoxamin": {
+  "RNApparel_TacticalJacket_TACVASEN": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30616,10 +30516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Methylanphenamid": {
+  "RNApparel_SuedeJacket_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30636,10 +30536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Mortracain": {
+  "RNApparel_SuitJacket_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30656,10 +30556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Tranquiazepin": {
+  "RNApparel_Overcoat_Generic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30676,10 +30576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Tritoxylon": {
+  "RNApparel_Shemagh_511BlazeWrap": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30696,10 +30596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "VegetableBroth": {
+  "RNApparel_Gasmask_MSAMillenium": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30716,7 +30616,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Diseases Overhauled",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
   "InfusedAmplifier": {
@@ -30759,7 +30659,7 @@
     "Mod": "Infused",
     "KarmaType": null
   },
-  "LaserTableSculpting": {
+  "RNApparel_Gasmask_M1Yugoslavian": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30776,10 +30676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Diamond": {
+  "RNApparel_Gasmask_GP5Soviet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30796,10 +30696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Ruby": {
+  "RNApparel_Gasmask_S10NBC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30816,10 +30716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Sapphire": {
+  "RNApparel_Gasmask_S6NBC": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30836,10 +30736,790 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
     "KarmaType": null
   },
-  "Jewelry_Bracelet": {
+  "RNApparel_Gasmask_P1944WWI": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_SuitBrioni": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_CombatsDDPM": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_BDUDMARPAT": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_ACUUCP": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Jeans_Generic": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_GORKA3Pants": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_BearGryllsSurvivor": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_FjallravenKeb": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_HelikonPilgrim": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_511StrykeMulticam": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_BlackhawkPursuit": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Pants_511Stryke": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Balaclava_CheekiBreeki": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Balaclava_Highlander": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Balaclava_AikuerSkull": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Balaclava_511M": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Balaclava_EXF": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Beret_RUMilitary": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_BoonieHat_MILTEC": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_BoonieHat_Bushmaster": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_FieldCap_HelikonTex": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_BaseballCap_511Tactical": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Beanie_Beechfield": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_EyePros_SIBallisticMFrame": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_EyePros_8X10BallisticGoggles": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_EyePros_TerminatorGlasses": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_EyePros_RB3025AviatorGlasses": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_EarDefs_PeltorOptimeII": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_Shemagh_Bandana": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "RNApparel_ColdWar_Bandana": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[RH2] Rimmu-Nation² - Clothing",
+    "KarmaType": null
+  },
+  "stirfry": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "VGP Vegetable Garden",
+    "KarmaType": null
+  },
+  "bowlstew": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "VGP Vegetable Garden",
+    "KarmaType": null
+  },
+  "FSFImplantTorsoResurrect": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[FSF] Advanced Bionics Expansion",
+    "KarmaType": null
+  },
+  "denture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "plumbingValve": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Dubs Bad Hygiene",
+    "KarmaType": null
+  },
+  "ChunkMarble": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "ChunkSlate": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "ChunkLimestone": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "ResonanceCell_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30856,10 +31536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "Enhanced Battery",
     "KarmaType": null
   },
-  "Jewelry_Bracelet_Silver": {
+  "VoidCell_Battery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30876,10 +31556,90 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "Enhanced Battery",
     "KarmaType": null
   },
-  "Jewelry_Earring": {
+  "ChunkGranite": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "ChunkSandstone": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "RimWorld",
+    "KarmaType": null
+  },
+  "Turret_MegaThunderTargeter": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Thunder Targeter",
+    "KarmaType": null
+  },
+  "Turret_ThunderTargeter": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Thunder Targeter",
+    "KarmaType": null
+  },
+  "UT_BrainTemplateCombat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30896,10 +31656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "Jewelry_Earring_Silver": {
+  "UT_BrainTemplateWorker": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30916,10 +31676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "Jewelry_Necklace": {
+  "UT_BrainTemplateInfiltrator": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30936,130 +31696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Jewelry",
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "Jewelry_Necklace_Silver": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Jewelry",
-    "KarmaType": null
-  },
-  "Jewelry_Ring": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Jewelry",
-    "KarmaType": null
-  },
-  "Jewelry_Ring_Silver": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Jewelry",
-    "KarmaType": null
-  },
-  "SYS_Dagger": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "SheathYourSword",
-    "KarmaType": null
-  },
-  "SYS_OneHanded": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "SheathYourSword",
-    "KarmaType": null
-  },
-  "SYS_TwoHanded": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "SheathYourSword",
-    "KarmaType": null
-  },
-  "VEF_AdvancedAnimalImplantsTable": {
+  "UT_Apparel_ProtectorateArmorHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31076,10 +31716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "MM_ProstheticStinger": {
+  "UT_Apparel_ProtectorateArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -31096,250 +31736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": null,
+    "Mod": "Ultratech: Altered Carbon Remastered",
     "KarmaType": null
   },
-  "MM_BionicStinger": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_ProstheticMagicalWing": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_BionicMagicalWing": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_ProstheticHorns": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_BionicHorns": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_PetrifyingGazeImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_VenomousQuillImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_WispFireImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_AcidicBreathImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_FireBreathImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "MM_ToxicBreathImplant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "Jewelry_PsychicNecklace_Silver": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": null,
-    "KarmaType": null
-  },
-  "Jewelry_PsychicNecklace": {
+  "UT_BrainTemplatePsycaster": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
