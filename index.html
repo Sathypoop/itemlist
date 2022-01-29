@@ -1,15 +1,11 @@
----
-layout: page
-title: Shop
----
+--- layout: page title: Shop ---
 
 <div class="tab">
-    <button class="tablinks" onclick="changeTab(event, 'items')"
-        id="defaultOpen">{{- site.data.language.str_items -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'items')" id="defaultOpen">{{- site.data.language.str_items -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'events')">{{- site.data.language.str_events -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'traits')">{{- site.data.language.str_traits -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'races')">{{- site.data.language.str_races -}}</button>
-	<button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
+    <button class="tablinks" onclick="changeTab(event, 'weapons')">{{- site.data.language.str_weapons -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'apparel')">{{- site.data.language.str_apparel -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'medical')">{{- site.data.language.str_medical -}}</button>
     <button class="tablinks" onclick="changeTab(event, 'furniture')">{{- site.data.language.str_furniture -}}</button>
@@ -19,8 +15,7 @@ title: Shop
 </div>
 
 <div id="items" class="tabcontent">
-    <input type="text" class="search" id="itemsInput" onkeyup="filterTable('items')"
-        placeholder="{{- site.data.language.str_items_search -}}">
+    <input type="text" class="search" id="itemsInput" onkeyup="filterTable('items')" placeholder="{{- site.data.language.str_items_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -29,58 +24,44 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 -%}
         <tr>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 
 <div id="weapons" class="tabcontent">
-    <input type="text" class="search" id="weaponsInput" onkeyup="filterTable('weapons')"
-        placeholder="{{- site.data.language.str_weapons_search -}}">
+    <input type="text" class="search" id="weaponsInput" onkeyup="filterTable('weapons')" placeholder="{{- site.data.language.str_weapons_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
             <th>Name</th>
             <th>Cost</th>
+            <th>BaseDamage</th>
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_Ranged_Weapons
-                or item.category == site.data.language.str_Melee_Weapons
-                or item.category == site.data.language.str_AR.
-                or item.category == site.data.language.str_BAS
-              or item.category == site.data.language.str_DMR
-              or item.category == site.data.language.str_LMG
-              or item.category == site.data.language.str_Pistol
-              or item.category == site.data.language.str_Shotgun
-              or item.category == site.data.language.str_SMG
-              or item.category == site.data.language.str_Spacer
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_Ranged_Weapons or item.category == site.data.language.str_Melee_Weapons or item.category == site.data.language.str_AR. or item.category ==
+        site.data.language.str_BAS or item.category == site.data.language.str_DMR or item.category == site.data.language.str_LMG or item.category == site.data.language.str_Pistol or item.category == site.data.language.str_Shotgun or item.category == site.data.language.str_SMG
+        or item.category == site.data.language.str_Spacer -%}
         <tr>
-            
+            <td>0</td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="apparel" class="tabcontent">
-    <input type="text" class="search" id="apparelInput" onkeyup="filterTable('apparel')"
-        placeholder="{{- site.data.language.str_apparel_search -}}">
+    <input type="text" class="search" id="apparelInput" onkeyup="filterTable('apparel')" placeholder="{{- site.data.language.str_apparel_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -89,36 +70,22 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_apparel 
-                or item.category == site.data.language.str_Accessories
-                or item.category == site.data.language.str_Armor
-                or item.category == site.data.language.str_Loadbearing_Gear
-                or item.category == site.data.language.str_Magic_Equip
-                or item.category == site.data.language.str_Body_Gear
-                or item.category == site.data.language.str_Footwear
-                or item.category == site.data.language.str_Headgear
-                or item.category == site.data.language.str_Noble_Apparel
-                or item.category == site.data.language.str_BA
-                or item.category == site.data.language.str_CJ
-                or item.category == site.data.language.str_Helmet
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_apparel or item.category == site.data.language.str_Accessories or item.category == site.data.language.str_Armor or item.category == site.data.language.str_Loadbearing_Gear
+        or item.category == site.data.language.str_Magic_Equip or item.category == site.data.language.str_Body_Gear or item.category == site.data.language.str_Footwear or item.category == site.data.language.str_Headgear or item.category == site.data.language.str_Noble_Apparel
+        or item.category == site.data.language.str_BA or item.category == site.data.language.str_CJ or item.category == site.data.language.str_Helmet -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="medical" class="tabcontent">
-    <input type="text" class="search" id="medicalInput" onkeyup="filterTable('medical')"
-        placeholder="{{- site.data.language.str_medical_search -}}">
+    <input type="text" class="search" id="medicalInput" onkeyup="filterTable('medical')" placeholder="{{- site.data.language.str_medical_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -127,34 +94,22 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_Animal_body_Part 
-                or item.category == site.data.language.str_Archotech
-                or item.category == site.data.language.str_Bionic
-                or item.abr == site.data.language.str_HealerMechSerum
-                or item.abr == site.data.language.str_RessurectorMechSerum
-                or item.category == site.data.language.str_Medicine
-                or item.category == site.data.language.str_Natural
-                or item.category == site.data.language.str_Prostethic
-                or item.category == site.data.language.str_SimpleParts
-                or item.category == site.data.language.str_Ultratech
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_Animal_body_Part or item.category == site.data.language.str_Archotech or item.category == site.data.language.str_Bionic or item.abr == site.data.language.str_HealerMechSerum
+        or item.abr == site.data.language.str_RessurectorMechSerum or item.category == site.data.language.str_Medicine or item.category == site.data.language.str_Natural or item.category == site.data.language.str_Prostethic or item.category == site.data.language.str_SimpleParts
+        or item.category == site.data.language.str_Ultratech -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="animal" class="tabcontent">
-    <input type="text" class="search" id="animalInput" onkeyup="filterTable('animals')"
-        placeholder="{{- site.data.language.str_animal_search -}}">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('animals')" placeholder="{{- site.data.language.str_animal_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -163,25 +118,20 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_animal 
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_animal -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="food" class="tabcontent">
-    <input type="text" class="search" id="animalInput" onkeyup="filterTable('food')"
-        placeholder="{{- site.data.language.str_food_search -}}">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('food')" placeholder="{{- site.data.language.str_food_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -190,47 +140,25 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_Animal_Feed 
-                or item.category == site.data.language.str_Eggs_Fert
-                or item.category == site.data.language.str_Eggs_Unfert
-                or item.category == site.data.language.str_Fine_Meals
-                or item.category == site.data.language.str_Foods
-                or item.category == site.data.language.str_Fruits
-                or item.category == site.data.language.str_Garden_Alcohol
-                or item.category == site.data.language.str_Garden_Soda
-                or item.category == site.data.language.str_Ingredients
-                or item.category == site.data.language.str_Lavish_Meals
-                or item.category == site.data.language.str_MRE_Rations
-                or item.category == site.data.language.str_Meals
-                or item.category == site.data.language.str_Processed_fruits
-                or item.category == site.data.language.str_Processed_grains
-                or item.category == site.data.language.str_Processed_meat
-                or item.category == site.data.language.str_Processed_Sweets
-                or item.category == site.data.language.str_raw_fish
-	            or item.category == site.data.language.str_vege	    
-                or item.category == site.data.language.str_simple_meals
-                or item.category == site.data.language.str_snacks
-                or item.category == site.data.language.str_sweets
-        
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_Animal_Feed or item.category == site.data.language.str_Eggs_Fert or item.category == site.data.language.str_Eggs_Unfert or item.category
+        == site.data.language.str_Fine_Meals or item.category == site.data.language.str_Foods or item.category == site.data.language.str_Fruits or item.category == site.data.language.str_Garden_Alcohol or item.category == site.data.language.str_Garden_Soda
+        or item.category == site.data.language.str_Ingredients or item.category == site.data.language.str_Lavish_Meals or item.category == site.data.language.str_MRE_Rations or item.category == site.data.language.str_Meals or item.category == site.data.language.str_Processed_fruits
+        or item.category == site.data.language.str_Processed_grains or item.category == site.data.language.str_Processed_meat or item.category == site.data.language.str_Processed_Sweets or item.category == site.data.language.str_raw_fish or item.category
+        == site.data.language.str_vege or item.category == site.data.language.str_simple_meals or item.category == site.data.language.str_snacks or item.category == site.data.language.str_sweets -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 
 <div id="drugs" class="tabcontent">
-    <input type="text" class="search" id="animalInput" onkeyup="filterTable('drugs')"
-        placeholder="{{- site.data.language.str_drugs_search -}}">
+    <input type="text" class="search" id="animalInput" onkeyup="filterTable('drugs')" placeholder="{{- site.data.language.str_drugs_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -239,29 +167,21 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_drugs 
-                or item.category == site.data.language.str_alcohol_precursor
-                or item.category == site.data.language.str_plant_matter
-                or item.category == site.data.language.str_Garden_Alcohol
-                or item.category == site.data.language.str_DNET
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_drugs or item.category == site.data.language.str_alcohol_precursor or item.category == site.data.language.str_plant_matter or item.category
+        == site.data.language.str_Garden_Alcohol or item.category == site.data.language.str_DNET -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="furniture" class="tabcontent">
-    <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('furniture')"
-        placeholder="{{- site.data.language.str_furniture_search -}}">
+    <input type="text" class="search" id="furnitureInput" onkeyup="filterTable('furniture')" placeholder="{{- site.data.language.str_furniture_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -270,30 +190,22 @@ title: Shop
             <th>Category</th>
         </tr>
 
-        {%- for item in site.data.StoreItems.items -%}
-        {%- if item.price >= 0 
-               and item.category == site.data.language.str_furniture 
-                or item.category == site.data.language.str_Hygiene
-                or item.category == site.data.language.str_Misc
-                or item.category == site.data.language.str_Trophy
-                or item.category == site.data.language.str_Lime_Art
-        -%}
+        {%- for item in site.data.StoreItems.items -%} {%- if item.price >= 0 and item.category == site.data.language.str_furniture or item.category == site.data.language.str_Hygiene or item.category == site.data.language.str_Misc or item.category == site.data.language.str_Trophy
+        or item.category == site.data.language.str_Lime_Art -%}
         <tr>
-            
+
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 
 <div id="events" class="tabcontent">
-    <input type="text" class="search" id="eventsInput" onkeyup="filterTable('events')"
-        placeholder="{{- site.data.language.str_events_search -}}">
+    <input type="text" class="search" id="eventsInput" onkeyup="filterTable('events')" placeholder="{{- site.data.language.str_events_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -302,8 +214,7 @@ title: Shop
             <th>Karma Type</th>
         </tr>
 
-        {%- for item in site.data.StoreIncidents.incitems -%}
-        {%- if item.price > 0 -%}
+        {%- for item in site.data.StoreIncidents.incitems -%} {%- if item.price > 0 -%}
         <tr>
             <td>{{- item.abr -}}</td>
             {%- if item.abr == site.data.language.str_trait_id or item.abr == site.data.language.str_removetrait_id -%}
@@ -315,14 +226,12 @@ title: Shop
             {%- endif -%}
             <td>{{- item.karmatype -}}</td>
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="traits" class="tabcontent">
-    <input type="text" class="search" id="traitsInput" onkeyup="filterTable('traits')"
-        placeholder="{{- site.data.language.str_traits_search -}}">
+    <input type="text" class="search" id="traitsInput" onkeyup="filterTable('traits')" placeholder="{{- site.data.language.str_traits_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -332,18 +241,11 @@ title: Shop
             <th style="width: 15%">Remove Cost</th>
         </tr>
 
-        {%- for item in site.data.ShopExt.traits -%}
-        {%- if item.canAdd or item.canRemove -%}
+        {%- for item in site.data.ShopExt.traits -%} {%- if item.canAdd or item.canRemove -%}
         <tr>
             <td>{{- item.name | capitalize -}}</td>
             <td style="font-size: 17px;">
-                {{- item.description -}}
-
-                {%- capture temp -%}
-                {{- item.stats | first -}}
-                {%- endcapture -%}
-
-                {%- if temp != "" -%}
+                {{- item.description -}} {%- capture temp -%} {{- item.stats | first -}} {%- endcapture -%} {%- if temp != "" -%}
                 <span style="font-style:italic; color: #09cbd4; font-size: 17px;">
                     <br />
                     <br />
@@ -354,14 +256,7 @@ title: Shop
                         <li>{{- stat -}}</li>
                         {%- endfor -%}
                     </ul>
-                </span>
-                {%- endif -%}
-
-                {%- capture nameTemp -%}
-                {{- item.conflicts | first -}}
-                {%- endcapture -%}
-
-                {%- if nameTemp != "" -%}
+                </span> {%- endif -%} {%- capture nameTemp -%} {{- item.conflicts | first -}} {%- endcapture -%} {%- if nameTemp != "" -%}
                 <span style="font-style:italic; color: #09cbd4; font-size: 17px;">
                     {%- if temp == "" -%}
                     <br />
@@ -375,30 +270,25 @@ title: Shop
                         <li>{{- c -}}</li>
                         {%- endfor -%}
                     </ul>
-                </span>
-                {%- endif -%}
+                </span> {%- endif -%}
             </td>
 
             {%- if item.canAdd -%}
             <td>{{- item.addPrice -}}</td>
             {%- else -%}
             <td>{{- site.data.language.str_disabled -}}</td>
-            {%- endif -%}
-
-            {%- if item.canRemove -%}
+            {%- endif -%} {%- if item.canRemove -%}
             <td>{{- item.removePrice -}}</td>
             {%- else -%}
             <td>{{- site.data.language.str_disabled -}}</td>
             {%- endif -%}
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
 <div id="races" class="tabcontent">
-    <input type="text" class="search" id="racesInput" onkeyup="filterTable('races')"
-        placeholder="{{- site.data.language.str_races_search -}}">
+    <input type="text" class="search" id="racesInput" onkeyup="filterTable('races')" placeholder="{{- site.data.language.str_races_search -}}">
 
     <table style="display: table" class="sortable">
         <tr>
@@ -406,14 +296,12 @@ title: Shop
             <th>Cost</th>
         </tr>
 
-        {%- for item in site.data.ShopExt.races -%}
-        {%- if item.enabled -%}
+        {%- for item in site.data.ShopExt.races -%} {%- if item.enabled -%}
         <tr>
             <td>{{- item.name -}}</td>
             <td>{{- item.price -}}</td>
         </tr>
-        {%- endif -%}
-        {%- endfor -%}
+        {%- endif -%} {%- endfor -%}
     </table>
 </div>
 
@@ -448,8 +336,7 @@ title: Shop
         price = 0;
         priceSearch = 1;
 
-        if (filter.startsWith("CATEGORY:") && category == "items") 
-		{
+        if (filter.startsWith("CATEGORY:") && category == "items") {
             filter = filter.substring("category".length + 1);
             column = 2;
         }
@@ -562,7 +449,7 @@ title: Shop
         border: 1px solid #616161;
         background-color: #616161;
     }
-
+    
     .tab button {
         background-color: inherit;
         float: left;
@@ -572,32 +459,30 @@ title: Shop
         padding: 14px 16px;
         transition: 0.3s;
     }
-
+    
     .tab button:hover {
         background-color: #2b2b2b;
     }
-
+    
     .tab button.active {
         background-color: #2b2b2b;
     }
-
+    
     .tabcontent {
         display: none;
         animation: fadeEffect 320ms;
         border-top: none;
     }
-
+    
     @keyframes fadeEffect {
         from {
             opacity: 0;
         }
-
         to {
             opacity: 1;
         }
     }
-
-
+    
     .search {
         width: 100%;
         font-size: 16px;
