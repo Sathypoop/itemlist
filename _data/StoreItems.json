@@ -5830,7 +5830,8 @@
       "abr": "a-91",
       "category": "Ranged weapons",
       "defname": "VFWP_Gun_A91_AR",
-      "price": 800
+      "price": 800,
+      "damage": 11
     },
     {
       "abr": "aa-12",
