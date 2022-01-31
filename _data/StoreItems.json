@@ -7,10 +7,170 @@
 		"defname": "ComponentSpacer"
 	},
 	{
+		"abr": "shrike5.56",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AWS_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "škorpionvz.65",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VZ65_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "a-91",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_A91_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "ace21",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACE21_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "ace23",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACE23_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "ace52",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACE52_BR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "ace53sv",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACE53_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "acr",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACRSTD_AR",
+		"damage": "12",
+		"range": "30.9"
+	},
+	{
+		"abr": "acrsbr",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ACRSBR_AR",
+		"damage": "12",
+		"range": "25.9"
+	},
+	{
+		"abr": "aek-971",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AEK971_AR",
+		"damage": "10",
+		"range": "30.9"
+	},
+	{
 		"abr": "agavefruit",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawAgave"
+	},
+	{
+		"abr": "ak-101",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK101_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "ak-12",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK12_AR",
+		"damage": "10",
+		"range": "30.9"
+	},
+	{
+		"abr": "ak-15",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK15_AR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "ak5",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK5_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "ak5c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK5C_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "ak-74",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK74_AR",
+		"damage": "10",
+		"range": "30.9"
+	},
+	{
+		"abr": "ak-74m",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AK74M_AR",
+		"damage": "10",
+		"range": "30.9"
+	},
+	{
+		"abr": "akm",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AKM_AR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "aks-74u",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AKS74U_AR",
+		"damage": "10",
+		"range": "25.9"
+	},
+	{
+		"abr": "aku-12",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AKU12_AR",
+		"damage": "10",
+		"range": "25.9"
 	},
 	{
 		"abr": "alpaca",
@@ -47,6 +207,22 @@
 		"price": 25,
 		"category": "Drugs",
 		"defname": "Ambrosia"
+	},
+	{
+		"abr": "amr-2",
+		"price": 1167,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AMR_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
+		"abr": "an-94",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AN94_AR",
+		"damage": "10",
+		"range": "30.9"
 	},
 	{
 		"abr": "animalbed",
@@ -109,18 +285,76 @@
 		"defname": "TableSculpting"
 	},
 	{
+		"abr": "arx160",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ARX160_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "arx160c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ARX160C_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "asval",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ASVAL_SMG",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "as50",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AS50_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
 		"abr": "assaultrifle",
 		"price": 800,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle",
-		"damage": "11"
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "auga3",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AUGA3_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "auga3para",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_AUGA3PARA_SMG",
+		"damage": "7",
+		"range": "22.9"
 	},
 	{
 		"abr": "autopistol",
 		"price": 232,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol",
-		"damage": "10"
+		"damage": "10",
+		"range": "25.9"
+	},
+	{
+		"abr": "ballista",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_BALLISTA_SR",
+		"damage": "17",
+		"range": "44.9"
 	},
 	{
 		"abr": "battery",
@@ -265,7 +499,8 @@
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle",
-		"damage": "18"
+		"damage": "18",
+		"range": "36.9"
 	},
 	{
 		"abr": "boomalope",
@@ -302,6 +537,14 @@
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_BreachAxe"
+	},
+	{
+		"abr": "bren",
+		"price": 625,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_BREN_LMG",
+		"damage": "16",
+		"range": "25.9"
 	},
 	{
 		"abr": "brewery",
@@ -388,25 +631,36 @@
 		"defname": "Meat_Cat"
 	},
 	{
+		"abr": "cbj-ms",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CBJMS_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
 		"abr": "chainshotgun",
 		"price": 675,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun",
-		"damage": "18"
+		"damage": "18",
+		"range": "12.9"
 	},
 	{
 		"abr": "chargelance",
 		"price": 2258,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance",
-		"damage": "30"
+		"damage": "30",
+		"range": "29.9"
 	},
 	{
 		"abr": "chargerifle",
 		"price": 1683,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle",
-		"damage": "15"
+		"damage": "15",
+		"range": "25.9"
 	},
 	{
 		"abr": "chemfuel",
@@ -541,6 +795,46 @@
 		"defname": "Apparel_CowboyHat"
 	},
 	{
+		"abr": "cs5",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CS5_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "cs-lr4",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CSLR4_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "cz75",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CZ75_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "cz750",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CZ750_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "cz805bren",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CZ805_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
 		"abr": "deathacidifier",
 		"price": 667,
 		"category": "Bionic",
@@ -557,6 +851,14 @@
 		"price": 417,
 		"category": "Animals",
 		"defname": "Deer"
+	},
+	{
+		"abr": "deserteagle.357",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_DEAGLE357_P",
+		"damage": "12",
+		"range": "25.9"
 	},
 	{
 		"abr": "devilstrand",
@@ -593,7 +895,8 @@
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket",
-		"damage": "50"
+		"damage": "50",
+		"range": "35.9"
 	},
 	{
 		"abr": "doublebed",
@@ -606,6 +909,14 @@
 		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
+	},
+	{
+		"abr": "dp-12",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_DP12_PS",
+		"damage": "18",
+		"range": "15.9"
 	},
 	{
 		"abr": "dresser",
@@ -630,6 +941,14 @@
 		"price": 742,
 		"category": "Production",
 		"defname": "DrugLab"
+	},
+	{
+		"abr": "dsr-1",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_DSR1_SR",
+		"damage": "17",
+		"range": "44.9"
 	},
 	{
 		"abr": "duck",
@@ -738,7 +1057,8 @@
 		"price": 842,
 		"category": "Ranged weapons",
 		"defname": "Gun_EmpLauncher",
-		"damage": "50"
+		"damage": "50",
+		"range": "23.9"
 	},
 	{
 		"abr": "empshell",
@@ -763,6 +1083,46 @@
 		"price": 106,
 		"category": "Furniture",
 		"defname": "EndTable"
+	},
+	{
+		"abr": "f2000",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_F2000_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "fad",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FAD_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "fal",
+		"price": 975,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FAL_BR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "famas",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FAMAS_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "fd338",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FD338_DMR",
+		"damage": "17",
+		"range": "37.9"
 	},
 	{
 		"abr": "fennecfox",
@@ -793,6 +1153,14 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam"
+	},
+	{
+		"abr": "five-seven",
+		"price": 308,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FIVESEVEN_P",
+		"damage": "9",
+		"range": "25.9"
 	},
 	{
 		"abr": "flakhelmet",
@@ -831,6 +1199,22 @@
 		"defname": "FlatscreenTelevision"
 	},
 	{
+		"abr": "fmg-9",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FMG9_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "fn15dmriica",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_FN15_DMR",
+		"damage": "11",
+		"range": "37.9"
+	},
+	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
@@ -859,6 +1243,30 @@
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove"
+	},
+	{
+		"abr": "g36c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_G36C_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "g36k",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_G36K_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "g3a3",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_G3_BR",
+		"damage": "15",
+		"range": "30.9"
 	},
 	{
 		"abr": "game-of-urboard",
@@ -891,6 +1299,22 @@
 		"defname": "MedicineUltratech"
 	},
 	{
+		"abr": "glock17",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_GLOCK17_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "glock18",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_GLOCK18_P",
+		"damage": "7",
+		"range": "19.9"
+	},
+	{
 		"abr": "glowpod",
 		"price": 83,
 		"category": "Special",
@@ -919,6 +1343,14 @@
 		"price": 17,
 		"category": "Raw resources",
 		"defname": "Gold"
+	},
+	{
+		"abr": "gol-snipermagnum",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_GOL_SR",
+		"damage": "17",
+		"range": "44.9"
 	},
 	{
 		"abr": "goose",
@@ -955,7 +1387,8 @@
 		"price": 174,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great",
-		"damage": "17"
+		"damage": "17",
+		"range": "29.9"
 	},
 	{
 		"abr": "grizzlybear",
@@ -1034,7 +1467,16 @@
 		"price": 592,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG",
-		"damage": "12"
+		"damage": "12",
+		"range": "22.9"
+	},
+	{
+		"abr": "hécateii",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HECATEII_SR",
+		"damage": "20",
+		"range": "44.9"
 	},
 	{
 		"abr": "herbalmedicine",
@@ -1047,6 +1489,78 @@
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive"
+	},
+	{
+		"abr": "hi-power",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_BHP_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "hk21",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK21_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "hk33a3",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK33_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "hk416c",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK416_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "hk417mr",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK417_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "hk433",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK433_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "hk45",
+		"price": 308,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK45_P",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "hk53",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HK53_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "honeybadger",
+		"price": 908,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_HONEYBADGER_AR",
+		"damage": "13",
+		"range": "25.9"
 	},
 	{
 		"abr": "hood",
@@ -1089,6 +1603,14 @@
 		"price": 667,
 		"category": "Furniture",
 		"defname": "HospitalBed"
+	},
+	{
+		"abr": "hti",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_DTHTI_SR",
+		"damage": "19",
+		"range": "44.9"
 	},
 	{
 		"abr": "human",
@@ -1203,7 +1725,8 @@
 		"price": 567,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher",
-		"damage": "10"
+		"damage": "10",
+		"range": "23.9"
 	},
 	{
 		"abr": "incendiaryshell",
@@ -1236,16 +1759,56 @@
 		"defname": "Apparel_Jacket"
 	},
 	{
+		"abr": "jackhammer",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_JACKHAMMER_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
 		"abr": "jade",
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade"
 	},
 	{
+		"abr": "jng-90",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_JNG90_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
 		"abr": "joywire",
 		"price": 367,
 		"category": "Prosthetic",
 		"defname": "Joywire"
+	},
+	{
+		"abr": "kacpdw",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_KACPDW_SMG",
+		"damage": "10",
+		"range": "22.9"
+	},
+	{
+		"abr": "karabiner98",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_K98_SR",
+		"damage": "16",
+		"range": "44.9"
+	},
+	{
+		"abr": "kh-2002",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_KH2002_AR",
+		"damage": "11",
+		"range": "30.9"
 	},
 	{
 		"abr": "kibble",
@@ -1264,6 +1827,70 @@
 		"price": 111,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
+	},
+	{
+		"abr": "ksg",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_KSG_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "ksvk",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_KSVK_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
+		"abr": "l115",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L115_SR",
+		"damage": "17",
+		"range": "44.9"
+	},
+	{
+		"abr": "l129a2",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L129A2_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "l22a2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L22A2_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "l85a2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L85A2_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "l86a2lsw",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L86A2_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "l96",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_L96_SR",
+		"damage": "15",
+		"range": "44.9"
 	},
 	{
 		"abr": "labradorretriever",
@@ -1318,7 +1945,8 @@
 		"price": 708,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG",
-		"damage": "11"
+		"damage": "11",
+		"range": "25.9"
 	},
 	{
 		"abr": "longsword",
@@ -1339,6 +1967,22 @@
 		"defname": "Lung"
 	},
 	{
+		"abr": "lvoa-c",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_LVOAC_AR",
+		"damage": "12",
+		"range": "30.9"
+	},
+	{
+		"abr": "lwmmg",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_LWMMG_LMG",
+		"damage": "17",
+		"range": "25.9"
+	},
+	{
 		"abr": "lynx",
 		"price": 417,
 		"category": "Animals",
@@ -1351,6 +1995,230 @@
 		"defname": "Meat_Lynx"
 	},
 	{
+		"abr": "m1014",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M1014_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
+		"abr": "m107",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M107_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
+		"abr": "m110sass",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M110_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "m14",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M14_BR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "m16",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M16A1_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "m16a4",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M16A4_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "m1911",
+		"price": 308,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M1911_P",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "m1a1thompson",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_THOMPSON_SMG",
+		"damage": "9",
+		"range": "22.9"
+	},
+	{
+		"abr": "m200intervention",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M200_SR",
+		"damage": "19",
+		"range": "44.9"
+	},
+	{
+		"abr": "m21",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M21_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "m24",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M24_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "m240b",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M240B_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "m249",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M249_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "m26mass",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M26_AS",
+		"damage": "18",
+		"range": "12.9"
+	},
+	{
+		"abr": "m27iar",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M27_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "m3greasegun",
+		"price": 658,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M3_SMG",
+		"damage": "9",
+		"range": "22.9"
+	},
+	{
+		"abr": "m320",
+		"price": 1200,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M320_GL",
+		"damage": "50",
+		"range": "25.9"
+	},
+	{
+		"abr": "m39emr",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M39_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "m40a5",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M40A5_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "m4a1",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M4A1_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "m60e4",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M60E4_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "m870",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M870_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "m9",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M9_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "m93r",
+		"price": 367,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M93R_P",
+		"damage": "7",
+		"range": "19.9"
+	},
+	{
+		"abr": "m95",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M95_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
+		"abr": "m98b",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M98B_SR",
+		"damage": "17",
+		"range": "44.9"
+	},
+	{
+		"abr": "mac10",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MAC109_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "mac10-45",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MAC1045_SMG",
+		"damage": "9",
+		"range": "22.9"
+	},
+	{
 		"abr": "mace",
 		"price": 203,
 		"category": "Melee weapons",
@@ -1361,7 +2229,8 @@
 		"price": 367,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol",
-		"damage": "6"
+		"damage": "6",
+		"range": "19.9"
 	},
 	{
 		"abr": "machiningtable",
@@ -1370,10 +2239,26 @@
 		"defname": "TableMachining"
 	},
 	{
+		"abr": "mag-7",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MAG7_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
 		"abr": "marbleblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble"
+	},
+	{
+		"abr": "mare'sleg",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MARESLEG_PS",
+		"damage": "14",
+		"range": "15.9"
 	},
 	{
 		"abr": "marinearmor",
@@ -1430,6 +2315,46 @@
 		"defname": "Megaspider"
 	},
 	{
+		"abr": "mg3",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MG3_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "mg36",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MG36_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "mg4",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MG4_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "mg5",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MG5_LMG",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "mgl",
+		"price": 1483,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MGL_GL",
+		"damage": "50",
+		"range": "25.9"
+	},
+	{
 		"abr": "milk",
 		"price": 3,
 		"category": "Animal products",
@@ -1440,13 +2365,54 @@
 		"price": 1933,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun",
-		"damage": "10"
+		"damage": "10",
+		"range": "30.9"
 	},
 	{
 		"abr": "mini-turret",
 		"price": 492,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
+	},
+	{
+		"abr": "mk11mod0",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MK11MOD0_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "mk12spr",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MK12SPR_DMR",
+		"damage": "11",
+		"range": "37.9"
+	},
+	{
+		"abr": "mk13eglm",
+		"price": 1200,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MK13_GL",
+		"damage": "50",
+		"range": "25.9"
+	},
+	{
+		"abr": "mk18mod0",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MK18MOD0_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "model689",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TM689_P",
+		"damage": "12",
+		"range": "25.9"
 	},
 	{
 		"abr": "molotovcocktails",
@@ -1473,6 +2439,110 @@
 		"defname": "Turret_Mortar"
 	},
 	{
+		"abr": "mosinnagantm91/30",
+		"price": 783,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_M9130_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "mp40",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP40_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "mp-412rex",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP412_P",
+		"damage": "12",
+		"range": "25.9"
+	},
+	{
+		"abr": "mp44",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP44_AR",
+		"damage": "10",
+		"range": "25.9"
+	},
+	{
+		"abr": "mp-443grach",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP443_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "mp5a5",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP5A5_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "mp5k",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP5K_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "mp5sd6",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP5SD6_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "mp7",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MP7_SMG",
+		"damage": "8",
+		"range": "22.9"
+	},
+	{
+		"abr": "mpx",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MPX_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "msbs-k",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MSBSK_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "msr",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MSR_SR",
+		"damage": "17",
+		"range": "44.9"
+	},
+	{
+		"abr": "mtar-21x95",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MTAR21_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
 		"abr": "muffalo",
 		"price": 500,
 		"category": "Animals",
@@ -1497,10 +2567,50 @@
 		"defname": "MultiAnalyzer"
 	},
 	{
+		"abr": "mx4storm",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_MX4_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "negev",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_NEGEV_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "negevng-7",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_NEGEVNG7_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
 		"abr": "neutroamine",
 		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
+	},
+	{
+		"abr": "n-papm70",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_ZPAP_AR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "ns2000",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_NS2000_PS",
+		"damage": "18",
+		"range": "15.9"
 	},
 	{
 		"abr": "nutrientpastemeal",
@@ -1537,6 +2647,46 @@
 		"price": 38,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
+	},
+	{
+		"abr": "ots-03svu",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SVU_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "ots-14-4groza",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_GROZA4_AR",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "p2000",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_P2000_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "p226",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_P226_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "p90",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_P90_SMG",
+		"damage": "9",
+		"range": "22.9"
 	},
 	{
 		"abr": "packagedsurvivalmeal",
@@ -1587,6 +2737,14 @@
 		"defname": "Leather_Patch"
 	},
 	{
+		"abr": "pdr",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PDR_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
 		"abr": "pemmican",
 		"price": 2,
 		"category": "Foods",
@@ -1627,7 +2785,16 @@
 		"price": 182,
 		"category": "Ranged weapons",
 		"defname": "Pila",
-		"damage": "25"
+		"damage": "25",
+		"range": "18.9"
+	},
+	{
+		"abr": "pkppecheneg",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PKP_LMG",
+		"damage": "15",
+		"range": "25.9"
 	},
 	{
 		"abr": "plainleather",
@@ -1652,6 +2819,14 @@
 		"price": 792,
 		"category": "Armor",
 		"defname": "Apparel_PlateArmor"
+	},
+	{
+		"abr": "pmx",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PMX_SMG",
+		"damage": "7",
+		"range": "22.9"
 	},
 	{
 		"abr": "pokertable",
@@ -1684,6 +2859,30 @@
 		"defname": "PowerClaw"
 	},
 	{
+		"abr": "pp-19bizon",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_BIZON_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "pp-2000",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PP2000_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "ppsh-41",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PPSH41_SMG",
+		"damage": "6",
+		"range": "22.9"
+	},
+	{
 		"abr": "prostheticarm",
 		"price": 433,
 		"category": "Prosthetic",
@@ -1700,6 +2899,22 @@
 		"price": 433,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg"
+	},
+	{
+		"abr": "prs5.56",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PRS_SR",
+		"damage": "11",
+		"range": "44.9"
+	},
+	{
+		"abr": "psg1",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_PSG1_DMR",
+		"damage": "15",
+		"range": "37.9"
 	},
 	{
 		"abr": "psychicanimalpulser",
@@ -1754,7 +2969,80 @@
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun",
-		"damage": "18"
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "qbb-95",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QBB95_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "qbs-09",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QBS09_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
+		"abr": "qbu-88",
+		"price": 867,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QBU88_DMR",
+		"damage": "11",
+		"range": "37.9"
+	},
+	{
+		"abr": "qbz-95",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QBZ95_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "qbz-95b",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QBZ95B_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "qcw-05",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QCW05_SMG",
+		"damage": "8",
+		"range": "22.9"
+	},
+	{
+		"abr": "qjy-88",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_QJY88_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "r5rgp",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_R5_AR",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "r93",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_R93_SR",
+		"damage": "15",
+		"range": "44.9"
 	},
 	{
 		"abr": "raccoon",
@@ -1787,6 +3075,14 @@
 		"defname": "RawFungus"
 	},
 	{
+		"abr": "rec7",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_REC7_AR",
+		"damage": "12",
+		"range": "25.9"
+	},
+	{
 		"abr": "reconarmor",
 		"price": 2567,
 		"category": "Armor",
@@ -1803,7 +3099,8 @@
 		"price": 110,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve",
-		"damage": "14"
+		"damage": "14",
+		"range": "25.9"
 	},
 	{
 		"abr": "redfox",
@@ -1828,7 +3125,24 @@
 		"price": 226,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver",
-		"damage": "12"
+		"damage": "12",
+		"range": "25.9"
+	},
+	{
+		"abr": "rfb",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_RFB_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "rhino40ds",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CR40DS_P",
+		"damage": "12",
+		"range": "25.9"
 	},
 	{
 		"abr": "rhinoceros",
@@ -1861,10 +3175,114 @@
 		"defname": "RoyalBed"
 	},
 	{
+		"abr": "rpd",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_RPD_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "rpk",
+		"price": 792,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_RPK_LMG",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "rpk-74",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_RPK74_LMG",
+		"damage": "10",
+		"range": "25.9"
+	},
+	{
+		"abr": "saigaspike",
+		"price": 692,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SAIGASPIKE_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
+		"abr": "saiga-12",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SAIGA12_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
+	},
+	{
+		"abr": "sar-21",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SAR21_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "scar-h",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SCARH_BR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "scar-hcqc",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SCARHCQC_BR",
+		"damage": "15",
+		"range": "25.9"
+	},
+	{
+		"abr": "scar-hssr",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SCAR20_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "scar-l",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SCARL_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
+		"abr": "scorpionevo3",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_CZEVO_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "scoutelite",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SCOUTELITE_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "sg553",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SG553_AR",
+		"damage": "11",
+		"range": "25.9"
 	},
 	{
 		"abr": "sheep",
@@ -1901,7 +3319,8 @@
 		"price": 74,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short",
-		"damage": "11"
+		"damage": "11",
+		"range": "22.9"
 	},
 	{
 		"abr": "silver",
@@ -2000,6 +3419,14 @@
 		"defname": "Neurotrainer_Social"
 	},
 	{
+		"abr": "sks",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SKS_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
 		"abr": "slateblocks",
 		"price": 2,
 		"category": "Stone blocks",
@@ -2016,7 +3443,8 @@
 		"price": 633,
 		"category": "Ranged weapons",
 		"defname": "Gun_SmokeLauncher",
-		"damage": "0"
+		"damage": "0",
+		"range": "23.9"
 	},
 	{
 		"abr": "smokeshell",
@@ -2047,13 +3475,22 @@
 		"price": 883,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle",
-		"damage": "25"
+		"damage": "25",
+		"range": "44.9"
 	},
 	{
 		"abr": "snowhare",
 		"price": 83,
 		"category": "Animals",
 		"defname": "Snowhare"
+	},
+	{
+		"abr": "spas-12",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SPAS12_AS",
+		"damage": "13",
+		"range": "12.9"
 	},
 	{
 		"abr": "spear",
@@ -2086,6 +3523,46 @@
 		"defname": "Meat_Squirrel"
 	},
 	{
+		"abr": "sr-2veresk",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SR2_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "sr-3vikhr",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SR3M_AR",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "srs",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_DTSRS_SR",
+		"damage": "17",
+		"range": "44.9"
+	},
+	{
+		"abr": "srssbulldog",
+		"price": 967,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SRSS_BR",
+		"damage": "15",
+		"range": "30.9"
+	},
+	{
+		"abr": "ssg3000",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SSG3000_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
 		"abr": "standinglamp",
 		"price": 65,
 		"category": "Furniture",
@@ -2116,10 +3593,26 @@
 		"defname": "Steel"
 	},
 	{
+		"abr": "stenmkii",
+		"price": 575,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_STEN_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter"
+	},
+	{
+		"abr": "stoner99lmg",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_LSAT_LMG",
+		"damage": "11",
+		"range": "25.9"
 	},
 	{
 		"abr": "stool",
@@ -2128,10 +3621,58 @@
 		"defname": "Stool"
 	},
 	{
+		"abr": "striker",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_STRIKER_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
 		"abr": "sunlamp",
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp"
+	},
+	{
+		"abr": "supershorty",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SUPERSHORTY_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "sv-98",
+		"price": 883,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SV98_SR",
+		"damage": "15",
+		"range": "44.9"
+	},
+	{
+		"abr": "svddragunov",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SVD_DMR",
+		"damage": "15",
+		"range": "37.9"
+	},
+	{
+		"abr": "svdk",
+		"price": 1025,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SVDK_DMR",
+		"damage": "18",
+		"range": "37.9"
+	},
+	{
+		"abr": "svt-40",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_SVT40_DMR",
+		"damage": "15",
+		"range": "37.9"
 	},
 	{
 		"abr": "synthread",
@@ -2162,6 +3703,22 @@
 		"price": 350,
 		"category": "Furniture",
 		"defname": "Table3x3c"
+	},
+	{
+		"abr": "tac-50",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TAC50_SR",
+		"damage": "20",
+		"range": "44.9"
+	},
+	{
+		"abr": "tar-21",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TAR21_AR",
+		"damage": "11",
+		"range": "30.9"
 	},
 	{
 		"abr": "techprofsubpersonacore",
@@ -2204,6 +3761,22 @@
 		"price": 583,
 		"category": "Animals",
 		"defname": "Wolf_Timber"
+	},
+	{
+		"abr": "tm-9",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TM9_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "tmp",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TMP_SMG",
+		"damage": "7",
+		"range": "22.9"
 	},
 	{
 		"abr": "toolcabinet",
@@ -2252,13 +3825,22 @@
 		"price": 1667,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket",
-		"damage": "50"
+		"damage": "50",
+		"range": "35.9"
 	},
 	{
 		"abr": "t-shirt",
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_BasicShirt"
+	},
+	{
+		"abr": "tt-33",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_TT13_P",
+		"damage": "6",
+		"range": "25.9"
 	},
 	{
 		"abr": "tubetelevision",
@@ -2291,6 +3873,38 @@
 		"defname": "Meat_Turkey"
 	},
 	{
+		"abr": "type97-2",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_T972_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "ultimax100",
+		"price": 708,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_U100_LMG",
+		"damage": "11",
+		"range": "25.9"
+	},
+	{
+		"abr": "ump-45",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_UMP45_SMG",
+		"damage": "9",
+		"range": "22.9"
+	},
+	{
+		"abr": "ump-9",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_UMP9_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
@@ -2303,10 +3917,58 @@
 		"defname": "Urn"
 	},
 	{
+		"abr": "usas-12",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_USAS12_AS",
+		"damage": "13",
+		"range": "12.9"
+	},
+	{
+		"abr": "usp-45",
+		"price": 308,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_USP45_P",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "usp-9",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_USP9_P",
+		"damage": "7",
+		"range": "25.9"
+	},
+	{
+		"abr": "uts-15",
+		"price": 425,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_UTS_PS",
+		"damage": "18",
+		"range": "15.9"
+	},
+	{
+		"abr": "uzi",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_UZI_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
+	},
+	{
+		"abr": "vector",
+		"price": 675,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VECTOR_SMG",
+		"damage": "9",
+		"range": "22.9"
 	},
 	{
 		"abr": "vegetarianfinemeal",
@@ -2333,10 +3995,84 @@
 		"defname": "Meat_Deer"
 	},
 	{
+		"abr": "vfwpdmrstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_DMR"
+	},
+	{
+		"abr": "vfwpmachinegunstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_MG"
+	},
+	{
+		"abr": "vfwpriflestation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_Rifle"
+	},
+	{
+		"abr": "vfwpshotgunstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_Shotgun"
+	},
+	{
+		"abr": "vfwpsidearmstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_Sidearm"
+	},
+	{
+		"abr": "vfwpsmgstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_SMG"
+	},
+	{
+		"abr": "vfwpsniperstation",
+		"price": 442,
+		"category": "Production",
+		"defname": "VFWPBench_Sniper"
+	},
+	{
+		"abr": "vhs-2",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VHS2_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
+	},
+	{
+		"abr": "vityaz-sn",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VITYAZ_SMG",
+		"damage": "7",
+		"range": "22.9"
+	},
+	{
+		"abr": "vssvintorez",
+		"price": 750,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_VSS_AR",
+		"damage": "9",
+		"range": "25.9"
+	},
+	{
+		"abr": "wa2000",
+		"price": 950,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_WA2000_DMR",
+		"damage": "15",
+		"range": "37.9"
 	},
 	{
 		"abr": "wake-up",
@@ -2393,6 +4129,14 @@
 		"defname": "Wort"
 	},
 	{
+		"abr": "xm8",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VFWP_Gun_XM8_AR",
+		"damage": "11",
+		"range": "30.9"
+	},
+	{
 		"abr": "yak",
 		"price": 533,
 		"category": "Animals",
@@ -2422,1518 +4166,6 @@
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
 	},
-	{
-		"abr": "shrike5.56",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AWS_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "škorpionvz.65",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_VZ65_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "a-91",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_A91_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ace21",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACE21_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ace23",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACE23_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ace52",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACE52_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "ace53sv",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACE53_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "acr",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACRSTD_AR",
-		"damage": "12"
-	},
-	{
-		"abr": "acrsbr",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ACRSBR_AR",
-		"damage": "12"
-	},
-	{
-		"abr": "aek-971",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AEK971_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "ak-101",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK101_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ak-12",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK12_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "ak-15",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK15_AR",
-		"damage": "15"
-	},
-	{
-		"abr": "ak5",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK5_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ak5c",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK5C_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ak-74",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK74_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "ak-74m",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AK74M_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "akm",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AKM_AR",
-		"damage": "15"
-	},
-	{
-		"abr": "aks-74u",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AKS74U_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "aku-12",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AKU12_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "amr-2",
-		"price": 1167,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AMR_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "an-94",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AN94_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "arx160",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ARX160_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "arx160c",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ARX160C_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "asval",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ASVAL_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "as50",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AS50_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "auga3",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AUGA3_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "auga3para",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_AUGA3PARA_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "ballista",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_BALLISTA_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "bren",
-		"price": 625,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_BREN_LMG",
-		"damage": "16"
-	},
-	{
-		"abr": "cbj-ms",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CBJMS_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "cs5",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CS5_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "cs-lr4",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CSLR4_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "cz75",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CZ75_P",
-		"damage": "7"
-	},
-	{
-		"abr": "cz750",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CZ750_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "cz805bren",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CZ805_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "deserteagle.357",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_DEAGLE357_P",
-		"damage": "12"
-	},
-	{
-		"abr": "dp-12",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_DP12_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "dsr-1",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_DSR1_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "f2000",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_F2000_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "fad",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FAD_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "fal",
-		"price": 975,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FAL_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "famas",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FAMAS_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "fd338",
-		"price": 1025,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FD338_DMR",
-		"damage": "17"
-	},
-	{
-		"abr": "five-seven",
-		"price": 308,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FIVESEVEN_P",
-		"damage": "9"
-	},
-	{
-		"abr": "fmg-9",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FMG9_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "fn15dmriica",
-		"price": 867,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_FN15_DMR",
-		"damage": "11"
-	},
-	{
-		"abr": "g36c",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_G36C_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "g36k",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_G36K_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "g3a3",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_G3_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "glock17",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_GLOCK17_P",
-		"damage": "7"
-	},
-	{
-		"abr": "glock18",
-		"price": 367,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_GLOCK18_P",
-		"damage": "7"
-	},
-	{
-		"abr": "gol-snipermagnum",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_GOL_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "hécateii",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HECATEII_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "hi-power",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_BHP_P",
-		"damage": "7"
-	},
-	{
-		"abr": "hk21",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK21_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "hk33a3",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK33_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "hk416c",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK416_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "hk417mr",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK417_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "hk433",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK433_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "hk45",
-		"price": 308,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK45_P",
-		"damage": "9"
-	},
-	{
-		"abr": "hk53",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HK53_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "honeybadger",
-		"price": 908,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_HONEYBADGER_AR",
-		"damage": "13"
-	},
-	{
-		"abr": "hti",
-		"price": 1058,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_DTHTI_SR",
-		"damage": "19"
-	},
-	{
-		"abr": "jackhammer",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_JACKHAMMER_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "jng-90",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_JNG90_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "kacpdw",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_KACPDW_SMG",
-		"damage": "10"
-	},
-	{
-		"abr": "karabiner98",
-		"price": 783,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_K98_SR",
-		"damage": "16"
-	},
-	{
-		"abr": "kh-2002",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_KH2002_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "ksg",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_KSG_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "ksvk",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_KSVK_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "l115",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L115_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "l129a2",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L129A2_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "l22a2",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L22A2_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "l85a2",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L85A2_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "l86a2lsw",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L86A2_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "l96",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_L96_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "lvoa-c",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_LVOAC_AR",
-		"damage": "12"
-	},
-	{
-		"abr": "lwmmg",
-		"price": 867,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_LWMMG_LMG",
-		"damage": "17"
-	},
-	{
-		"abr": "m1014",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M1014_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "m107",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M107_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "m110sass",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M110_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "m14",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M14_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "m16",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M16A1_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "m16a4",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M16A4_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "m1911",
-		"price": 308,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M1911_P",
-		"damage": "9"
-	},
-	{
-		"abr": "m1a1thompson",
-		"price": 658,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_THOMPSON_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "m200intervention",
-		"price": 1058,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M200_SR",
-		"damage": "19"
-	},
-	{
-		"abr": "m21",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M21_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "m24",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M24_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "m240b",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M240B_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "m249",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M249_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "m26mass",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M26_AS",
-		"damage": "18"
-	},
-	{
-		"abr": "m27iar",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M27_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "m3greasegun",
-		"price": 658,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M3_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "m320",
-		"price": 1200,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M320_GL",
-		"damage": "50"
-	},
-	{
-		"abr": "m39emr",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M39_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "m40a5",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M40A5_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "m4a1",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M4A1_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "m60e4",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M60E4_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "m870",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M870_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "m9",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M9_P",
-		"damage": "7"
-	},
-	{
-		"abr": "m93r",
-		"price": 367,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M93R_P",
-		"damage": "7"
-	},
-	{
-		"abr": "m95",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M95_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "m98b",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M98B_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "mac10",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MAC109_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "mac10-45",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MAC1045_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "mag-7",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MAG7_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "mare'sleg",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MARESLEG_PS",
-		"damage": "14"
-	},
-	{
-		"abr": "mg3",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MG3_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "mg36",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MG36_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "mg4",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MG4_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "mg5",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MG5_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "mgl",
-		"price": 1483,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MGL_GL",
-		"damage": "50"
-	},
-	{
-		"abr": "mk11mod0",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MK11MOD0_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "mk12spr",
-		"price": 867,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MK12SPR_DMR",
-		"damage": "11"
-	},
-	{
-		"abr": "mk13eglm",
-		"price": 1200,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MK13_GL",
-		"damage": "50"
-	},
-	{
-		"abr": "mk18mod0",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MK18MOD0_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "model689",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TM689_P",
-		"damage": "12"
-	},
-	{
-		"abr": "mosinnagantm91/30",
-		"price": 783,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_M9130_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "mp40",
-		"price": 575,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP40_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "mp-412rex",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP412_P",
-		"damage": "12"
-	},
-	{
-		"abr": "mp44",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP44_AR",
-		"damage": "10"
-	},
-	{
-		"abr": "mp-443grach",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP443_P",
-		"damage": "7"
-	},
-	{
-		"abr": "mp5a5",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP5A5_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "mp5k",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP5K_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "mp5sd6",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP5SD6_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "mp7",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MP7_SMG",
-		"damage": "8"
-	},
-	{
-		"abr": "mpx",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MPX_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "msbs-k",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MSBSK_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "msr",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MSR_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "mtar-21x95",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MTAR21_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "mx4storm",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_MX4_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "negev",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_NEGEV_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "negevng-7",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_NEGEVNG7_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "n-papm70",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_ZPAP_AR",
-		"damage": "15"
-	},
-	{
-		"abr": "ns2000",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_NS2000_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "ots-03svu",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SVU_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "ots-14-4groza",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_GROZA4_AR",
-		"damage": "9"
-	},
-	{
-		"abr": "p2000",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_P2000_P",
-		"damage": "7"
-	},
-	{
-		"abr": "p226",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_P226_P",
-		"damage": "7"
-	},
-	{
-		"abr": "p90",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_P90_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "pdr",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PDR_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "pkppecheneg",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PKP_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "pmx",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PMX_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "pp-19bizon",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_BIZON_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "pp-2000",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PP2000_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "ppsh-41",
-		"price": 575,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PPSH41_SMG",
-		"damage": "6"
-	},
-	{
-		"abr": "prs5.56",
-		"price": 808,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PRS_SR",
-		"damage": "11"
-	},
-	{
-		"abr": "psg1",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_PSG1_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "qbb-95",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QBB95_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "qbs-09",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QBS09_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "qbu-88",
-		"price": 867,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QBU88_DMR",
-		"damage": "11"
-	},
-	{
-		"abr": "qbz-95",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QBZ95_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "qbz-95b",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QBZ95B_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "qcw-05",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QCW05_SMG",
-		"damage": "8"
-	},
-	{
-		"abr": "qjy-88",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_QJY88_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "r5rgp",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_R5_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "r93",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_R93_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "rec7",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_REC7_AR",
-		"damage": "12"
-	},
-	{
-		"abr": "rfb",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_RFB_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "rhino40ds",
-		"price": 383,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CR40DS_P",
-		"damage": "12"
-	},
-	{
-		"abr": "rpd",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_RPD_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "rpk",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_RPK_LMG",
-		"damage": "15"
-	},
-	{
-		"abr": "rpk-74",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_RPK74_LMG",
-		"damage": "10"
-	},
-	{
-		"abr": "saigaspike",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SAIGASPIKE_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "saiga-12",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SAIGA12_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "sar-21",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SAR21_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "scar-h",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SCARH_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "scar-hcqc",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SCARHCQC_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "scar-hssr",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SCAR20_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "scar-l",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SCARL_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "scorpionevo3",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_CZEVO_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "scoutelite",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SCOUTELITE_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "sg553",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SG553_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "sks",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SKS_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "spas-12",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SPAS12_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "sr-2veresk",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SR2_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "sr-3vikhr",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SR3M_AR",
-		"damage": "9"
-	},
-	{
-		"abr": "srs",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_DTSRS_SR",
-		"damage": "17"
-	},
-	{
-		"abr": "srssbulldog",
-		"price": 967,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SRSS_BR",
-		"damage": "15"
-	},
-	{
-		"abr": "ssg3000",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SSG3000_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "stenmkii",
-		"price": 575,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_STEN_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "stoner99lmg",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_LSAT_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "striker",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_STRIKER_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "supershorty",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SUPERSHORTY_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "sv-98",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SV98_SR",
-		"damage": "15"
-	},
-	{
-		"abr": "svddragunov",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SVD_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "svdk",
-		"price": 1025,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SVDK_DMR",
-		"damage": "18"
-	},
-	{
-		"abr": "svt-40",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_SVT40_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "tac-50",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TAC50_SR",
-		"damage": "20"
-	},
-	{
-		"abr": "tar-21",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TAR21_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "tm-9",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TM9_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "tmp",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TMP_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "tt-33",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_TT13_P",
-		"damage": "6"
-	},
-	{
-		"abr": "type97-2",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_T972_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "ultimax100",
-		"price": 708,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_U100_LMG",
-		"damage": "11"
-	},
-	{
-		"abr": "ump-45",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_UMP45_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "ump-9",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_UMP9_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "usas-12",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_USAS12_AS",
-		"damage": "13"
-	},
-	{
-		"abr": "usp-45",
-		"price": 308,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_USP45_P",
-		"damage": "9"
-	},
-	{
-		"abr": "usp-9",
-		"price": 232,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_USP9_P",
-		"damage": "7"
-	},
-	{
-		"abr": "uts-15",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_UTS_PS",
-		"damage": "18"
-	},
-	{
-		"abr": "uzi",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_UZI_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "vector",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_VECTOR_SMG",
-		"damage": "9"
-	},
-	{
-		"abr": "vfwpdmrstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_DMR"
-	},
-	{
-		"abr": "vfwpmachinegunstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_MG"
-	},
-	{
-		"abr": "vfwpriflestation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_Rifle"
-	},
-	{
-		"abr": "vfwpshotgunstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_Shotgun"
-	},
-	{
-		"abr": "vfwpsidearmstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_Sidearm"
-	},
-	{
-		"abr": "vfwpsmgstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_SMG"
-	},
-	{
-		"abr": "vfwpsniperstation",
-		"price": 442,
-		"category": "Production",
-		"defname": "VFWPBench_Sniper"
-	},
-	{
-		"abr": "vhs-2",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_VHS2_AR",
-		"damage": "11"
-	},
-	{
-		"abr": "vityaz-sn",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_VITYAZ_SMG",
-		"damage": "7"
-	},
-	{
-		"abr": "vssvintorez",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_VSS_AR",
-		"damage": "9"
-	},
-	{
-		"abr": "wa2000",
-		"price": 950,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_WA2000_DMR",
-		"damage": "15"
-	},
-	{
-		"abr": "xm8",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VFWP_Gun_XM8_AR",
-		"damage": "11"
-	}
 	],
-	"total": 1554
+	"total": 2786
 }
