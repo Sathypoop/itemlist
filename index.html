@@ -52,7 +52,8 @@ title: Shop
             <th>Damage</th>
             <th>Range</th>
             <th>Cost</th>
-            <th>Category</th>            
+            <th>Category</th>
+            <th>Image</th>            
         </tr>
 
         {%- for item in site.data.StoreItems.items -%}
@@ -75,7 +76,7 @@ title: Shop
             <td>{{- item.range -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
-
+            <td colspan = 4><img src="_data/textures/Alpaca.png" alt="" height=64 width=64></img></td>
         </tr>
         {%- endif -%}
         {%- endfor -%}
