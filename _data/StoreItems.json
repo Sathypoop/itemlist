@@ -5,7 +5,7 @@
 		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer",
-		"fileName": "ComponentSpacer.png"
+		"fileName": "assets/textures/ComponentSpacer.png"
 	},
 	{
 		"abr": "shrike5.56",
@@ -14,7 +14,7 @@
 		"defname": "VFWP_Gun_AWS_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_AWS_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_AWS_LMG.png"
 	},
 	{
 		"abr": "škorpionvz.65",
@@ -23,7 +23,7 @@
 		"defname": "VFWP_Gun_VZ65_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_VZ65_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_VZ65_SMG.png"
 	},
 	{
 		"abr": "a-91",
@@ -32,7 +32,7 @@
 		"defname": "VFWP_Gun_A91_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_A91_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_A91_AR.png"
 	},
 	{
 		"abr": "ace21",
@@ -41,7 +41,7 @@
 		"defname": "VFWP_Gun_ACE21_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_ACE21_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACE21_AR.png"
 	},
 	{
 		"abr": "ace23",
@@ -50,7 +50,7 @@
 		"defname": "VFWP_Gun_ACE23_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_ACE23_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACE23_AR.png"
 	},
 	{
 		"abr": "ace52",
@@ -59,7 +59,7 @@
 		"defname": "VFWP_Gun_ACE52_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_ACE52_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACE52_BR.png"
 	},
 	{
 		"abr": "ace53sv",
@@ -68,7 +68,7 @@
 		"defname": "VFWP_Gun_ACE53_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_ACE53_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACE53_DMR.png"
 	},
 	{
 		"abr": "acr",
@@ -77,7 +77,7 @@
 		"defname": "VFWP_Gun_ACRSTD_AR",
 		"damage": "12",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_ACRSTD_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACRSTD_AR.png"
 	},
 	{
 		"abr": "acrsbr",
@@ -86,7 +86,7 @@
 		"defname": "VFWP_Gun_ACRSBR_AR",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_ACRSBR_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ACRSBR_AR.png"
 	},
 	{
 		"abr": "aek-971",
@@ -95,14 +95,14 @@
 		"defname": "VFWP_Gun_AEK971_AR",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AEK971_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AEK971_AR.png"
 	},
 	{
 		"abr": "agavefruit",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawAgave",
-		"fileName": "RawAgave.png"
+		"fileName": "assets/textures/RawAgave.png"
 	},
 	{
 		"abr": "ak-101",
@@ -111,7 +111,7 @@
 		"defname": "VFWP_Gun_AK101_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK101_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK101_AR.png"
 	},
 	{
 		"abr": "ak-12",
@@ -120,7 +120,7 @@
 		"defname": "VFWP_Gun_AK12_AR",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK12_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK12_AR.png"
 	},
 	{
 		"abr": "ak-15",
@@ -129,7 +129,7 @@
 		"defname": "VFWP_Gun_AK15_AR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK15_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK15_AR.png"
 	},
 	{
 		"abr": "ak5",
@@ -138,7 +138,7 @@
 		"defname": "VFWP_Gun_AK5_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK5_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK5_AR.png"
 	},
 	{
 		"abr": "ak5c",
@@ -147,7 +147,7 @@
 		"defname": "VFWP_Gun_AK5C_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_AK5C_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK5C_AR.png"
 	},
 	{
 		"abr": "ak-74",
@@ -156,7 +156,7 @@
 		"defname": "VFWP_Gun_AK74_AR",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK74_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK74_AR.png"
 	},
 	{
 		"abr": "ak-74m",
@@ -165,7 +165,7 @@
 		"defname": "VFWP_Gun_AK74M_AR",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AK74M_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AK74M_AR.png"
 	},
 	{
 		"abr": "akm",
@@ -174,7 +174,7 @@
 		"defname": "VFWP_Gun_AKM_AR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AKM_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AKM_AR.png"
 	},
 	{
 		"abr": "aks-74u",
@@ -183,7 +183,7 @@
 		"defname": "VFWP_Gun_AKS74U_AR",
 		"damage": "10",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_AKS74U_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AKS74U_AR.png"
 	},
 	{
 		"abr": "aku-12",
@@ -192,49 +192,49 @@
 		"defname": "VFWP_Gun_AKU12_AR",
 		"damage": "10",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_AKU12_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AKU12_AR.png"
 	},
 	{
 		"abr": "alpaca",
 		"price": 583,
 		"category": "Animals",
 		"defname": "Alpaca",
-		"fileName": "Alpaca.png"
+		"fileName": "assets/textures/Alpaca.png"
 	},
 	{
 		"abr": "alpacameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alpaca",
-		"fileName": "Meat_Alpaca.png"
+		"fileName": "assets/textures/Meat_Alpaca.png"
 	},
 	{
 		"abr": "alpacawool",
 		"price": 6,
 		"category": "Wools",
 		"defname": "WoolAlpaca",
-		"fileName": "WoolAlpaca.png"
+		"fileName": "assets/textures/WoolAlpaca.png"
 	},
 	{
 		"abr": "alphabeaver",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Alphabeaver",
-		"fileName": "Alphabeaver.png"
+		"fileName": "assets/textures/Alphabeaver.png"
 	},
 	{
 		"abr": "alphabeavermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Alphabeaver",
-		"fileName": "Meat_Alphabeaver.png"
+		"fileName": "assets/textures/Meat_Alphabeaver.png"
 	},
 	{
 		"abr": "ambrosia",
 		"price": 25,
 		"category": "Drugs",
 		"defname": "Ambrosia",
-		"fileName": "Ambrosia.png"
+		"fileName": "assets/textures/Ambrosia.png"
 	},
 	{
 		"abr": "amr-2",
@@ -243,7 +243,7 @@
 		"defname": "VFWP_Gun_AMR_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_AMR_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_AMR_SR.png"
 	},
 	{
 		"abr": "an-94",
@@ -252,77 +252,77 @@
 		"defname": "VFWP_Gun_AN94_AR",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AN94_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AN94_AR.png"
 	},
 	{
 		"abr": "animalbed",
 		"price": 136,
 		"category": "Furniture",
 		"defname": "AnimalBed",
-		"fileName": "AnimalBed.png"
+		"fileName": "assets/textures/AnimalBed.png"
 	},
 	{
 		"abr": "animalsleepingbox",
 		"price": 84,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox",
-		"fileName": "AnimalSleepingBox.png"
+		"fileName": "assets/textures/AnimalSleepingBox.png"
 	},
 	{
 		"abr": "antigrainwarhead",
 		"price": 2000,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead",
-		"fileName": "Shell_AntigrainWarhead.png"
+		"fileName": "assets/textures/Shell_AntigrainWarhead.png"
 	},
 	{
 		"abr": "archotecharm",
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechArm",
-		"fileName": "ArchotechArm.png"
+		"fileName": "assets/textures/ArchotechArm.png"
 	},
 	{
 		"abr": "archotecheye",
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechEye",
-		"fileName": "ArchotechEye.png"
+		"fileName": "assets/textures/ArchotechEye.png"
 	},
 	{
 		"abr": "archotechleg",
 		"price": 4667,
 		"category": "Archotech",
 		"defname": "ArchotechLeg",
-		"fileName": "ArchotechLeg.png"
+		"fileName": "assets/textures/ArchotechLeg.png"
 	},
 	{
 		"abr": "arcticfox",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Fox_Arctic",
-		"fileName": "Fox_Arctic.png"
+		"fileName": "assets/textures/Fox_Arctic.png"
 	},
 	{
 		"abr": "arcticwolf",
 		"price": 583,
 		"category": "Animals",
 		"defname": "Wolf_Arctic",
-		"fileName": "Wolf_Arctic.png"
+		"fileName": "assets/textures/Wolf_Arctic.png"
 	},
 	{
 		"abr": "armchair",
 		"price": 450,
 		"category": "Furniture",
 		"defname": "Armchair",
-		"fileName": "Armchair.png"
+		"fileName": "assets/textures/Armchair.png"
 	},
 	{
 		"abr": "artbench",
 		"price": 425,
 		"category": "Production",
 		"defname": "TableSculpting",
-		"fileName": "TableSculpting.png"
+		"fileName": "assets/textures/TableSculpting.png"
 	},
 	{
 		"abr": "arx160",
@@ -331,7 +331,7 @@
 		"defname": "VFWP_Gun_ARX160_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_ARX160_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ARX160_AR.png"
 	},
 	{
 		"abr": "arx160c",
@@ -340,7 +340,7 @@
 		"defname": "VFWP_Gun_ARX160C_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_ARX160C_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ARX160C_AR.png"
 	},
 	{
 		"abr": "asval",
@@ -349,7 +349,7 @@
 		"defname": "VFWP_Gun_ASVAL_SMG",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_ASVAL_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_ASVAL_SMG.png"
 	},
 	{
 		"abr": "as50",
@@ -358,7 +358,7 @@
 		"defname": "VFWP_Gun_AS50_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_AS50_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_AS50_SR.png"
 	},
 	{
 		"abr": "assaultrifle",
@@ -367,7 +367,7 @@
 		"defname": "Gun_AssaultRifle",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "Gun_AssaultRifle.png"
+		"fileName": "assets/textures/Gun_AssaultRifle.png"
 	},
 	{
 		"abr": "auga3",
@@ -376,7 +376,7 @@
 		"defname": "VFWP_Gun_AUGA3_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_AUGA3_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_AUGA3_AR.png"
 	},
 	{
 		"abr": "auga3para",
@@ -385,7 +385,7 @@
 		"defname": "VFWP_Gun_AUGA3PARA_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_AUGA3PARA_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_AUGA3PARA_SMG.png"
 	},
 	{
 		"abr": "autopistol",
@@ -394,7 +394,7 @@
 		"defname": "Gun_Autopistol",
 		"damage": "10",
 		"range": "25.9",
-		"fileName": "Gun_Autopistol.png"
+		"fileName": "assets/textures/Gun_Autopistol.png"
 	},
 	{
 		"abr": "ballista",
@@ -403,168 +403,168 @@
 		"defname": "VFWP_Gun_BALLISTA_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_BALLISTA_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_BALLISTA_SR.png"
 	},
 	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
 		"defname": "Battery",
-		"fileName": "Battery.png"
+		"fileName": "assets/textures/Battery.png"
 	},
 	{
 		"abr": "bearmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Bear_Grizzly",
-		"fileName": "Meat_Bear_Grizzly.png"
+		"fileName": "assets/textures/Meat_Bear_Grizzly.png"
 	},
 	{
 		"abr": "bearskin",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Bear",
-		"fileName": "Leather_Bear.png"
+		"fileName": "assets/textures/Leather_Bear.png"
 	},
 	{
 		"abr": "bed",
 		"price": 155,
 		"category": "Furniture",
 		"defname": "Bed",
-		"fileName": "Bed.png"
+		"fileName": "assets/textures/Bed.png"
 	},
 	{
 		"abr": "bedroll",
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Bedroll",
-		"fileName": "Bedroll.png"
+		"fileName": "assets/textures/Bedroll.png"
 	},
 	{
 		"abr": "beef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cow",
-		"fileName": "Meat_Cow.png"
+		"fileName": "assets/textures/Meat_Cow.png"
 	},
 	{
 		"abr": "beer",
 		"price": 20,
 		"category": "Drugs",
 		"defname": "Beer",
-		"fileName": "Beer.png"
+		"fileName": "assets/textures/Beer.png"
 	},
 	{
 		"abr": "berries",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawBerries",
-		"fileName": "RawBerries.png"
+		"fileName": "assets/textures/RawBerries.png"
 	},
 	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable",
-		"fileName": "BilliardsTable.png"
+		"fileName": "assets/textures/BilliardsTable.png"
 	},
 	{
 		"abr": "bionicarm",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicArm",
-		"fileName": "BionicArm.png"
+		"fileName": "assets/textures/BionicArm.png"
 	},
 	{
 		"abr": "bionicear",
 		"price": 1308,
 		"category": "Bionic",
 		"defname": "BionicEar",
-		"fileName": "BionicEar.png"
+		"fileName": "assets/textures/BionicEar.png"
 	},
 	{
 		"abr": "bioniceye",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicEye",
-		"fileName": "BionicEye.png"
+		"fileName": "assets/textures/BionicEye.png"
 	},
 	{
 		"abr": "bionicheart",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicHeart",
-		"fileName": "BionicHeart.png"
+		"fileName": "assets/textures/BionicHeart.png"
 	},
 	{
 		"abr": "bionicleg",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicLeg",
-		"fileName": "BionicLeg.png"
+		"fileName": "assets/textures/BionicLeg.png"
 	},
 	{
 		"abr": "bionicspine",
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicSpine",
-		"fileName": "BionicSpine.png"
+		"fileName": "assets/textures/BionicSpine.png"
 	},
 	{
 		"abr": "bionicstomach",
 		"price": 1308,
 		"category": "Bionic",
 		"defname": "BionicStomach",
-		"fileName": "BionicStomach.png"
+		"fileName": "assets/textures/BionicStomach.png"
 	},
 	{
 		"abr": "bionictongue",
 		"price": 942,
 		"category": "Bionic",
 		"defname": "BionicTongue",
-		"fileName": "BionicTongue.png"
+		"fileName": "assets/textures/BionicTongue.png"
 	},
 	{
 		"abr": "birdmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cassowary",
-		"fileName": "Meat_Cassowary.png"
+		"fileName": "assets/textures/Meat_Cassowary.png"
 	},
 	{
 		"abr": "birdskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Bird",
-		"fileName": "Leather_Bird.png"
+		"fileName": "assets/textures/Leather_Bird.png"
 	},
 	{
 		"abr": "bison",
 		"price": 583,
 		"category": "Animals",
 		"defname": "Bison",
-		"fileName": "Bison.png"
+		"fileName": "assets/textures/Bison.png"
 	},
 	{
 		"abr": "bisonmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Bison",
-		"fileName": "Meat_Bison.png"
+		"fileName": "assets/textures/Meat_Bison.png"
 	},
 	{
 		"abr": "bisonwool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "WoolBison",
-		"fileName": "WoolBison.png"
+		"fileName": "assets/textures/WoolBison.png"
 	},
 	{
 		"abr": "bluefur",
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Bluefur",
-		"fileName": "Leather_Bluefur.png"
+		"fileName": "assets/textures/Leather_Bluefur.png"
 	},
 	{
 		"abr": "bolt-actionrifle",
@@ -573,49 +573,49 @@
 		"defname": "Gun_BoltActionRifle",
 		"damage": "18",
 		"range": "36.9",
-		"fileName": "Gun_BoltActionRifle.png"
+		"fileName": "assets/textures/Gun_BoltActionRifle.png"
 	},
 	{
 		"abr": "boomalope",
 		"price": 583,
 		"category": "Animals",
 		"defname": "Boomalope",
-		"fileName": "Boomalope.png"
+		"fileName": "assets/textures/Boomalope.png"
 	},
 	{
 		"abr": "boomalopemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomalope",
-		"fileName": "Meat_Boomalope.png"
+		"fileName": "assets/textures/Meat_Boomalope.png"
 	},
 	{
 		"abr": "boomrat",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Boomrat",
-		"fileName": "Boomrat.png"
+		"fileName": "assets/textures/Boomrat.png"
 	},
 	{
 		"abr": "boomratmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Boomrat",
-		"fileName": "Meat_Boomrat.png"
+		"fileName": "assets/textures/Meat_Boomrat.png"
 	},
 	{
 		"abr": "bowlerhat",
 		"price": 77,
 		"category": "Headgear",
 		"defname": "Apparel_BowlerHat",
-		"fileName": "Apparel_BowlerHat.png"
+		"fileName": "assets/textures/Apparel_BowlerHat.png"
 	},
 	{
 		"abr": "breachaxe",
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_BreachAxe",
-		"fileName": "MeleeWeapon_BreachAxe.png"
+		"fileName": "assets/textures/MeleeWeapon_BreachAxe.png"
 	},
 	{
 		"abr": "bren",
@@ -624,105 +624,105 @@
 		"defname": "VFWP_Gun_BREN_LMG",
 		"damage": "16",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_BREN_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_BREN_LMG.png"
 	},
 	{
 		"abr": "brewery",
 		"price": 350,
 		"category": "Production",
 		"defname": "Brewery",
-		"fileName": "Brewery.png"
+		"fileName": "assets/textures/Brewery.png"
 	},
 	{
 		"abr": "butchertable",
 		"price": 302,
 		"category": "Production",
 		"defname": "TableButcher",
-		"fileName": "TableButcher.png"
+		"fileName": "assets/textures/TableButcher.png"
 	},
 	{
 		"abr": "button-downshirt",
 		"price": 166,
 		"category": "Apparel",
 		"defname": "Apparel_CollarShirt",
-		"fileName": "Apparel_CollarShirt.png"
+		"fileName": "assets/textures/Apparel_CollarShirt.png"
 	},
 	{
 		"abr": "camelhide",
 		"price": 4,
 		"category": "Leathers",
 		"defname": "Leather_Camel",
-		"fileName": "Leather_Camel.png"
+		"fileName": "assets/textures/Leather_Camel.png"
 	},
 	{
 		"abr": "capybara",
 		"price": 250,
 		"category": "Animals",
 		"defname": "Capybara",
-		"fileName": "Capybara.png"
+		"fileName": "assets/textures/Capybara.png"
 	},
 	{
 		"abr": "capybarameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Capybara",
-		"fileName": "Meat_Capybara.png"
+		"fileName": "assets/textures/Meat_Capybara.png"
 	},
 	{
 		"abr": "caribou",
 		"price": 500,
 		"category": "Animals",
 		"defname": "Caribou",
-		"fileName": "Caribou.png"
+		"fileName": "assets/textures/Caribou.png"
 	},
 	{
 		"abr": "cariboumeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Caribou",
-		"fileName": "Meat_Caribou.png"
+		"fileName": "assets/textures/Meat_Caribou.png"
 	},
 	{
 		"abr": "carnivorefinemeal",
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine_Meat",
-		"fileName": "MealFine_Meat.png"
+		"fileName": "assets/textures/MealFine_Meat.png"
 	},
 	{
 		"abr": "carnivorelavishmeal",
 		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish_Meat",
-		"fileName": "MealLavish_Meat.png"
+		"fileName": "assets/textures/MealLavish_Meat.png"
 	},
 	{
 		"abr": "cassowary",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Cassowary",
-		"fileName": "Cassowary.png"
+		"fileName": "assets/textures/Cassowary.png"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
 		"price": 32,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized",
-		"fileName": "EggCassowaryFertilized.png"
+		"fileName": "assets/textures/EggCassowaryFertilized.png"
 	},
 	{
 		"abr": "cat",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Cat",
-		"fileName": "Cat.png"
+		"fileName": "assets/textures/Cat.png"
 	},
 	{
 		"abr": "catmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cat",
-		"fileName": "Meat_Cat.png"
+		"fileName": "assets/textures/Meat_Cat.png"
 	},
 	{
 		"abr": "cbj-ms",
@@ -731,7 +731,7 @@
 		"defname": "VFWP_Gun_CBJMS_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_CBJMS_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_CBJMS_SMG.png"
 	},
 	{
 		"abr": "chainshotgun",
@@ -740,7 +740,7 @@
 		"defname": "Gun_ChainShotgun",
 		"damage": "18",
 		"range": "12.9",
-		"fileName": "Gun_ChainShotgun.png"
+		"fileName": "assets/textures/Gun_ChainShotgun.png"
 	},
 	{
 		"abr": "chargelance",
@@ -749,7 +749,7 @@
 		"defname": "Gun_ChargeLance",
 		"damage": "30",
 		"range": "29.9",
-		"fileName": "Gun_ChargeLance.png"
+		"fileName": "assets/textures/Gun_ChargeLance.png"
 	},
 	{
 		"abr": "chargerifle",
@@ -758,161 +758,161 @@
 		"defname": "Gun_ChargeRifle",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "Gun_ChargeRifle.png"
+		"fileName": "assets/textures/Gun_ChargeRifle.png"
 	},
 	{
 		"abr": "chemfuel",
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Chemfuel",
-		"fileName": "Chemfuel.png"
+		"fileName": "assets/textures/Chemfuel.png"
 	},
 	{
 		"abr": "chesstable",
 		"price": 281,
 		"category": "Furniture",
 		"defname": "ChessTable",
-		"fileName": "ChessTable.png"
+		"fileName": "assets/textures/ChessTable.png"
 	},
 	{
 		"abr": "chicken",
 		"price": 83,
 		"category": "Animals",
 		"defname": "Chicken",
-		"fileName": "Chicken.png"
+		"fileName": "assets/textures/Chicken.png"
 	},
 	{
 		"abr": "chickenegg(fert.)",
 		"price": 12,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized",
-		"fileName": "EggChickenFertilized.png"
+		"fileName": "assets/textures/EggChickenFertilized.png"
 	},
 	{
 		"abr": "chickenegg(unfert.)",
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized",
-		"fileName": "EggChickenUnfertilized.png"
+		"fileName": "assets/textures/EggChickenUnfertilized.png"
 	},
 	{
 		"abr": "chickenmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Chicken",
-		"fileName": "Meat_Chicken.png"
+		"fileName": "assets/textures/Meat_Chicken.png"
 	},
 	{
 		"abr": "chinchilla",
 		"price": 250,
 		"category": "Animals",
 		"defname": "Chinchilla",
-		"fileName": "Chinchilla.png"
+		"fileName": "assets/textures/Chinchilla.png"
 	},
 	{
 		"abr": "chinchillafur",
 		"price": 11,
 		"category": "Leathers",
 		"defname": "Leather_Chinchilla",
-		"fileName": "Leather_Chinchilla.png"
+		"fileName": "assets/textures/Leather_Chinchilla.png"
 	},
 	{
 		"abr": "chinchillameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Chinchilla",
-		"fileName": "Meat_Chinchilla.png"
+		"fileName": "assets/textures/Meat_Chinchilla.png"
 	},
 	{
 		"abr": "chocolate",
 		"price": 5,
 		"category": "Foods",
 		"defname": "Chocolate",
-		"fileName": "Chocolate.png"
+		"fileName": "assets/textures/Chocolate.png"
 	},
 	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
 		"defname": "Cloth",
-		"fileName": "Cloth.png"
+		"fileName": "assets/textures/Cloth.png"
 	},
 	{
 		"abr": "club",
 		"price": 141,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club",
-		"fileName": "MeleeWeapon_Club.png"
+		"fileName": "assets/textures/MeleeWeapon_Club.png"
 	},
 	{
 		"abr": "cobra",
 		"price": 250,
 		"category": "Animals",
 		"defname": "Cobra",
-		"fileName": "Cobra.png"
+		"fileName": "assets/textures/Cobra.png"
 	},
 	{
 		"abr": "cobraegg(fert.)",
 		"price": 33,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized",
-		"fileName": "EggCobraFertilized.png"
+		"fileName": "assets/textures/EggCobraFertilized.png"
 	},
 	{
 		"abr": "cobrameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cobra",
-		"fileName": "Meat_Cobra.png"
+		"fileName": "assets/textures/Meat_Cobra.png"
 	},
 	{
 		"abr": "cochlearimplant",
 		"price": 367,
 		"category": "Prosthetic",
 		"defname": "CochlearImplant",
-		"fileName": "CochlearImplant.png"
+		"fileName": "assets/textures/CochlearImplant.png"
 	},
 	{
 		"abr": "component",
 		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial",
-		"fileName": "ComponentIndustrial.png"
+		"fileName": "assets/textures/ComponentIndustrial.png"
 	},
 	{
 		"abr": "corn",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawCorn",
-		"fileName": "RawCorn.png"
+		"fileName": "assets/textures/RawCorn.png"
 	},
 	{
 		"abr": "cougar",
 		"price": 667,
 		"category": "Animals",
 		"defname": "Cougar",
-		"fileName": "Cougar.png"
+		"fileName": "assets/textures/Cougar.png"
 	},
 	{
 		"abr": "cougarmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cougar",
-		"fileName": "Meat_Cougar.png"
+		"fileName": "assets/textures/Meat_Cougar.png"
 	},
 	{
 		"abr": "cow",
 		"price": 500,
 		"category": "Animals",
 		"defname": "Cow",
-		"fileName": "Cow.png"
+		"fileName": "assets/textures/Cow.png"
 	},
 	{
 		"abr": "cowboyhat",
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat",
-		"fileName": "Apparel_CowboyHat.png"
+		"fileName": "assets/textures/Apparel_CowboyHat.png"
 	},
 	{
 		"abr": "cs5",
@@ -921,7 +921,7 @@
 		"defname": "VFWP_Gun_CS5_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_CS5_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_CS5_SR.png"
 	},
 	{
 		"abr": "cs-lr4",
@@ -930,7 +930,7 @@
 		"defname": "VFWP_Gun_CSLR4_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_CSLR4_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_CSLR4_SR.png"
 	},
 	{
 		"abr": "cz75",
@@ -939,7 +939,7 @@
 		"defname": "VFWP_Gun_CZ75_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_CZ75_P.png"
+		"fileName": "assets/textures/VFWP_Gun_CZ75_P.png"
 	},
 	{
 		"abr": "cz750",
@@ -948,7 +948,7 @@
 		"defname": "VFWP_Gun_CZ750_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_CZ750_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_CZ750_SR.png"
 	},
 	{
 		"abr": "cz805bren",
@@ -957,28 +957,28 @@
 		"defname": "VFWP_Gun_CZ805_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_CZ805_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_CZ805_AR.png"
 	},
 	{
 		"abr": "deathacidifier",
 		"price": 667,
 		"category": "Bionic",
 		"defname": "DeathAcidifier",
-		"fileName": "DeathAcidifier.png"
+		"fileName": "assets/textures/DeathAcidifier.png"
 	},
 	{
 		"abr": "deepdrill",
 		"price": 483,
 		"category": "Production",
 		"defname": "DeepDrill",
-		"fileName": "DeepDrill.png"
+		"fileName": "assets/textures/DeepDrill.png"
 	},
 	{
 		"abr": "deer",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Deer",
-		"fileName": "Deer.png"
+		"fileName": "assets/textures/Deer.png"
 	},
 	{
 		"abr": "deserteagle.357",
@@ -987,42 +987,42 @@
 		"defname": "VFWP_Gun_DEAGLE357_P",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_DEAGLE357_P.png"
+		"fileName": "assets/textures/VFWP_Gun_DEAGLE357_P.png"
 	},
 	{
 		"abr": "devilstrand",
 		"price": 9,
 		"category": "Textiles",
 		"defname": "DevilstrandCloth",
-		"fileName": "DevilstrandCloth.png"
+		"fileName": "assets/textures/DevilstrandCloth.png"
 	},
 	{
 		"abr": "diningchair",
 		"price": 198,
 		"category": "Furniture",
 		"defname": "DiningChair",
-		"fileName": "DiningChair.png"
+		"fileName": "assets/textures/DiningChair.png"
 	},
 	{
 		"abr": "dogleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Dog",
-		"fileName": "Leather_Dog.png"
+		"fileName": "assets/textures/Leather_Dog.png"
 	},
 	{
 		"abr": "donkey",
 		"price": 533,
 		"category": "Animals",
 		"defname": "Donkey",
-		"fileName": "Donkey.png"
+		"fileName": "assets/textures/Donkey.png"
 	},
 	{
 		"abr": "donkeymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Donkey",
-		"fileName": "Meat_Donkey.png"
+		"fileName": "assets/textures/Meat_Donkey.png"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
@@ -1031,21 +1031,21 @@
 		"defname": "Gun_DoomsdayRocket",
 		"damage": "50",
 		"range": "35.9",
-		"fileName": "Gun_DoomsdayRocket.png"
+		"fileName": "assets/textures/Gun_DoomsdayRocket.png"
 	},
 	{
 		"abr": "doublebed",
 		"price": 292,
 		"category": "Furniture",
 		"defname": "DoubleBed",
-		"fileName": "DoubleBed.png"
+		"fileName": "assets/textures/DoubleBed.png"
 	},
 	{
 		"abr": "doublebedroll",
 		"price": 290,
 		"category": "Furniture",
 		"defname": "BedrollDouble",
-		"fileName": "BedrollDouble.png"
+		"fileName": "assets/textures/BedrollDouble.png"
 	},
 	{
 		"abr": "dp-12",
@@ -1054,35 +1054,35 @@
 		"defname": "VFWP_Gun_DP12_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_DP12_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_DP12_PS.png"
 	},
 	{
 		"abr": "dresser",
 		"price": 179,
 		"category": "Furniture",
 		"defname": "Dresser",
-		"fileName": "Dresser.png"
+		"fileName": "assets/textures/Dresser.png"
 	},
 	{
 		"abr": "dromedary",
 		"price": 500,
 		"category": "Animals",
 		"defname": "Dromedary",
-		"fileName": "Dromedary.png"
+		"fileName": "assets/textures/Dromedary.png"
 	},
 	{
 		"abr": "dromedarymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Dromedary",
-		"fileName": "Meat_Dromedary.png"
+		"fileName": "assets/textures/Meat_Dromedary.png"
 	},
 	{
 		"abr": "druglab",
 		"price": 742,
 		"category": "Production",
 		"defname": "DrugLab",
-		"fileName": "DrugLab.png"
+		"fileName": "assets/textures/DrugLab.png"
 	},
 	{
 		"abr": "dsr-1",
@@ -1091,126 +1091,126 @@
 		"defname": "VFWP_Gun_DSR1_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_DSR1_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_DSR1_SR.png"
 	},
 	{
 		"abr": "duck",
 		"price": 100,
 		"category": "Animals",
 		"defname": "Duck",
-		"fileName": "Duck.png"
+		"fileName": "assets/textures/Duck.png"
 	},
 	{
 		"abr": "duckegg(fert.)",
 		"price": 12,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized",
-		"fileName": "EggDuckFertilized.png"
+		"fileName": "assets/textures/EggDuckFertilized.png"
 	},
 	{
 		"abr": "duckegg(unfert.)",
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized",
-		"fileName": "EggDuckUnfertilized.png"
+		"fileName": "assets/textures/EggDuckUnfertilized.png"
 	},
 	{
 		"abr": "duckmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Duck",
-		"fileName": "Meat_Duck.png"
+		"fileName": "assets/textures/Meat_Duck.png"
 	},
 	{
 		"abr": "duster",
 		"price": 327,
 		"category": "Apparel",
 		"defname": "Apparel_Duster",
-		"fileName": "Apparel_Duster.png"
+		"fileName": "assets/textures/Apparel_Duster.png"
 	},
 	{
 		"abr": "eggbox",
 		"price": 79,
 		"category": "Misc",
 		"defname": "EggBox",
-		"fileName": "EggBox.png"
+		"fileName": "assets/textures/EggBox.png"
 	},
 	{
 		"abr": "electricsmelter",
 		"price": 667,
 		"category": "Production",
 		"defname": "ElectricSmelter",
-		"fileName": "ElectricSmelter.png"
+		"fileName": "assets/textures/ElectricSmelter.png"
 	},
 	{
 		"abr": "electricsmithy",
 		"price": 492,
 		"category": "Production",
 		"defname": "ElectricSmithy",
-		"fileName": "ElectricSmithy.png"
+		"fileName": "assets/textures/ElectricSmithy.png"
 	},
 	{
 		"abr": "electricstove",
 		"price": 375,
 		"category": "Production",
 		"defname": "ElectricStove",
-		"fileName": "ElectricStove.png"
+		"fileName": "assets/textures/ElectricStove.png"
 	},
 	{
 		"abr": "electrictailorbench",
 		"price": 533,
 		"category": "Production",
 		"defname": "ElectricTailoringBench",
-		"fileName": "ElectricTailoringBench.png"
+		"fileName": "assets/textures/ElectricTailoringBench.png"
 	},
 	{
 		"abr": "elephant",
 		"price": 1000,
 		"category": "Animals",
 		"defname": "Elephant",
-		"fileName": "Elephant.png"
+		"fileName": "assets/textures/Elephant.png"
 	},
 	{
 		"abr": "elephantleather",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Elephant",
-		"fileName": "Leather_Elephant.png"
+		"fileName": "assets/textures/Leather_Elephant.png"
 	},
 	{
 		"abr": "elephantmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Elephant",
-		"fileName": "Meat_Elephant.png"
+		"fileName": "assets/textures/Meat_Elephant.png"
 	},
 	{
 		"abr": "elephanttusk",
 		"price": 133,
 		"category": "Items",
 		"defname": "ElephantTusk",
-		"fileName": "ElephantTusk.png"
+		"fileName": "assets/textures/ElephantTusk.png"
 	},
 	{
 		"abr": "elk",
 		"price": 500,
 		"category": "Animals",
 		"defname": "Elk",
-		"fileName": "Elk.png"
+		"fileName": "assets/textures/Elk.png"
 	},
 	{
 		"abr": "elkmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Elk",
-		"fileName": "Meat_Elk.png"
+		"fileName": "assets/textures/Meat_Elk.png"
 	},
 	{
 		"abr": "empgrenades",
 		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP",
-		"fileName": "Weapon_GrenadeEMP.png"
+		"fileName": "assets/textures/Weapon_GrenadeEMP.png"
 	},
 	{
 		"abr": "emplauncher",
@@ -1219,35 +1219,35 @@
 		"defname": "Gun_EmpLauncher",
 		"damage": "50",
 		"range": "23.9",
-		"fileName": "Gun_EmpLauncher.png"
+		"fileName": "assets/textures/Gun_EmpLauncher.png"
 	},
 	{
 		"abr": "empshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_EMP",
-		"fileName": "Shell_EMP.png"
+		"fileName": "assets/textures/Shell_EMP.png"
 	},
 	{
 		"abr": "emu",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Emu",
-		"fileName": "Emu.png"
+		"fileName": "assets/textures/Emu.png"
 	},
 	{
 		"abr": "emuegg(fert.)",
 		"price": 30,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized",
-		"fileName": "EggEmuFertilized.png"
+		"fileName": "assets/textures/EggEmuFertilized.png"
 	},
 	{
 		"abr": "endtable",
 		"price": 106,
 		"category": "Furniture",
 		"defname": "EndTable",
-		"fileName": "EndTable.png"
+		"fileName": "assets/textures/EndTable.png"
 	},
 	{
 		"abr": "f2000",
@@ -1256,7 +1256,7 @@
 		"defname": "VFWP_Gun_F2000_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_F2000_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_F2000_AR.png"
 	},
 	{
 		"abr": "fad",
@@ -1265,7 +1265,7 @@
 		"defname": "VFWP_Gun_FAD_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_FAD_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_FAD_AR.png"
 	},
 	{
 		"abr": "fal",
@@ -1274,7 +1274,7 @@
 		"defname": "VFWP_Gun_FAL_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_FAL_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_FAL_BR.png"
 	},
 	{
 		"abr": "famas",
@@ -1283,7 +1283,7 @@
 		"defname": "VFWP_Gun_FAMAS_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_FAMAS_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_FAMAS_AR.png"
 	},
 	{
 		"abr": "fd338",
@@ -1292,42 +1292,42 @@
 		"defname": "VFWP_Gun_FD338_DMR",
 		"damage": "17",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_FD338_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_FD338_DMR.png"
 	},
 	{
 		"abr": "fennecfox",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Fox_Fennec",
-		"fileName": "Fox_Fennec.png"
+		"fileName": "assets/textures/Fox_Fennec.png"
 	},
 	{
 		"abr": "fermentingbarrel",
 		"price": 95,
 		"category": "Production",
 		"defname": "FermentingBarrel",
-		"fileName": "FermentingBarrel.png"
+		"fileName": "assets/textures/FermentingBarrel.png"
 	},
 	{
 		"abr": "finemeal",
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine",
-		"fileName": "MealFine.png"
+		"fileName": "assets/textures/MealFine.png"
 	},
 	{
 		"abr": "firefoampopper",
 		"price": 300,
 		"category": "Misc",
 		"defname": "FirefoamPopper",
-		"fileName": "FirefoamPopper.png"
+		"fileName": "assets/textures/FirefoamPopper.png"
 	},
 	{
 		"abr": "firefoamshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Firefoam",
-		"fileName": "Shell_Firefoam.png"
+		"fileName": "assets/textures/Shell_Firefoam.png"
 	},
 	{
 		"abr": "five-seven",
@@ -1336,49 +1336,49 @@
 		"defname": "VFWP_Gun_FIVESEVEN_P",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_FIVESEVEN_P.png"
+		"fileName": "assets/textures/VFWP_Gun_FIVESEVEN_P.png"
 	},
 	{
 		"abr": "flakhelmet",
 		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet",
-		"fileName": "Apparel_AdvancedHelmet.png"
+		"fileName": "assets/textures/Apparel_AdvancedHelmet.png"
 	},
 	{
 		"abr": "flakjacket",
 		"price": 483,
 		"category": "Armor",
 		"defname": "Apparel_FlakJacket",
-		"fileName": "Apparel_FlakJacket.png"
+		"fileName": "assets/textures/Apparel_FlakJacket.png"
 	},
 	{
 		"abr": "flakpants",
 		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakPants",
-		"fileName": "Apparel_FlakPants.png"
+		"fileName": "assets/textures/Apparel_FlakPants.png"
 	},
 	{
 		"abr": "flakvest",
 		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakVest",
-		"fileName": "Apparel_FlakVest.png"
+		"fileName": "assets/textures/Apparel_FlakVest.png"
 	},
 	{
 		"abr": "flake",
 		"price": 23,
 		"category": "Drugs",
 		"defname": "Flake",
-		"fileName": "Flake.png"
+		"fileName": "assets/textures/Flake.png"
 	},
 	{
 		"abr": "flatscreentelevision",
 		"price": 1533,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision",
-		"fileName": "FlatscreenTelevision.png"
+		"fileName": "assets/textures/FlatscreenTelevision.png"
 	},
 	{
 		"abr": "fmg-9",
@@ -1387,7 +1387,7 @@
 		"defname": "VFWP_Gun_FMG9_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_FMG9_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_FMG9_SMG.png"
 	},
 	{
 		"abr": "fn15dmriica",
@@ -1396,42 +1396,42 @@
 		"defname": "VFWP_Gun_FN15_DMR",
 		"damage": "11",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_FN15_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_FN15_DMR.png"
 	},
 	{
 		"abr": "foxmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Fox_Fennec",
-		"fileName": "Meat_Fox_Fennec.png"
+		"fileName": "assets/textures/Meat_Fox_Fennec.png"
 	},
 	{
 		"abr": "foxfur",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Fox",
-		"fileName": "Leather_Fox.png"
+		"fileName": "assets/textures/Leather_Fox.png"
 	},
 	{
 		"abr": "fraggrenades",
 		"price": 442,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeFrag",
-		"fileName": "Weapon_GrenadeFrag.png"
+		"fileName": "assets/textures/Weapon_GrenadeFrag.png"
 	},
 	{
 		"abr": "fueledsmithy",
 		"price": 333,
 		"category": "Production",
 		"defname": "FueledSmithy",
-		"fileName": "FueledSmithy.png"
+		"fileName": "assets/textures/FueledSmithy.png"
 	},
 	{
 		"abr": "fueledstove",
 		"price": 265,
 		"category": "Production",
 		"defname": "FueledStove",
-		"fileName": "FueledStove.png"
+		"fileName": "assets/textures/FueledStove.png"
 	},
 	{
 		"abr": "g36c",
@@ -1440,7 +1440,7 @@
 		"defname": "VFWP_Gun_G36C_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_G36C_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_G36C_AR.png"
 	},
 	{
 		"abr": "g36k",
@@ -1449,7 +1449,7 @@
 		"defname": "VFWP_Gun_G36K_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_G36K_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_G36K_AR.png"
 	},
 	{
 		"abr": "g3a3",
@@ -1458,42 +1458,42 @@
 		"defname": "VFWP_Gun_G3_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_G3_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_G3_BR.png"
 	},
 	{
 		"abr": "game-of-urboard",
 		"price": 153,
 		"category": "Furniture",
 		"defname": "GameOfUrBoard",
-		"fileName": "GameOfUrBoard.png"
+		"fileName": "assets/textures/GameOfUrBoard.png"
 	},
 	{
 		"abr": "gazelle",
 		"price": 250,
 		"category": "Animals",
 		"defname": "Gazelle",
-		"fileName": "Gazelle.png"
+		"fileName": "assets/textures/Gazelle.png"
 	},
 	{
 		"abr": "gazellemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gazelle",
-		"fileName": "Meat_Gazelle.png"
+		"fileName": "assets/textures/Meat_Gazelle.png"
 	},
 	{
 		"abr": "gladius",
 		"price": 239,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Gladius",
-		"fileName": "MeleeWeapon_Gladius.png"
+		"fileName": "assets/textures/MeleeWeapon_Gladius.png"
 	},
 	{
 		"abr": "glitterworldmedicine",
 		"price": 83,
 		"category": "Medicine",
 		"defname": "MedicineUltratech",
-		"fileName": "MedicineUltratech.png"
+		"fileName": "assets/textures/MedicineUltratech.png"
 	},
 	{
 		"abr": "glock17",
@@ -1502,7 +1502,7 @@
 		"defname": "VFWP_Gun_GLOCK17_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_GLOCK17_P.png"
+		"fileName": "assets/textures/VFWP_Gun_GLOCK17_P.png"
 	},
 	{
 		"abr": "glock18",
@@ -1511,42 +1511,42 @@
 		"defname": "VFWP_Gun_GLOCK18_P",
 		"damage": "7",
 		"range": "19.9",
-		"fileName": "VFWP_Gun_GLOCK18_P.png"
+		"fileName": "assets/textures/VFWP_Gun_GLOCK18_P.png"
 	},
 	{
 		"abr": "glowpod",
 		"price": 83,
 		"category": "Special",
 		"defname": "GlowPod",
-		"fileName": "GlowPod.png"
+		"fileName": "assets/textures/GlowPod.png"
 	},
 	{
 		"abr": "goat",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Goat",
-		"fileName": "Goat.png"
+		"fileName": "assets/textures/Goat.png"
 	},
 	{
 		"abr": "goatmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Goat",
-		"fileName": "Meat_Goat.png"
+		"fileName": "assets/textures/Meat_Goat.png"
 	},
 	{
 		"abr": "go-juice",
 		"price": 88,
 		"category": "Drugs",
 		"defname": "GoJuice",
-		"fileName": "GoJuice.png"
+		"fileName": "assets/textures/GoJuice.png"
 	},
 	{
 		"abr": "gold",
 		"price": 17,
 		"category": "Raw resources",
 		"defname": "Gold",
-		"fileName": "Gold.png"
+		"fileName": "assets/textures/Gold.png"
 	},
 	{
 		"abr": "gol-snipermagnum",
@@ -1555,42 +1555,42 @@
 		"defname": "VFWP_Gun_GOL_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_GOL_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_GOL_SR.png"
 	},
 	{
 		"abr": "goose",
 		"price": 150,
 		"category": "Animals",
 		"defname": "Goose",
-		"fileName": "Goose.png"
+		"fileName": "assets/textures/Goose.png"
 	},
 	{
 		"abr": "gooseegg(fert.)",
 		"price": 18,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized",
-		"fileName": "EggGooseFertilized.png"
+		"fileName": "assets/textures/EggGooseFertilized.png"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
 		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized",
-		"fileName": "EggGooseUnfertilized.png"
+		"fileName": "assets/textures/EggGooseUnfertilized.png"
 	},
 	{
 		"abr": "grandsculpture",
 		"price": 1967,
 		"category": "Art",
 		"defname": "SculptureGrand",
-		"fileName": "SculptureGrand.png"
+		"fileName": "assets/textures/SculptureGrand.png"
 	},
 	{
 		"abr": "graniteblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksGranite",
-		"fileName": "BlocksGranite.png"
+		"fileName": "assets/textures/BlocksGranite.png"
 	},
 	{
 		"abr": "greatbow",
@@ -1599,91 +1599,91 @@
 		"defname": "Bow_Great",
 		"damage": "17",
 		"range": "29.9",
-		"fileName": "Bow_Great.png"
+		"fileName": "assets/textures/Bow_Great.png"
 	},
 	{
 		"abr": "grizzlybear",
 		"price": 1167,
 		"category": "Animals",
 		"defname": "Bear_Grizzly",
-		"fileName": "Bear_Grizzly.png"
+		"fileName": "assets/textures/Bear_Grizzly.png"
 	},
 	{
 		"abr": "guineapig",
 		"price": 250,
 		"category": "Animals",
 		"defname": "GuineaPig",
-		"fileName": "GuineaPig.png"
+		"fileName": "assets/textures/GuineaPig.png"
 	},
 	{
 		"abr": "guineapigfur",
 		"price": 8,
 		"category": "Leathers",
 		"defname": "Leather_GuineaPig",
-		"fileName": "Leather_GuineaPig.png"
+		"fileName": "assets/textures/Leather_GuineaPig.png"
 	},
 	{
 		"abr": "guineapigmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_GuineaPig",
-		"fileName": "Meat_GuineaPig.png"
+		"fileName": "assets/textures/Meat_GuineaPig.png"
 	},
 	{
 		"abr": "handtailorbench",
 		"price": 262,
 		"category": "Production",
 		"defname": "HandTailoringBench",
-		"fileName": "HandTailoringBench.png"
+		"fileName": "assets/textures/HandTailoringBench.png"
 	},
 	{
 		"abr": "hare",
 		"price": 83,
 		"category": "Animals",
 		"defname": "Hare",
-		"fileName": "Hare.png"
+		"fileName": "assets/textures/Hare.png"
 	},
 	{
 		"abr": "haremeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Hare",
-		"fileName": "Meat_Hare.png"
+		"fileName": "assets/textures/Meat_Hare.png"
 	},
 	{
 		"abr": "hay",
 		"price": 1,
 		"category": "Foods",
 		"defname": "Hay",
-		"fileName": "Hay.png"
+		"fileName": "assets/textures/Hay.png"
 	},
 	{
 		"abr": "healermechserum",
 		"price": 2167,
 		"category": "Items",
 		"defname": "MechSerumHealer",
-		"fileName": "MechSerumHealer.png"
+		"fileName": "assets/textures/MechSerumHealer.png"
 	},
 	{
 		"abr": "heart",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Heart",
-		"fileName": "Heart.png"
+		"fileName": "assets/textures/Heart.png"
 	},
 	{
 		"abr": "heater",
 		"price": 218,
 		"category": "Temperature",
 		"defname": "Heater",
-		"fileName": "Heater.png"
+		"fileName": "assets/textures/Heater.png"
 	},
 	{
 		"abr": "heavyfur",
 		"price": 6,
 		"category": "Leathers",
 		"defname": "Leather_Heavy",
-		"fileName": "Leather_Heavy.png"
+		"fileName": "assets/textures/Leather_Heavy.png"
 	},
 	{
 		"abr": "heavysmg",
@@ -1692,7 +1692,7 @@
 		"defname": "Gun_HeavySMG",
 		"damage": "12",
 		"range": "22.9",
-		"fileName": "Gun_HeavySMG.png"
+		"fileName": "assets/textures/Gun_HeavySMG.png"
 	},
 	{
 		"abr": "hécateii",
@@ -1701,21 +1701,21 @@
 		"defname": "VFWP_Gun_HECATEII_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_HECATEII_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_HECATEII_SR.png"
 	},
 	{
 		"abr": "herbalmedicine",
 		"price": 17,
 		"category": "Medicine",
 		"defname": "MedicineHerbal",
-		"fileName": "MedicineHerbal.png"
+		"fileName": "assets/textures/MedicineHerbal.png"
 	},
 	{
 		"abr": "high-explosiveshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_HighExplosive",
-		"fileName": "Shell_HighExplosive.png"
+		"fileName": "assets/textures/Shell_HighExplosive.png"
 	},
 	{
 		"abr": "hi-power",
@@ -1724,7 +1724,7 @@
 		"defname": "VFWP_Gun_BHP_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_BHP_P.png"
+		"fileName": "assets/textures/VFWP_Gun_BHP_P.png"
 	},
 	{
 		"abr": "hk21",
@@ -1733,7 +1733,7 @@
 		"defname": "VFWP_Gun_HK21_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_HK21_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_HK21_LMG.png"
 	},
 	{
 		"abr": "hk33a3",
@@ -1742,7 +1742,7 @@
 		"defname": "VFWP_Gun_HK33_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_HK33_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_HK33_AR.png"
 	},
 	{
 		"abr": "hk416c",
@@ -1751,7 +1751,7 @@
 		"defname": "VFWP_Gun_HK416_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_HK416_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_HK416_AR.png"
 	},
 	{
 		"abr": "hk417mr",
@@ -1760,7 +1760,7 @@
 		"defname": "VFWP_Gun_HK417_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_HK417_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_HK417_DMR.png"
 	},
 	{
 		"abr": "hk433",
@@ -1769,7 +1769,7 @@
 		"defname": "VFWP_Gun_HK433_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_HK433_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_HK433_AR.png"
 	},
 	{
 		"abr": "hk45",
@@ -1778,7 +1778,7 @@
 		"defname": "VFWP_Gun_HK45_P",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_HK45_P.png"
+		"fileName": "assets/textures/VFWP_Gun_HK45_P.png"
 	},
 	{
 		"abr": "hk53",
@@ -1787,7 +1787,7 @@
 		"defname": "VFWP_Gun_HK53_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_HK53_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_HK53_AR.png"
 	},
 	{
 		"abr": "honeybadger",
@@ -1796,56 +1796,56 @@
 		"defname": "VFWP_Gun_HONEYBADGER_AR",
 		"damage": "13",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_HONEYBADGER_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_HONEYBADGER_AR.png"
 	},
 	{
 		"abr": "hood",
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_HatHood",
-		"fileName": "Apparel_HatHood.png"
+		"fileName": "assets/textures/Apparel_HatHood.png"
 	},
 	{
 		"abr": "hoopstonering",
 		"price": 67,
 		"category": "Recreation",
 		"defname": "HoopstoneRing",
-		"fileName": "HoopstoneRing.png"
+		"fileName": "assets/textures/HoopstoneRing.png"
 	},
 	{
 		"abr": "hops",
 		"price": 2,
 		"category": "Plant matter",
 		"defname": "RawHops",
-		"fileName": "RawHops.png"
+		"fileName": "assets/textures/RawHops.png"
 	},
 	{
 		"abr": "horse",
 		"price": 917,
 		"category": "Animals",
 		"defname": "Horse",
-		"fileName": "Horse.png"
+		"fileName": "assets/textures/Horse.png"
 	},
 	{
 		"abr": "horsemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Horse",
-		"fileName": "Meat_Horse.png"
+		"fileName": "assets/textures/Meat_Horse.png"
 	},
 	{
 		"abr": "horseshoespin",
 		"price": 34,
 		"category": "Recreation",
 		"defname": "HorseshoesPin",
-		"fileName": "HorseshoesPin.png"
+		"fileName": "assets/textures/HorseshoesPin.png"
 	},
 	{
 		"abr": "hospitalbed",
 		"price": 667,
 		"category": "Furniture",
 		"defname": "HospitalBed",
-		"fileName": "HospitalBed.png"
+		"fileName": "assets/textures/HospitalBed.png"
 	},
 	{
 		"abr": "hti",
@@ -1854,133 +1854,133 @@
 		"defname": "VFWP_Gun_DTHTI_SR",
 		"damage": "19",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_DTHTI_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_DTHTI_SR.png"
 	},
 	{
 		"abr": "human",
 		"price": 2917,
 		"category": "Animal",
 		"defname": "Human",
-		"fileName": "Human.png"
+		"fileName": "assets/textures/Human.png"
 	},
 	{
 		"abr": "humanleather",
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_Human",
-		"fileName": "Leather_Human.png"
+		"fileName": "assets/textures/Leather_Human.png"
 	},
 	{
 		"abr": "humanmeat",
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Human",
-		"fileName": "Meat_Human.png"
+		"fileName": "assets/textures/Meat_Human.png"
 	},
 	{
 		"abr": "husky",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Husky",
-		"fileName": "Husky.png"
+		"fileName": "assets/textures/Husky.png"
 	},
 	{
 		"abr": "huskymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Husky",
-		"fileName": "Meat_Husky.png"
+		"fileName": "assets/textures/Meat_Husky.png"
 	},
 	{
 		"abr": "hyperweave",
 		"price": 15,
 		"category": "Textiles",
 		"defname": "Hyperweave",
-		"fileName": "Hyperweave.png"
+		"fileName": "assets/textures/Hyperweave.png"
 	},
 	{
 		"abr": "ibex",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Ibex",
-		"fileName": "Ibex.png"
+		"fileName": "assets/textures/Ibex.png"
 	},
 	{
 		"abr": "ibexmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Ibex",
-		"fileName": "Meat_Ibex.png"
+		"fileName": "assets/textures/Meat_Ibex.png"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
 		"price": 2008,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead",
-		"fileName": "TrapIED_AntigrainWarhead.png"
+		"fileName": "assets/textures/TrapIED_AntigrainWarhead.png"
 	},
 	{
 		"abr": "iedemptrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_EMP",
-		"fileName": "TrapIED_EMP.png"
+		"fileName": "assets/textures/TrapIED_EMP.png"
 	},
 	{
 		"abr": "iedfirefoamtrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam",
-		"fileName": "TrapIED_Firefoam.png"
+		"fileName": "assets/textures/TrapIED_Firefoam.png"
 	},
 	{
 		"abr": "iedincendiarytrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary",
-		"fileName": "TrapIED_Incendiary.png"
+		"fileName": "assets/textures/TrapIED_Incendiary.png"
 	},
 	{
 		"abr": "iedsmoketrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_Smoke",
-		"fileName": "TrapIED_Smoke.png"
+		"fileName": "assets/textures/TrapIED_Smoke.png"
 	},
 	{
 		"abr": "iedtrap",
 		"price": 192,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive",
-		"fileName": "TrapIED_HighExplosive.png"
+		"fileName": "assets/textures/TrapIED_HighExplosive.png"
 	},
 	{
 		"abr": "iguana",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Iguana",
-		"fileName": "Iguana.png"
+		"fileName": "assets/textures/Iguana.png"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
 		"price": 42,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized",
-		"fileName": "EggIguanaFertilized.png"
+		"fileName": "assets/textures/EggIguanaFertilized.png"
 	},
 	{
 		"abr": "iguanameat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Iguana",
-		"fileName": "Meat_Iguana.png"
+		"fileName": "assets/textures/Meat_Iguana.png"
 	},
 	{
 		"abr": "ikwa",
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa",
-		"fileName": "MeleeWeapon_Ikwa.png"
+		"fileName": "assets/textures/MeleeWeapon_Ikwa.png"
 	},
 	{
 		"abr": "incendiarylauncher",
@@ -1989,42 +1989,42 @@
 		"defname": "Gun_IncendiaryLauncher",
 		"damage": "10",
 		"range": "23.9",
-		"fileName": "Gun_IncendiaryLauncher.png"
+		"fileName": "assets/textures/Gun_IncendiaryLauncher.png"
 	},
 	{
 		"abr": "incendiaryshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Incendiary",
-		"fileName": "Shell_Incendiary.png"
+		"fileName": "assets/textures/Shell_Incendiary.png"
 	},
 	{
 		"abr": "infinitechemreactor",
 		"price": 2500,
 		"category": "Special",
 		"defname": "InfiniteChemreactor",
-		"fileName": "InfiniteChemreactor.png"
+		"fileName": "assets/textures/InfiniteChemreactor.png"
 	},
 	{
 		"abr": "insectjelly",
 		"price": 13,
 		"category": "Animal products",
 		"defname": "InsectJelly",
-		"fileName": "InsectJelly.png"
+		"fileName": "assets/textures/InsectJelly.png"
 	},
 	{
 		"abr": "insectmeat",
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Megaspider",
-		"fileName": "Meat_Megaspider.png"
+		"fileName": "assets/textures/Meat_Megaspider.png"
 	},
 	{
 		"abr": "jacket",
 		"price": 275,
 		"category": "Apparel",
 		"defname": "Apparel_Jacket",
-		"fileName": "Apparel_Jacket.png"
+		"fileName": "assets/textures/Apparel_Jacket.png"
 	},
 	{
 		"abr": "jackhammer",
@@ -2033,14 +2033,14 @@
 		"defname": "VFWP_Gun_JACKHAMMER_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_JACKHAMMER_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_JACKHAMMER_AS.png"
 	},
 	{
 		"abr": "jade",
 		"price": 8,
 		"category": "Raw resources",
 		"defname": "Jade",
-		"fileName": "Jade.png"
+		"fileName": "assets/textures/Jade.png"
 	},
 	{
 		"abr": "jng-90",
@@ -2049,14 +2049,14 @@
 		"defname": "VFWP_Gun_JNG90_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_JNG90_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_JNG90_SR.png"
 	},
 	{
 		"abr": "joywire",
 		"price": 367,
 		"category": "Prosthetic",
 		"defname": "Joywire",
-		"fileName": "Joywire.png"
+		"fileName": "assets/textures/Joywire.png"
 	},
 	{
 		"abr": "kacpdw",
@@ -2065,7 +2065,7 @@
 		"defname": "VFWP_Gun_KACPDW_SMG",
 		"damage": "10",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_KACPDW_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_KACPDW_SMG.png"
 	},
 	{
 		"abr": "karabiner98",
@@ -2074,7 +2074,7 @@
 		"defname": "VFWP_Gun_K98_SR",
 		"damage": "16",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_K98_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_K98_SR.png"
 	},
 	{
 		"abr": "kh-2002",
@@ -2083,28 +2083,28 @@
 		"defname": "VFWP_Gun_KH2002_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_KH2002_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_KH2002_AR.png"
 	},
 	{
 		"abr": "kibble",
 		"price": 2,
 		"category": "Foods",
 		"defname": "Kibble",
-		"fileName": "Kibble.png"
+		"fileName": "assets/textures/Kibble.png"
 	},
 	{
 		"abr": "kidney",
 		"price": 417,
 		"category": "Natural",
 		"defname": "Kidney",
-		"fileName": "Kidney.png"
+		"fileName": "assets/textures/Kidney.png"
 	},
 	{
 		"abr": "knife",
 		"price": 111,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife",
-		"fileName": "MeleeWeapon_Knife.png"
+		"fileName": "assets/textures/MeleeWeapon_Knife.png"
 	},
 	{
 		"abr": "ksg",
@@ -2113,7 +2113,7 @@
 		"defname": "VFWP_Gun_KSG_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_KSG_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_KSG_PS.png"
 	},
 	{
 		"abr": "ksvk",
@@ -2122,7 +2122,7 @@
 		"defname": "VFWP_Gun_KSVK_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_KSVK_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_KSVK_SR.png"
 	},
 	{
 		"abr": "l115",
@@ -2131,7 +2131,7 @@
 		"defname": "VFWP_Gun_L115_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_L115_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_L115_SR.png"
 	},
 	{
 		"abr": "l129a2",
@@ -2140,7 +2140,7 @@
 		"defname": "VFWP_Gun_L129A2_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_L129A2_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_L129A2_DMR.png"
 	},
 	{
 		"abr": "l22a2",
@@ -2149,7 +2149,7 @@
 		"defname": "VFWP_Gun_L22A2_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_L22A2_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_L22A2_AR.png"
 	},
 	{
 		"abr": "l85a2",
@@ -2158,7 +2158,7 @@
 		"defname": "VFWP_Gun_L85A2_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_L85A2_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_L85A2_AR.png"
 	},
 	{
 		"abr": "l86a2lsw",
@@ -2167,7 +2167,7 @@
 		"defname": "VFWP_Gun_L86A2_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_L86A2_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_L86A2_AR.png"
 	},
 	{
 		"abr": "l96",
@@ -2176,63 +2176,63 @@
 		"defname": "VFWP_Gun_L96_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_L96_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_L96_SR.png"
 	},
 	{
 		"abr": "labradorretriever",
 		"price": 417,
 		"category": "Animals",
 		"defname": "LabradorRetriever",
-		"fileName": "LabradorRetriever.png"
+		"fileName": "assets/textures/LabradorRetriever.png"
 	},
 	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_LabradorRetriever",
-		"fileName": "Meat_LabradorRetriever.png"
+		"fileName": "assets/textures/Meat_LabradorRetriever.png"
 	},
 	{
 		"abr": "largesculpture",
 		"price": 517,
 		"category": "Art",
 		"defname": "SculptureLarge",
-		"fileName": "SculptureLarge.png"
+		"fileName": "assets/textures/SculptureLarge.png"
 	},
 	{
 		"abr": "lavishmeal",
 		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish",
-		"fileName": "MealLavish.png"
+		"fileName": "assets/textures/MealLavish.png"
 	},
 	{
 		"abr": "lightleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Light",
-		"fileName": "Leather_Light.png"
+		"fileName": "assets/textures/Leather_Light.png"
 	},
 	{
 		"abr": "limestoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksLimestone",
-		"fileName": "BlocksLimestone.png"
+		"fileName": "assets/textures/BlocksLimestone.png"
 	},
 	{
 		"abr": "liver",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Liver",
-		"fileName": "Liver.png"
+		"fileName": "assets/textures/Liver.png"
 	},
 	{
 		"abr": "lizardskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Lizard",
-		"fileName": "Leather_Lizard.png"
+		"fileName": "assets/textures/Leather_Lizard.png"
 	},
 	{
 		"abr": "lmg",
@@ -2241,28 +2241,28 @@
 		"defname": "Gun_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "Gun_LMG.png"
+		"fileName": "assets/textures/Gun_LMG.png"
 	},
 	{
 		"abr": "longsword",
 		"price": 442,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword",
-		"fileName": "MeleeWeapon_LongSword.png"
+		"fileName": "assets/textures/MeleeWeapon_LongSword.png"
 	},
 	{
 		"abr": "luciferium",
 		"price": 117,
 		"category": "Drugs",
 		"defname": "Luciferium",
-		"fileName": "Luciferium.png"
+		"fileName": "assets/textures/Luciferium.png"
 	},
 	{
 		"abr": "lung",
 		"price": 667,
 		"category": "Natural",
 		"defname": "Lung",
-		"fileName": "Lung.png"
+		"fileName": "assets/textures/Lung.png"
 	},
 	{
 		"abr": "lvoa-c",
@@ -2271,7 +2271,7 @@
 		"defname": "VFWP_Gun_LVOAC_AR",
 		"damage": "12",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_LVOAC_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_LVOAC_AR.png"
 	},
 	{
 		"abr": "lwmmg",
@@ -2280,21 +2280,21 @@
 		"defname": "VFWP_Gun_LWMMG_LMG",
 		"damage": "17",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_LWMMG_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_LWMMG_LMG.png"
 	},
 	{
 		"abr": "lynx",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Lynx",
-		"fileName": "Lynx.png"
+		"fileName": "assets/textures/Lynx.png"
 	},
 	{
 		"abr": "lynxmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Lynx",
-		"fileName": "Meat_Lynx.png"
+		"fileName": "assets/textures/Meat_Lynx.png"
 	},
 	{
 		"abr": "m1014",
@@ -2303,7 +2303,7 @@
 		"defname": "VFWP_Gun_M1014_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_M1014_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_M1014_AS.png"
 	},
 	{
 		"abr": "m107",
@@ -2312,7 +2312,7 @@
 		"defname": "VFWP_Gun_M107_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M107_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M107_SR.png"
 	},
 	{
 		"abr": "m110sass",
@@ -2321,7 +2321,7 @@
 		"defname": "VFWP_Gun_M110_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_M110_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_M110_DMR.png"
 	},
 	{
 		"abr": "m14",
@@ -2330,7 +2330,7 @@
 		"defname": "VFWP_Gun_M14_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_M14_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_M14_BR.png"
 	},
 	{
 		"abr": "m16",
@@ -2339,7 +2339,7 @@
 		"defname": "VFWP_Gun_M16A1_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_M16A1_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_M16A1_AR.png"
 	},
 	{
 		"abr": "m16a4",
@@ -2348,7 +2348,7 @@
 		"defname": "VFWP_Gun_M16A4_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_M16A4_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_M16A4_AR.png"
 	},
 	{
 		"abr": "m1911",
@@ -2357,7 +2357,7 @@
 		"defname": "VFWP_Gun_M1911_P",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M1911_P.png"
+		"fileName": "assets/textures/VFWP_Gun_M1911_P.png"
 	},
 	{
 		"abr": "m1a1thompson",
@@ -2366,7 +2366,7 @@
 		"defname": "VFWP_Gun_THOMPSON_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_THOMPSON_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_THOMPSON_SMG.png"
 	},
 	{
 		"abr": "m200intervention",
@@ -2375,7 +2375,7 @@
 		"defname": "VFWP_Gun_M200_SR",
 		"damage": "19",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M200_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M200_SR.png"
 	},
 	{
 		"abr": "m21",
@@ -2384,7 +2384,7 @@
 		"defname": "VFWP_Gun_M21_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_M21_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_M21_DMR.png"
 	},
 	{
 		"abr": "m24",
@@ -2393,7 +2393,7 @@
 		"defname": "VFWP_Gun_M24_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M24_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M24_SR.png"
 	},
 	{
 		"abr": "m240b",
@@ -2402,7 +2402,7 @@
 		"defname": "VFWP_Gun_M240B_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M240B_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_M240B_LMG.png"
 	},
 	{
 		"abr": "m249",
@@ -2411,7 +2411,7 @@
 		"defname": "VFWP_Gun_M249_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M249_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_M249_LMG.png"
 	},
 	{
 		"abr": "m26mass",
@@ -2420,7 +2420,7 @@
 		"defname": "VFWP_Gun_M26_AS",
 		"damage": "18",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_M26_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_M26_AS.png"
 	},
 	{
 		"abr": "m27iar",
@@ -2429,7 +2429,7 @@
 		"defname": "VFWP_Gun_M27_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_M27_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_M27_AR.png"
 	},
 	{
 		"abr": "m3greasegun",
@@ -2438,7 +2438,7 @@
 		"defname": "VFWP_Gun_M3_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_M3_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_M3_SMG.png"
 	},
 	{
 		"abr": "m320",
@@ -2447,7 +2447,7 @@
 		"defname": "VFWP_Gun_M320_GL",
 		"damage": "50",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M320_GL.png"
+		"fileName": "assets/textures/VFWP_Gun_M320_GL.png"
 	},
 	{
 		"abr": "m39emr",
@@ -2456,7 +2456,7 @@
 		"defname": "VFWP_Gun_M39_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_M39_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_M39_DMR.png"
 	},
 	{
 		"abr": "m40a5",
@@ -2465,7 +2465,7 @@
 		"defname": "VFWP_Gun_M40A5_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M40A5_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M40A5_SR.png"
 	},
 	{
 		"abr": "m4a1",
@@ -2474,7 +2474,7 @@
 		"defname": "VFWP_Gun_M4A1_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M4A1_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_M4A1_AR.png"
 	},
 	{
 		"abr": "m60e4",
@@ -2483,7 +2483,7 @@
 		"defname": "VFWP_Gun_M60E4_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M60E4_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_M60E4_LMG.png"
 	},
 	{
 		"abr": "m870",
@@ -2492,7 +2492,7 @@
 		"defname": "VFWP_Gun_M870_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_M870_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_M870_PS.png"
 	},
 	{
 		"abr": "m9",
@@ -2501,7 +2501,7 @@
 		"defname": "VFWP_Gun_M9_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_M9_P.png"
+		"fileName": "assets/textures/VFWP_Gun_M9_P.png"
 	},
 	{
 		"abr": "m93r",
@@ -2510,7 +2510,7 @@
 		"defname": "VFWP_Gun_M93R_P",
 		"damage": "7",
 		"range": "19.9",
-		"fileName": "VFWP_Gun_M93R_P.png"
+		"fileName": "assets/textures/VFWP_Gun_M93R_P.png"
 	},
 	{
 		"abr": "m95",
@@ -2519,7 +2519,7 @@
 		"defname": "VFWP_Gun_M95_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M95_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M95_SR.png"
 	},
 	{
 		"abr": "m98b",
@@ -2528,7 +2528,7 @@
 		"defname": "VFWP_Gun_M98B_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M98B_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M98B_SR.png"
 	},
 	{
 		"abr": "mac10",
@@ -2537,7 +2537,7 @@
 		"defname": "VFWP_Gun_MAC109_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MAC109_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MAC109_SMG.png"
 	},
 	{
 		"abr": "mac10-45",
@@ -2546,14 +2546,14 @@
 		"defname": "VFWP_Gun_MAC1045_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MAC1045_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MAC1045_SMG.png"
 	},
 	{
 		"abr": "mace",
 		"price": 203,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace",
-		"fileName": "MeleeWeapon_Mace.png"
+		"fileName": "assets/textures/MeleeWeapon_Mace.png"
 	},
 	{
 		"abr": "machinepistol",
@@ -2562,14 +2562,14 @@
 		"defname": "Gun_MachinePistol",
 		"damage": "6",
 		"range": "19.9",
-		"fileName": "Gun_MachinePistol.png"
+		"fileName": "assets/textures/Gun_MachinePistol.png"
 	},
 	{
 		"abr": "machiningtable",
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining",
-		"fileName": "TableMachining.png"
+		"fileName": "assets/textures/TableMachining.png"
 	},
 	{
 		"abr": "mag-7",
@@ -2578,14 +2578,14 @@
 		"defname": "VFWP_Gun_MAG7_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_MAG7_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_MAG7_PS.png"
 	},
 	{
 		"abr": "marbleblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksMarble",
-		"fileName": "BlocksMarble.png"
+		"fileName": "assets/textures/BlocksMarble.png"
 	},
 	{
 		"abr": "mare'sleg",
@@ -2594,70 +2594,70 @@
 		"defname": "VFWP_Gun_MARESLEG_PS",
 		"damage": "14",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_MARESLEG_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_MARESLEG_PS.png"
 	},
 	{
 		"abr": "marinearmor",
 		"price": 3392,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor",
-		"fileName": "Apparel_PowerArmor.png"
+		"fileName": "assets/textures/Apparel_PowerArmor.png"
 	},
 	{
 		"abr": "marinehelmet",
 		"price": 1058,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet",
-		"fileName": "Apparel_PowerArmorHelmet.png"
+		"fileName": "assets/textures/Apparel_PowerArmorHelmet.png"
 	},
 	{
 		"abr": "medicine",
 		"price": 30,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial",
-		"fileName": "MedicineIndustrial.png"
+		"fileName": "assets/textures/MedicineIndustrial.png"
 	},
 	{
 		"abr": "megascarab",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Megascarab",
-		"fileName": "Megascarab.png"
+		"fileName": "assets/textures/Megascarab.png"
 	},
 	{
 		"abr": "megascreentelevision",
 		"price": 2475,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision",
-		"fileName": "MegascreenTelevision.png"
+		"fileName": "assets/textures/MegascreenTelevision.png"
 	},
 	{
 		"abr": "megasloth",
 		"price": 1167,
 		"category": "Animals",
 		"defname": "Megasloth",
-		"fileName": "Megasloth.png"
+		"fileName": "assets/textures/Megasloth.png"
 	},
 	{
 		"abr": "megaslothmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Megasloth",
-		"fileName": "Meat_Megasloth.png"
+		"fileName": "assets/textures/Meat_Megasloth.png"
 	},
 	{
 		"abr": "megaslothwool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "WoolMegasloth",
-		"fileName": "WoolMegasloth.png"
+		"fileName": "assets/textures/WoolMegasloth.png"
 	},
 	{
 		"abr": "megaspider",
 		"price": 833,
 		"category": "Animals",
 		"defname": "Megaspider",
-		"fileName": "Megaspider.png"
+		"fileName": "assets/textures/Megaspider.png"
 	},
 	{
 		"abr": "mg3",
@@ -2666,7 +2666,7 @@
 		"defname": "VFWP_Gun_MG3_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MG3_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MG3_LMG.png"
 	},
 	{
 		"abr": "mg36",
@@ -2675,7 +2675,7 @@
 		"defname": "VFWP_Gun_MG36_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MG36_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MG36_LMG.png"
 	},
 	{
 		"abr": "mg4",
@@ -2684,7 +2684,7 @@
 		"defname": "VFWP_Gun_MG4_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MG4_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MG4_LMG.png"
 	},
 	{
 		"abr": "mg5",
@@ -2693,7 +2693,7 @@
 		"defname": "VFWP_Gun_MG5_LMG",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_MG5_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MG5_LMG.png"
 	},
 	{
 		"abr": "mgl",
@@ -2702,14 +2702,14 @@
 		"defname": "VFWP_Gun_MGL_GL",
 		"damage": "50",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MGL_GL.png"
+		"fileName": "assets/textures/VFWP_Gun_MGL_GL.png"
 	},
 	{
 		"abr": "milk",
 		"price": 3,
 		"category": "Animal products",
 		"defname": "Milk",
-		"fileName": "Milk.png"
+		"fileName": "assets/textures/Milk.png"
 	},
 	{
 		"abr": "minigun",
@@ -2718,14 +2718,14 @@
 		"defname": "Gun_Minigun",
 		"damage": "10",
 		"range": "30.9",
-		"fileName": "Gun_Minigun.png"
+		"fileName": "assets/textures/Gun_Minigun.png"
 	},
 	{
 		"abr": "mini-turret",
 		"price": 492,
 		"category": "Security",
 		"defname": "Turret_MiniTurret",
-		"fileName": "Turret_MiniTurret.png"
+		"fileName": "assets/textures/Turret_MiniTurret.png"
 	},
 	{
 		"abr": "mk11mod0",
@@ -2734,7 +2734,7 @@
 		"defname": "VFWP_Gun_MK11MOD0_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_MK11MOD0_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_MK11MOD0_DMR.png"
 	},
 	{
 		"abr": "mk12spr",
@@ -2743,7 +2743,7 @@
 		"defname": "VFWP_Gun_MK12SPR_DMR",
 		"damage": "11",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_MK12SPR_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_MK12SPR_DMR.png"
 	},
 	{
 		"abr": "mk13eglm",
@@ -2752,7 +2752,7 @@
 		"defname": "VFWP_Gun_MK13_GL",
 		"damage": "50",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MK13_GL.png"
+		"fileName": "assets/textures/VFWP_Gun_MK13_GL.png"
 	},
 	{
 		"abr": "mk18mod0",
@@ -2761,7 +2761,7 @@
 		"defname": "VFWP_Gun_MK18MOD0_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MK18MOD0_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_MK18MOD0_AR.png"
 	},
 	{
 		"abr": "model689",
@@ -2770,35 +2770,35 @@
 		"defname": "VFWP_Gun_TM689_P",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_TM689_P.png"
+		"fileName": "assets/textures/VFWP_Gun_TM689_P.png"
 	},
 	{
 		"abr": "molotovcocktails",
 		"price": 408,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeMolotov",
-		"fileName": "Weapon_GrenadeMolotov.png"
+		"fileName": "assets/textures/Weapon_GrenadeMolotov.png"
 	},
 	{
 		"abr": "monkey",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Monkey",
-		"fileName": "Monkey.png"
+		"fileName": "assets/textures/Monkey.png"
 	},
 	{
 		"abr": "monkeymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Monkey",
-		"fileName": "Meat_Monkey.png"
+		"fileName": "assets/textures/Meat_Monkey.png"
 	},
 	{
 		"abr": "mortar",
 		"price": 1058,
 		"category": "Security",
 		"defname": "Turret_Mortar",
-		"fileName": "Turret_Mortar.png"
+		"fileName": "assets/textures/Turret_Mortar.png"
 	},
 	{
 		"abr": "mosinnagantm91/30",
@@ -2807,7 +2807,7 @@
 		"defname": "VFWP_Gun_M9130_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_M9130_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_M9130_SR.png"
 	},
 	{
 		"abr": "mp40",
@@ -2816,7 +2816,7 @@
 		"defname": "VFWP_Gun_MP40_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MP40_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MP40_SMG.png"
 	},
 	{
 		"abr": "mp-412rex",
@@ -2825,7 +2825,7 @@
 		"defname": "VFWP_Gun_MP412_P",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MP412_P.png"
+		"fileName": "assets/textures/VFWP_Gun_MP412_P.png"
 	},
 	{
 		"abr": "mp44",
@@ -2834,7 +2834,7 @@
 		"defname": "VFWP_Gun_MP44_AR",
 		"damage": "10",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MP44_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_MP44_AR.png"
 	},
 	{
 		"abr": "mp-443grach",
@@ -2843,7 +2843,7 @@
 		"defname": "VFWP_Gun_MP443_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MP443_P.png"
+		"fileName": "assets/textures/VFWP_Gun_MP443_P.png"
 	},
 	{
 		"abr": "mp5a5",
@@ -2852,7 +2852,7 @@
 		"defname": "VFWP_Gun_MP5A5_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MP5A5_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MP5A5_SMG.png"
 	},
 	{
 		"abr": "mp5k",
@@ -2861,7 +2861,7 @@
 		"defname": "VFWP_Gun_MP5K_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MP5K_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MP5K_SMG.png"
 	},
 	{
 		"abr": "mp5sd6",
@@ -2870,7 +2870,7 @@
 		"defname": "VFWP_Gun_MP5SD6_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MP5SD6_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MP5SD6_SMG.png"
 	},
 	{
 		"abr": "mp7",
@@ -2879,7 +2879,7 @@
 		"defname": "VFWP_Gun_MP7_SMG",
 		"damage": "8",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MP7_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MP7_SMG.png"
 	},
 	{
 		"abr": "mpx",
@@ -2888,7 +2888,7 @@
 		"defname": "VFWP_Gun_MPX_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MPX_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MPX_SMG.png"
 	},
 	{
 		"abr": "msbs-k",
@@ -2897,7 +2897,7 @@
 		"defname": "VFWP_Gun_MSBSK_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_MSBSK_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_MSBSK_AR.png"
 	},
 	{
 		"abr": "msr",
@@ -2906,7 +2906,7 @@
 		"defname": "VFWP_Gun_MSR_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_MSR_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_MSR_SR.png"
 	},
 	{
 		"abr": "mtar-21x95",
@@ -2915,35 +2915,35 @@
 		"defname": "VFWP_Gun_MTAR21_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_MTAR21_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_MTAR21_AR.png"
 	},
 	{
 		"abr": "muffalo",
 		"price": 500,
 		"category": "Animals",
 		"defname": "Muffalo",
-		"fileName": "Muffalo.png"
+		"fileName": "assets/textures/Muffalo.png"
 	},
 	{
 		"abr": "muffalomeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Muffalo",
-		"fileName": "Meat_Muffalo.png"
+		"fileName": "assets/textures/Meat_Muffalo.png"
 	},
 	{
 		"abr": "muffalowool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "WoolMuffalo",
-		"fileName": "WoolMuffalo.png"
+		"fileName": "assets/textures/WoolMuffalo.png"
 	},
 	{
 		"abr": "multi-analyzer",
 		"price": 1700,
 		"category": "Misc",
 		"defname": "MultiAnalyzer",
-		"fileName": "MultiAnalyzer.png"
+		"fileName": "assets/textures/MultiAnalyzer.png"
 	},
 	{
 		"abr": "mx4storm",
@@ -2952,7 +2952,7 @@
 		"defname": "VFWP_Gun_MX4_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_MX4_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_MX4_SMG.png"
 	},
 	{
 		"abr": "negev",
@@ -2961,7 +2961,7 @@
 		"defname": "VFWP_Gun_NEGEV_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_NEGEV_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_NEGEV_LMG.png"
 	},
 	{
 		"abr": "negevng-7",
@@ -2970,14 +2970,14 @@
 		"defname": "VFWP_Gun_NEGEVNG7_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_NEGEVNG7_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_NEGEVNG7_LMG.png"
 	},
 	{
 		"abr": "neutroamine",
 		"price": 10,
 		"category": "Manufactured",
 		"defname": "Neutroamine",
-		"fileName": "Neutroamine.png"
+		"fileName": "assets/textures/Neutroamine.png"
 	},
 	{
 		"abr": "n-papm70",
@@ -2986,7 +2986,7 @@
 		"defname": "VFWP_Gun_ZPAP_AR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_ZPAP_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_ZPAP_AR.png"
 	},
 	{
 		"abr": "ns2000",
@@ -2995,49 +2995,49 @@
 		"defname": "VFWP_Gun_NS2000_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_NS2000_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_NS2000_PS.png"
 	},
 	{
 		"abr": "nutrientpastemeal",
 		"price": 17,
 		"category": "Meals",
 		"defname": "MealNutrientPaste",
-		"fileName": "MealNutrientPaste.png"
+		"fileName": "assets/textures/MealNutrientPaste.png"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
 		"price": 2000,
 		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment",
-		"fileName": "OrbitalTargeterBombardment.png"
+		"fileName": "assets/textures/OrbitalTargeterBombardment.png"
 	},
 	{
 		"abr": "orbitalpowerbeamtargeter",
 		"price": 2000,
 		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam",
-		"fileName": "OrbitalTargeterPowerBeam.png"
+		"fileName": "assets/textures/OrbitalTargeterPowerBeam.png"
 	},
 	{
 		"abr": "orbitaltradebeacon",
 		"price": 185,
 		"category": "Misc",
 		"defname": "OrbitalTradeBeacon",
-		"fileName": "OrbitalTradeBeacon.png"
+		"fileName": "assets/textures/OrbitalTradeBeacon.png"
 	},
 	{
 		"abr": "ostrich",
 		"price": 417,
 		"category": "Animals",
 		"defname": "Ostrich",
-		"fileName": "Ostrich.png"
+		"fileName": "assets/textures/Ostrich.png"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
 		"price": 38,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized",
-		"fileName": "EggOstrichFertilized.png"
+		"fileName": "assets/textures/EggOstrichFertilized.png"
 	},
 	{
 		"abr": "ots-03svu",
@@ -3046,7 +3046,7 @@
 		"defname": "VFWP_Gun_SVU_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SVU_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SVU_DMR.png"
 	},
 	{
 		"abr": "ots-14-4groza",
@@ -3055,7 +3055,7 @@
 		"defname": "VFWP_Gun_GROZA4_AR",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_GROZA4_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_GROZA4_AR.png"
 	},
 	{
 		"abr": "p2000",
@@ -3064,7 +3064,7 @@
 		"defname": "VFWP_Gun_P2000_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_P2000_P.png"
+		"fileName": "assets/textures/VFWP_Gun_P2000_P.png"
 	},
 	{
 		"abr": "p226",
@@ -3073,7 +3073,7 @@
 		"defname": "VFWP_Gun_P226_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_P226_P.png"
+		"fileName": "assets/textures/VFWP_Gun_P226_P.png"
 	},
 	{
 		"abr": "p90",
@@ -3082,63 +3082,63 @@
 		"defname": "VFWP_Gun_P90_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_P90_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_P90_SMG.png"
 	},
 	{
 		"abr": "packagedsurvivalmeal",
 		"price": 40,
 		"category": "Meals",
 		"defname": "MealSurvivalPack",
-		"fileName": "MealSurvivalPack.png"
+		"fileName": "assets/textures/MealSurvivalPack.png"
 	},
 	{
 		"abr": "painstopper",
 		"price": 367,
 		"category": "Prosthetic",
 		"defname": "Painstopper",
-		"fileName": "Painstopper.png"
+		"fileName": "assets/textures/Painstopper.png"
 	},
 	{
 		"abr": "panther",
 		"price": 667,
 		"category": "Animals",
 		"defname": "Panther",
-		"fileName": "Panther.png"
+		"fileName": "assets/textures/Panther.png"
 	},
 	{
 		"abr": "panthermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Panther",
-		"fileName": "Meat_Panther.png"
+		"fileName": "assets/textures/Meat_Panther.png"
 	},
 	{
 		"abr": "pantherafur",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Panthera",
-		"fileName": "Leather_Panthera.png"
+		"fileName": "assets/textures/Leather_Panthera.png"
 	},
 	{
 		"abr": "pants",
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_Pants",
-		"fileName": "Apparel_Pants.png"
+		"fileName": "assets/textures/Apparel_Pants.png"
 	},
 	{
 		"abr": "parka",
 		"price": 315,
 		"category": "Apparel",
 		"defname": "Apparel_Parka",
-		"fileName": "Apparel_Parka.png"
+		"fileName": "assets/textures/Apparel_Parka.png"
 	},
 	{
 		"abr": "patchleather",
 		"price": 2,
 		"category": "Leathers",
 		"defname": "Leather_Patch",
-		"fileName": "Leather_Patch.png"
+		"fileName": "assets/textures/Leather_Patch.png"
 	},
 	{
 		"abr": "pdr",
@@ -3147,49 +3147,49 @@
 		"defname": "VFWP_Gun_PDR_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_PDR_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_PDR_AR.png"
 	},
 	{
 		"abr": "pemmican",
 		"price": 2,
 		"category": "Foods",
 		"defname": "Pemmican",
-		"fileName": "Pemmican.png"
+		"fileName": "assets/textures/Pemmican.png"
 	},
 	{
 		"abr": "penmarker",
 		"price": 104,
 		"category": "Misc",
 		"defname": "PenMarker",
-		"fileName": "PenMarker.png"
+		"fileName": "assets/textures/PenMarker.png"
 	},
 	{
 		"abr": "penoxycyline",
 		"price": 30,
 		"category": "Drugs",
 		"defname": "Penoxycyline",
-		"fileName": "Penoxycyline.png"
+		"fileName": "assets/textures/Penoxycyline.png"
 	},
 	{
 		"abr": "personacore",
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore",
-		"fileName": "AIPersonaCore.png"
+		"fileName": "assets/textures/AIPersonaCore.png"
 	},
 	{
 		"abr": "pig",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Pig",
-		"fileName": "Pig.png"
+		"fileName": "assets/textures/Pig.png"
 	},
 	{
 		"abr": "pigskin",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Pig",
-		"fileName": "Leather_Pig.png"
+		"fileName": "assets/textures/Leather_Pig.png"
 	},
 	{
 		"abr": "pila",
@@ -3198,7 +3198,7 @@
 		"defname": "Pila",
 		"damage": "25",
 		"range": "18.9",
-		"fileName": "Pila.png"
+		"fileName": "assets/textures/Pila.png"
 	},
 	{
 		"abr": "pkppecheneg",
@@ -3207,35 +3207,35 @@
 		"defname": "VFWP_Gun_PKP_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_PKP_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_PKP_LMG.png"
 	},
 	{
 		"abr": "plainleather",
 		"price": 3,
 		"category": "Leathers",
 		"defname": "Leather_Plain",
-		"fileName": "Leather_Plain.png"
+		"fileName": "assets/textures/Leather_Plain.png"
 	},
 	{
 		"abr": "plantpot",
 		"price": 68,
 		"category": "Furniture",
 		"defname": "PlantPot",
-		"fileName": "PlantPot.png"
+		"fileName": "assets/textures/PlantPot.png"
 	},
 	{
 		"abr": "plasteel",
 		"price": 15,
 		"category": "Raw resources",
 		"defname": "Plasteel",
-		"fileName": "Plasteel.png"
+		"fileName": "assets/textures/Plasteel.png"
 	},
 	{
 		"abr": "platearmor",
 		"price": 792,
 		"category": "Armor",
 		"defname": "Apparel_PlateArmor",
-		"fileName": "Apparel_PlateArmor.png"
+		"fileName": "assets/textures/Apparel_PlateArmor.png"
 	},
 	{
 		"abr": "pmx",
@@ -3244,42 +3244,42 @@
 		"defname": "VFWP_Gun_PMX_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_PMX_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_PMX_SMG.png"
 	},
 	{
 		"abr": "pokertable",
 		"price": 400,
 		"category": "Furniture",
 		"defname": "PokerTable",
-		"fileName": "PokerTable.png"
+		"fileName": "assets/textures/PokerTable.png"
 	},
 	{
 		"abr": "polarbear",
 		"price": 1167,
 		"category": "Animals",
 		"defname": "Bear_Polar",
-		"fileName": "Bear_Polar.png"
+		"fileName": "assets/textures/Bear_Polar.png"
 	},
 	{
 		"abr": "pork",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Pig",
-		"fileName": "Meat_Pig.png"
+		"fileName": "assets/textures/Meat_Pig.png"
 	},
 	{
 		"abr": "potatoes",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawPotatoes",
-		"fileName": "RawPotatoes.png"
+		"fileName": "assets/textures/RawPotatoes.png"
 	},
 	{
 		"abr": "powerclaw",
 		"price": 642,
 		"category": "Prosthetic",
 		"defname": "PowerClaw",
-		"fileName": "PowerClaw.png"
+		"fileName": "assets/textures/PowerClaw.png"
 	},
 	{
 		"abr": "pp-19bizon",
@@ -3288,7 +3288,7 @@
 		"defname": "VFWP_Gun_BIZON_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_BIZON_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_BIZON_SMG.png"
 	},
 	{
 		"abr": "pp-2000",
@@ -3297,7 +3297,7 @@
 		"defname": "VFWP_Gun_PP2000_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_PP2000_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_PP2000_SMG.png"
 	},
 	{
 		"abr": "ppsh-41",
@@ -3306,28 +3306,28 @@
 		"defname": "VFWP_Gun_PPSH41_SMG",
 		"damage": "6",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_PPSH41_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_PPSH41_SMG.png"
 	},
 	{
 		"abr": "prostheticarm",
 		"price": 433,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticArm",
-		"fileName": "SimpleProstheticArm.png"
+		"fileName": "assets/textures/SimpleProstheticArm.png"
 	},
 	{
 		"abr": "prostheticheart",
 		"price": 383,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticHeart",
-		"fileName": "SimpleProstheticHeart.png"
+		"fileName": "assets/textures/SimpleProstheticHeart.png"
 	},
 	{
 		"abr": "prostheticleg",
 		"price": 433,
 		"category": "Prosthetic",
 		"defname": "SimpleProstheticLeg",
-		"fileName": "SimpleProstheticLeg.png"
+		"fileName": "assets/textures/SimpleProstheticLeg.png"
 	},
 	{
 		"abr": "prs5.56",
@@ -3336,7 +3336,7 @@
 		"defname": "VFWP_Gun_PRS_SR",
 		"damage": "11",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_PRS_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_PRS_SR.png"
 	},
 	{
 		"abr": "psg1",
@@ -3345,63 +3345,63 @@
 		"defname": "VFWP_Gun_PSG1_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_PSG1_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_PSG1_DMR.png"
 	},
 	{
 		"abr": "psychicanimalpulser",
 		"price": 1167,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser",
-		"fileName": "PsychicAnimalPulser.png"
+		"fileName": "assets/textures/PsychicAnimalPulser.png"
 	},
 	{
 		"abr": "psychicemanator",
 		"price": 2167,
 		"category": "Special",
 		"defname": "PsychicEmanator",
-		"fileName": "PsychicEmanator.png"
+		"fileName": "assets/textures/PsychicEmanator.png"
 	},
 	{
 		"abr": "psychicfoilhelmet",
 		"price": 417,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet",
-		"fileName": "Apparel_PsychicFoilHelmet.png"
+		"fileName": "assets/textures/Apparel_PsychicFoilHelmet.png"
 	},
 	{
 		"abr": "psychicinsanitylance",
 		"price": 1083,
 		"category": "Utility",
 		"defname": "Apparel_PsychicInsanityLance",
-		"fileName": "Apparel_PsychicInsanityLance.png"
+		"fileName": "assets/textures/Apparel_PsychicInsanityLance.png"
 	},
 	{
 		"abr": "psychicshocklance",
 		"price": 917,
 		"category": "Utility",
 		"defname": "Apparel_PsychicShockLance",
-		"fileName": "Apparel_PsychicShockLance.png"
+		"fileName": "assets/textures/Apparel_PsychicShockLance.png"
 	},
 	{
 		"abr": "psychicsoothepulser",
 		"price": 1000,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser",
-		"fileName": "PsychicSoothePulser.png"
+		"fileName": "assets/textures/PsychicSoothePulser.png"
 	},
 	{
 		"abr": "psychitetea",
 		"price": 17,
 		"category": "Drugs",
 		"defname": "PsychiteTea",
-		"fileName": "PsychiteTea.png"
+		"fileName": "assets/textures/PsychiteTea.png"
 	},
 	{
 		"abr": "psychoidleaves",
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves",
-		"fileName": "PsychoidLeaves.png"
+		"fileName": "assets/textures/PsychoidLeaves.png"
 	},
 	{
 		"abr": "pumpshotgun",
@@ -3410,7 +3410,7 @@
 		"defname": "Gun_PumpShotgun",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "Gun_PumpShotgun.png"
+		"fileName": "assets/textures/Gun_PumpShotgun.png"
 	},
 	{
 		"abr": "qbb-95",
@@ -3419,7 +3419,7 @@
 		"defname": "VFWP_Gun_QBB95_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_QBB95_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_QBB95_LMG.png"
 	},
 	{
 		"abr": "qbs-09",
@@ -3428,7 +3428,7 @@
 		"defname": "VFWP_Gun_QBS09_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_QBS09_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_QBS09_AS.png"
 	},
 	{
 		"abr": "qbu-88",
@@ -3437,7 +3437,7 @@
 		"defname": "VFWP_Gun_QBU88_DMR",
 		"damage": "11",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_QBU88_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_QBU88_DMR.png"
 	},
 	{
 		"abr": "qbz-95",
@@ -3446,7 +3446,7 @@
 		"defname": "VFWP_Gun_QBZ95_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_QBZ95_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_QBZ95_AR.png"
 	},
 	{
 		"abr": "qbz-95b",
@@ -3455,7 +3455,7 @@
 		"defname": "VFWP_Gun_QBZ95B_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_QBZ95B_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_QBZ95B_AR.png"
 	},
 	{
 		"abr": "qcw-05",
@@ -3464,7 +3464,7 @@
 		"defname": "VFWP_Gun_QCW05_SMG",
 		"damage": "8",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_QCW05_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_QCW05_SMG.png"
 	},
 	{
 		"abr": "qjy-88",
@@ -3473,7 +3473,7 @@
 		"defname": "VFWP_Gun_QJY88_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_QJY88_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_QJY88_LMG.png"
 	},
 	{
 		"abr": "r5rgp",
@@ -3482,7 +3482,7 @@
 		"defname": "VFWP_Gun_R5_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_R5_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_R5_AR.png"
 	},
 	{
 		"abr": "r93",
@@ -3491,42 +3491,42 @@
 		"defname": "VFWP_Gun_R93_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_R93_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_R93_SR.png"
 	},
 	{
 		"abr": "raccoon",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Raccoon",
-		"fileName": "Raccoon.png"
+		"fileName": "assets/textures/Raccoon.png"
 	},
 	{
 		"abr": "raccoonmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Raccoon",
-		"fileName": "Meat_Raccoon.png"
+		"fileName": "assets/textures/Meat_Raccoon.png"
 	},
 	{
 		"abr": "rat",
 		"price": 58,
 		"category": "Animals",
 		"defname": "Rat",
-		"fileName": "Rat.png"
+		"fileName": "assets/textures/Rat.png"
 	},
 	{
 		"abr": "ratmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rat",
-		"fileName": "Meat_Rat.png"
+		"fileName": "assets/textures/Meat_Rat.png"
 	},
 	{
 		"abr": "rawfungus",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawFungus",
-		"fileName": "RawFungus.png"
+		"fileName": "assets/textures/RawFungus.png"
 	},
 	{
 		"abr": "rec7",
@@ -3535,21 +3535,21 @@
 		"defname": "VFWP_Gun_REC7_AR",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_REC7_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_REC7_AR.png"
 	},
 	{
 		"abr": "reconarmor",
 		"price": 2567,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon",
-		"fileName": "Apparel_ArmorRecon.png"
+		"fileName": "assets/textures/Apparel_ArmorRecon.png"
 	},
 	{
 		"abr": "reconhelmet",
 		"price": 875,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetRecon",
-		"fileName": "Apparel_ArmorHelmetRecon.png"
+		"fileName": "assets/textures/Apparel_ArmorHelmetRecon.png"
 	},
 	{
 		"abr": "recurvebow",
@@ -3558,28 +3558,28 @@
 		"defname": "Bow_Recurve",
 		"damage": "14",
 		"range": "25.9",
-		"fileName": "Bow_Recurve.png"
+		"fileName": "assets/textures/Bow_Recurve.png"
 	},
 	{
 		"abr": "redfox",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Fox_Red",
-		"fileName": "Fox_Red.png"
+		"fileName": "assets/textures/Fox_Red.png"
 	},
 	{
 		"abr": "reinforcedbarrel",
 		"price": 1000,
 		"category": "Items",
 		"defname": "ReinforcedBarrel",
-		"fileName": "ReinforcedBarrel.png"
+		"fileName": "assets/textures/ReinforcedBarrel.png"
 	},
 	{
 		"abr": "resurrectormechserum",
 		"price": 2833,
 		"category": "Items",
 		"defname": "MechSerumResurrector",
-		"fileName": "MechSerumResurrector.png"
+		"fileName": "assets/textures/MechSerumResurrector.png"
 	},
 	{
 		"abr": "revolver",
@@ -3588,7 +3588,7 @@
 		"defname": "Gun_Revolver",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "Gun_Revolver.png"
+		"fileName": "assets/textures/Gun_Revolver.png"
 	},
 	{
 		"abr": "rfb",
@@ -3597,7 +3597,7 @@
 		"defname": "VFWP_Gun_RFB_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_RFB_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_RFB_DMR.png"
 	},
 	{
 		"abr": "rhino40ds",
@@ -3606,42 +3606,42 @@
 		"defname": "VFWP_Gun_CR40DS_P",
 		"damage": "12",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_CR40DS_P.png"
+		"fileName": "assets/textures/VFWP_Gun_CR40DS_P.png"
 	},
 	{
 		"abr": "rhinoceros",
 		"price": 1167,
 		"category": "Animals",
 		"defname": "Rhinoceros",
-		"fileName": "Rhinoceros.png"
+		"fileName": "assets/textures/Rhinoceros.png"
 	},
 	{
 		"abr": "rhinocerosleather",
 		"price": 7,
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros",
-		"fileName": "Leather_Rhinoceros.png"
+		"fileName": "assets/textures/Leather_Rhinoceros.png"
 	},
 	{
 		"abr": "rhinocerosmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros",
-		"fileName": "Meat_Rhinoceros.png"
+		"fileName": "assets/textures/Meat_Rhinoceros.png"
 	},
 	{
 		"abr": "rice",
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "RawRice",
-		"fileName": "RawRice.png"
+		"fileName": "assets/textures/RawRice.png"
 	},
 	{
 		"abr": "royalbed",
 		"price": 1467,
 		"category": "Furniture",
 		"defname": "RoyalBed",
-		"fileName": "RoyalBed.png"
+		"fileName": "assets/textures/RoyalBed.png"
 	},
 	{
 		"abr": "rpd",
@@ -3650,7 +3650,7 @@
 		"defname": "VFWP_Gun_RPD_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_RPD_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_RPD_LMG.png"
 	},
 	{
 		"abr": "rpk",
@@ -3659,7 +3659,7 @@
 		"defname": "VFWP_Gun_RPK_LMG",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_RPK_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_RPK_LMG.png"
 	},
 	{
 		"abr": "rpk-74",
@@ -3668,7 +3668,7 @@
 		"defname": "VFWP_Gun_RPK74_LMG",
 		"damage": "10",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_RPK74_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_RPK74_LMG.png"
 	},
 	{
 		"abr": "saigaspike",
@@ -3677,7 +3677,7 @@
 		"defname": "VFWP_Gun_SAIGASPIKE_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_SAIGASPIKE_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_SAIGASPIKE_AS.png"
 	},
 	{
 		"abr": "saiga-12",
@@ -3686,14 +3686,14 @@
 		"defname": "VFWP_Gun_SAIGA12_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_SAIGA12_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_SAIGA12_AS.png"
 	},
 	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone",
-		"fileName": "BlocksSandstone.png"
+		"fileName": "assets/textures/BlocksSandstone.png"
 	},
 	{
 		"abr": "sar-21",
@@ -3702,7 +3702,7 @@
 		"defname": "VFWP_Gun_SAR21_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_SAR21_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_SAR21_AR.png"
 	},
 	{
 		"abr": "scar-h",
@@ -3711,7 +3711,7 @@
 		"defname": "VFWP_Gun_SCARH_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_SCARH_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_SCARH_BR.png"
 	},
 	{
 		"abr": "scar-hcqc",
@@ -3720,7 +3720,7 @@
 		"defname": "VFWP_Gun_SCARHCQC_BR",
 		"damage": "15",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_SCARHCQC_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_SCARHCQC_BR.png"
 	},
 	{
 		"abr": "scar-hssr",
@@ -3729,7 +3729,7 @@
 		"defname": "VFWP_Gun_SCAR20_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SCAR20_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SCAR20_DMR.png"
 	},
 	{
 		"abr": "scar-l",
@@ -3738,7 +3738,7 @@
 		"defname": "VFWP_Gun_SCARL_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_SCARL_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_SCARL_AR.png"
 	},
 	{
 		"abr": "scorpionevo3",
@@ -3747,7 +3747,7 @@
 		"defname": "VFWP_Gun_CZEVO_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_CZEVO_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_CZEVO_SMG.png"
 	},
 	{
 		"abr": "scoutelite",
@@ -3756,7 +3756,7 @@
 		"defname": "VFWP_Gun_SCOUTELITE_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_SCOUTELITE_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_SCOUTELITE_SR.png"
 	},
 	{
 		"abr": "sg553",
@@ -3765,42 +3765,42 @@
 		"defname": "VFWP_Gun_SG553_AR",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_SG553_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_SG553_AR.png"
 	},
 	{
 		"abr": "sheep",
 		"price": 350,
 		"category": "Animals",
 		"defname": "Sheep",
-		"fileName": "Sheep.png"
+		"fileName": "assets/textures/Sheep.png"
 	},
 	{
 		"abr": "sheepmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Sheep",
-		"fileName": "Meat_Sheep.png"
+		"fileName": "assets/textures/Meat_Sheep.png"
 	},
 	{
 		"abr": "sheepwool",
 		"price": 4,
 		"category": "Wools",
 		"defname": "WoolSheep",
-		"fileName": "WoolSheep.png"
+		"fileName": "assets/textures/WoolSheep.png"
 	},
 	{
 		"abr": "shelf",
 		"price": 104,
 		"category": "Furniture",
 		"defname": "Shelf",
-		"fileName": "Shelf.png"
+		"fileName": "assets/textures/Shelf.png"
 	},
 	{
 		"abr": "shieldbelt",
 		"price": 650,
 		"category": "Utility",
 		"defname": "Apparel_ShieldBelt",
-		"fileName": "Apparel_ShieldBelt.png"
+		"fileName": "assets/textures/Apparel_ShieldBelt.png"
 	},
 	{
 		"abr": "shortbow",
@@ -3809,119 +3809,119 @@
 		"defname": "Bow_Short",
 		"damage": "11",
 		"range": "22.9",
-		"fileName": "Bow_Short.png"
+		"fileName": "assets/textures/Bow_Short.png"
 	},
 	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "Silver",
-		"fileName": "Silver.png"
+		"fileName": "assets/textures/Silver.png"
 	},
 	{
 		"abr": "simplehelmet",
 		"price": 153,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet",
-		"fileName": "Apparel_SimpleHelmet.png"
+		"fileName": "assets/textures/Apparel_SimpleHelmet.png"
 	},
 	{
 		"abr": "simplemeal",
 		"price": 25,
 		"category": "Meals",
 		"defname": "MealSimple",
-		"fileName": "MealSimple.png"
+		"fileName": "assets/textures/MealSimple.png"
 	},
 	{
 		"abr": "simpleresearchbench",
 		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench",
-		"fileName": "SimpleResearchBench.png"
+		"fileName": "assets/textures/SimpleResearchBench.png"
 	},
 	{
 		"abr": "skilltrainer(animals)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals",
-		"fileName": "Neurotrainer_Animals.png"
+		"fileName": "assets/textures/Neurotrainer_Animals.png"
 	},
 	{
 		"abr": "skilltrainer(artistic)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic",
-		"fileName": "Neurotrainer_Artistic.png"
+		"fileName": "assets/textures/Neurotrainer_Artistic.png"
 	},
 	{
 		"abr": "skilltrainer(construction)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction",
-		"fileName": "Neurotrainer_Construction.png"
+		"fileName": "assets/textures/Neurotrainer_Construction.png"
 	},
 	{
 		"abr": "skilltrainer(cooking)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking",
-		"fileName": "Neurotrainer_Cooking.png"
+		"fileName": "assets/textures/Neurotrainer_Cooking.png"
 	},
 	{
 		"abr": "skilltrainer(crafting)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting",
-		"fileName": "Neurotrainer_Crafting.png"
+		"fileName": "assets/textures/Neurotrainer_Crafting.png"
 	},
 	{
 		"abr": "skilltrainer(intellectual)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual",
-		"fileName": "Neurotrainer_Intellectual.png"
+		"fileName": "assets/textures/Neurotrainer_Intellectual.png"
 	},
 	{
 		"abr": "skilltrainer(medical)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine",
-		"fileName": "Neurotrainer_Medicine.png"
+		"fileName": "assets/textures/Neurotrainer_Medicine.png"
 	},
 	{
 		"abr": "skilltrainer(melee)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee",
-		"fileName": "Neurotrainer_Melee.png"
+		"fileName": "assets/textures/Neurotrainer_Melee.png"
 	},
 	{
 		"abr": "skilltrainer(mining)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining",
-		"fileName": "Neurotrainer_Mining.png"
+		"fileName": "assets/textures/Neurotrainer_Mining.png"
 	},
 	{
 		"abr": "skilltrainer(plants)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants",
-		"fileName": "Neurotrainer_Plants.png"
+		"fileName": "assets/textures/Neurotrainer_Plants.png"
 	},
 	{
 		"abr": "skilltrainer(shooting)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting",
-		"fileName": "Neurotrainer_Shooting.png"
+		"fileName": "assets/textures/Neurotrainer_Shooting.png"
 	},
 	{
 		"abr": "skilltrainer(social)",
 		"price": 1250,
 		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social",
-		"fileName": "Neurotrainer_Social.png"
+		"fileName": "assets/textures/Neurotrainer_Social.png"
 	},
 	{
 		"abr": "sks",
@@ -3930,21 +3930,21 @@
 		"defname": "VFWP_Gun_SKS_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SKS_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SKS_DMR.png"
 	},
 	{
 		"abr": "slateblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSlate",
-		"fileName": "BlocksSlate.png"
+		"fileName": "assets/textures/BlocksSlate.png"
 	},
 	{
 		"abr": "smallsculpture",
 		"price": 275,
 		"category": "Art",
 		"defname": "SculptureSmall",
-		"fileName": "SculptureSmall.png"
+		"fileName": "assets/textures/SculptureSmall.png"
 	},
 	{
 		"abr": "smokelauncher",
@@ -3953,35 +3953,35 @@
 		"defname": "Gun_SmokeLauncher",
 		"damage": "0",
 		"range": "23.9",
-		"fileName": "Gun_SmokeLauncher.png"
+		"fileName": "assets/textures/Gun_SmokeLauncher.png"
 	},
 	{
 		"abr": "smokeshell",
 		"price": 92,
 		"category": "Mortar shells",
 		"defname": "Shell_Smoke",
-		"fileName": "Shell_Smoke.png"
+		"fileName": "assets/textures/Shell_Smoke.png"
 	},
 	{
 		"abr": "smokeleafjoint",
 		"price": 18,
 		"category": "Drugs",
 		"defname": "SmokeleafJoint",
-		"fileName": "SmokeleafJoint.png"
+		"fileName": "assets/textures/SmokeleafJoint.png"
 	},
 	{
 		"abr": "smokeleafleaves",
 		"price": 3,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves",
-		"fileName": "SmokeleafLeaves.png"
+		"fileName": "assets/textures/SmokeleafLeaves.png"
 	},
 	{
 		"abr": "smokepoppack",
 		"price": 277,
 		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt",
-		"fileName": "Apparel_SmokepopBelt.png"
+		"fileName": "assets/textures/Apparel_SmokepopBelt.png"
 	},
 	{
 		"abr": "sniperrifle",
@@ -3990,14 +3990,14 @@
 		"defname": "Gun_SniperRifle",
 		"damage": "25",
 		"range": "44.9",
-		"fileName": "Gun_SniperRifle.png"
+		"fileName": "assets/textures/Gun_SniperRifle.png"
 	},
 	{
 		"abr": "snowhare",
 		"price": 83,
 		"category": "Animals",
 		"defname": "Snowhare",
-		"fileName": "Snowhare.png"
+		"fileName": "assets/textures/Snowhare.png"
 	},
 	{
 		"abr": "spas-12",
@@ -4006,42 +4006,42 @@
 		"defname": "VFWP_Gun_SPAS12_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_SPAS12_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_SPAS12_AS.png"
 	},
 	{
 		"abr": "spear",
 		"price": 322,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear",
-		"fileName": "MeleeWeapon_Spear.png"
+		"fileName": "assets/textures/MeleeWeapon_Spear.png"
 	},
 	{
 		"abr": "spelopede",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Spelopede",
-		"fileName": "Spelopede.png"
+		"fileName": "assets/textures/Spelopede.png"
 	},
 	{
 		"abr": "spiketrap",
 		"price": 169,
 		"category": "Security",
 		"defname": "TrapSpike",
-		"fileName": "TrapSpike.png"
+		"fileName": "assets/textures/TrapSpike.png"
 	},
 	{
 		"abr": "squirrel",
 		"price": 58,
 		"category": "Animals",
 		"defname": "Squirrel",
-		"fileName": "Squirrel.png"
+		"fileName": "assets/textures/Squirrel.png"
 	},
 	{
 		"abr": "squirrelmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Squirrel",
-		"fileName": "Meat_Squirrel.png"
+		"fileName": "assets/textures/Meat_Squirrel.png"
 	},
 	{
 		"abr": "sr-2veresk",
@@ -4050,7 +4050,7 @@
 		"defname": "VFWP_Gun_SR2_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_SR2_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_SR2_SMG.png"
 	},
 	{
 		"abr": "sr-3vikhr",
@@ -4059,7 +4059,7 @@
 		"defname": "VFWP_Gun_SR3M_AR",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_SR3M_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_SR3M_AR.png"
 	},
 	{
 		"abr": "srs",
@@ -4068,7 +4068,7 @@
 		"defname": "VFWP_Gun_DTSRS_SR",
 		"damage": "17",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_DTSRS_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_DTSRS_SR.png"
 	},
 	{
 		"abr": "srssbulldog",
@@ -4077,7 +4077,7 @@
 		"defname": "VFWP_Gun_SRSS_BR",
 		"damage": "15",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_SRSS_BR.png"
+		"fileName": "assets/textures/VFWP_Gun_SRSS_BR.png"
 	},
 	{
 		"abr": "ssg3000",
@@ -4086,42 +4086,42 @@
 		"defname": "VFWP_Gun_SSG3000_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_SSG3000_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_SSG3000_SR.png"
 	},
 	{
 		"abr": "standinglamp",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp",
-		"fileName": "StandingLamp.png"
+		"fileName": "assets/textures/StandingLamp.png"
 	},
 	{
 		"abr": "standinglamp(blue)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Blue",
-		"fileName": "StandingLamp_Blue.png"
+		"fileName": "assets/textures/StandingLamp_Blue.png"
 	},
 	{
 		"abr": "standinglamp(green)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Green",
-		"fileName": "StandingLamp_Green.png"
+		"fileName": "assets/textures/StandingLamp_Green.png"
 	},
 	{
 		"abr": "standinglamp(red)",
 		"price": 65,
 		"category": "Furniture",
 		"defname": "StandingLamp_Red",
-		"fileName": "StandingLamp_Red.png"
+		"fileName": "assets/textures/StandingLamp_Red.png"
 	},
 	{
 		"abr": "steel",
 		"price": 3,
 		"category": "Raw resources",
 		"defname": "Steel",
-		"fileName": "Steel.png"
+		"fileName": "assets/textures/Steel.png"
 	},
 	{
 		"abr": "stenmkii",
@@ -4130,14 +4130,14 @@
 		"defname": "VFWP_Gun_STEN_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_STEN_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_STEN_SMG.png"
 	},
 	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableStonecutter",
-		"fileName": "TableStonecutter.png"
+		"fileName": "assets/textures/TableStonecutter.png"
 	},
 	{
 		"abr": "stoner99lmg",
@@ -4146,14 +4146,14 @@
 		"defname": "VFWP_Gun_LSAT_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_LSAT_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_LSAT_LMG.png"
 	},
 	{
 		"abr": "stool",
 		"price": 86,
 		"category": "Furniture",
 		"defname": "Stool",
-		"fileName": "Stool.png"
+		"fileName": "assets/textures/Stool.png"
 	},
 	{
 		"abr": "striker",
@@ -4162,14 +4162,14 @@
 		"defname": "VFWP_Gun_STRIKER_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_STRIKER_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_STRIKER_AS.png"
 	},
 	{
 		"abr": "sunlamp",
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp",
-		"fileName": "SunLamp.png"
+		"fileName": "assets/textures/SunLamp.png"
 	},
 	{
 		"abr": "supershorty",
@@ -4178,7 +4178,7 @@
 		"defname": "VFWP_Gun_SUPERSHORTY_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_SUPERSHORTY_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_SUPERSHORTY_PS.png"
 	},
 	{
 		"abr": "sv-98",
@@ -4187,7 +4187,7 @@
 		"defname": "VFWP_Gun_SV98_SR",
 		"damage": "15",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_SV98_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_SV98_SR.png"
 	},
 	{
 		"abr": "svddragunov",
@@ -4196,7 +4196,7 @@
 		"defname": "VFWP_Gun_SVD_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SVD_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SVD_DMR.png"
 	},
 	{
 		"abr": "svdk",
@@ -4205,7 +4205,7 @@
 		"defname": "VFWP_Gun_SVDK_DMR",
 		"damage": "18",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SVDK_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SVDK_DMR.png"
 	},
 	{
 		"abr": "svt-40",
@@ -4214,42 +4214,42 @@
 		"defname": "VFWP_Gun_SVT40_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_SVT40_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_SVT40_DMR.png"
 	},
 	{
 		"abr": "synthread",
 		"price": 7,
 		"category": "Textiles",
 		"defname": "Synthread",
-		"fileName": "Synthread.png"
+		"fileName": "assets/textures/Synthread.png"
 	},
 	{
 		"abr": "table(1x2)",
 		"price": 98,
 		"category": "Furniture",
 		"defname": "Table1x2c",
-		"fileName": "Table1x2c.png"
+		"fileName": "assets/textures/Table1x2c.png"
 	},
 	{
 		"abr": "table(2x2)",
 		"price": 176,
 		"category": "Furniture",
 		"defname": "Table2x2c",
-		"fileName": "Table2x2c.png"
+		"fileName": "assets/textures/Table2x2c.png"
 	},
 	{
 		"abr": "table(2x4)",
 		"price": 333,
 		"category": "Furniture",
 		"defname": "Table2x4c",
-		"fileName": "Table2x4c.png"
+		"fileName": "assets/textures/Table2x4c.png"
 	},
 	{
 		"abr": "table(3x3)",
 		"price": 350,
 		"category": "Furniture",
 		"defname": "Table3x3c",
-		"fileName": "Table3x3c.png"
+		"fileName": "assets/textures/Table3x3c.png"
 	},
 	{
 		"abr": "tac-50",
@@ -4258,7 +4258,7 @@
 		"defname": "VFWP_Gun_TAC50_SR",
 		"damage": "20",
 		"range": "44.9",
-		"fileName": "VFWP_Gun_TAC50_SR.png"
+		"fileName": "assets/textures/VFWP_Gun_TAC50_SR.png"
 	},
 	{
 		"abr": "tar-21",
@@ -4267,56 +4267,56 @@
 		"defname": "VFWP_Gun_TAR21_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_TAR21_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_TAR21_AR.png"
 	},
 	{
 		"abr": "techprofsubpersonacore",
 		"price": 1667,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore",
-		"fileName": "TechprofSubpersonaCore.png"
+		"fileName": "assets/textures/TechprofSubpersonaCore.png"
 	},
 	{
 		"abr": "telescope",
 		"price": 583,
 		"category": "Recreation",
 		"defname": "Telescope",
-		"fileName": "Telescope.png"
+		"fileName": "assets/textures/Telescope.png"
 	},
 	{
 		"abr": "thrumbo",
 		"price": 6667,
 		"category": "Animals",
 		"defname": "Thrumbo",
-		"fileName": "Thrumbo.png"
+		"fileName": "assets/textures/Thrumbo.png"
 	},
 	{
 		"abr": "thrumbohorn",
 		"price": 1333,
 		"category": "Items",
 		"defname": "ThrumboHorn",
-		"fileName": "ThrumboHorn.png"
+		"fileName": "assets/textures/ThrumboHorn.png"
 	},
 	{
 		"abr": "thrumbomeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Thrumbo",
-		"fileName": "Meat_Thrumbo.png"
+		"fileName": "assets/textures/Meat_Thrumbo.png"
 	},
 	{
 		"abr": "thrumbofur",
 		"price": 23,
 		"category": "Leathers",
 		"defname": "Leather_Thrumbo",
-		"fileName": "Leather_Thrumbo.png"
+		"fileName": "assets/textures/Leather_Thrumbo.png"
 	},
 	{
 		"abr": "timberwolf",
 		"price": 583,
 		"category": "Animals",
 		"defname": "Wolf_Timber",
-		"fileName": "Wolf_Timber.png"
+		"fileName": "assets/textures/Wolf_Timber.png"
 	},
 	{
 		"abr": "tm-9",
@@ -4325,7 +4325,7 @@
 		"defname": "VFWP_Gun_TM9_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_TM9_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_TM9_SMG.png"
 	},
 	{
 		"abr": "tmp",
@@ -4334,56 +4334,56 @@
 		"defname": "VFWP_Gun_TMP_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_TMP_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_TMP_SMG.png"
 	},
 	{
 		"abr": "toolcabinet",
 		"price": 642,
 		"category": "Misc",
 		"defname": "ToolCabinet",
-		"fileName": "ToolCabinet.png"
+		"fileName": "assets/textures/ToolCabinet.png"
 	},
 	{
 		"abr": "tornadogenerator",
 		"price": 1333,
 		"category": "Utility",
 		"defname": "TornadoGenerator",
-		"fileName": "TornadoGenerator.png"
+		"fileName": "assets/textures/TornadoGenerator.png"
 	},
 	{
 		"abr": "tortoise",
 		"price": 333,
 		"category": "Animals",
 		"defname": "Tortoise",
-		"fileName": "Tortoise.png"
+		"fileName": "assets/textures/Tortoise.png"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
 		"price": 38,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized",
-		"fileName": "EggTortoiseFertilized.png"
+		"fileName": "assets/textures/EggTortoiseFertilized.png"
 	},
 	{
 		"abr": "tortoisemeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Tortoise",
-		"fileName": "Meat_Tortoise.png"
+		"fileName": "assets/textures/Meat_Tortoise.png"
 	},
 	{
 		"abr": "tribalheaddress",
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress",
-		"fileName": "Apparel_TribalHeaddress.png"
+		"fileName": "assets/textures/Apparel_TribalHeaddress.png"
 	},
 	{
 		"abr": "tribalwear",
 		"price": 211,
 		"category": "Apparel",
 		"defname": "Apparel_TribalA",
-		"fileName": "Apparel_TribalA.png"
+		"fileName": "assets/textures/Apparel_TribalA.png"
 	},
 	{
 		"abr": "triplerocketlauncher",
@@ -4392,14 +4392,14 @@
 		"defname": "Gun_TripleRocket",
 		"damage": "50",
 		"range": "35.9",
-		"fileName": "Gun_TripleRocket.png"
+		"fileName": "assets/textures/Gun_TripleRocket.png"
 	},
 	{
 		"abr": "t-shirt",
 		"price": 143,
 		"category": "Apparel",
 		"defname": "Apparel_BasicShirt",
-		"fileName": "Apparel_BasicShirt.png"
+		"fileName": "assets/textures/Apparel_BasicShirt.png"
 	},
 	{
 		"abr": "tt-33",
@@ -4408,42 +4408,42 @@
 		"defname": "VFWP_Gun_TT13_P",
 		"damage": "6",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_TT13_P.png"
+		"fileName": "assets/textures/VFWP_Gun_TT13_P.png"
 	},
 	{
 		"abr": "tubetelevision",
 		"price": 525,
 		"category": "Recreation",
 		"defname": "TubeTelevision",
-		"fileName": "TubeTelevision.png"
+		"fileName": "assets/textures/TubeTelevision.png"
 	},
 	{
 		"abr": "tuque",
 		"price": 74,
 		"category": "Headgear",
 		"defname": "Apparel_Tuque",
-		"fileName": "Apparel_Tuque.png"
+		"fileName": "assets/textures/Apparel_Tuque.png"
 	},
 	{
 		"abr": "turkey",
 		"price": 167,
 		"category": "Animals",
 		"defname": "Turkey",
-		"fileName": "Turkey.png"
+		"fileName": "assets/textures/Turkey.png"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
 		"price": 18,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized",
-		"fileName": "EggTurkeyFertilized.png"
+		"fileName": "assets/textures/EggTurkeyFertilized.png"
 	},
 	{
 		"abr": "turkeymeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Turkey",
-		"fileName": "Meat_Turkey.png"
+		"fileName": "assets/textures/Meat_Turkey.png"
 	},
 	{
 		"abr": "type97-2",
@@ -4452,7 +4452,7 @@
 		"defname": "VFWP_Gun_T972_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_T972_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_T972_PS.png"
 	},
 	{
 		"abr": "ultimax100",
@@ -4461,7 +4461,7 @@
 		"defname": "VFWP_Gun_U100_LMG",
 		"damage": "11",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_U100_LMG.png"
+		"fileName": "assets/textures/VFWP_Gun_U100_LMG.png"
 	},
 	{
 		"abr": "ump-45",
@@ -4470,7 +4470,7 @@
 		"defname": "VFWP_Gun_UMP45_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_UMP45_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_UMP45_SMG.png"
 	},
 	{
 		"abr": "ump-9",
@@ -4479,21 +4479,21 @@
 		"defname": "VFWP_Gun_UMP9_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_UMP9_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_UMP9_SMG.png"
 	},
 	{
 		"abr": "uranium",
 		"price": 10,
 		"category": "Raw resources",
 		"defname": "Uranium",
-		"fileName": "Uranium.png"
+		"fileName": "assets/textures/Uranium.png"
 	},
 	{
 		"abr": "urn",
 		"price": 70,
 		"category": "Furniture",
 		"defname": "Urn",
-		"fileName": "Urn.png"
+		"fileName": "assets/textures/Urn.png"
 	},
 	{
 		"abr": "usas-12",
@@ -4502,7 +4502,7 @@
 		"defname": "VFWP_Gun_USAS12_AS",
 		"damage": "13",
 		"range": "12.9",
-		"fileName": "VFWP_Gun_USAS12_AS.png"
+		"fileName": "assets/textures/VFWP_Gun_USAS12_AS.png"
 	},
 	{
 		"abr": "usp-45",
@@ -4511,7 +4511,7 @@
 		"defname": "VFWP_Gun_USP45_P",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_USP45_P.png"
+		"fileName": "assets/textures/VFWP_Gun_USP45_P.png"
 	},
 	{
 		"abr": "usp-9",
@@ -4520,7 +4520,7 @@
 		"defname": "VFWP_Gun_USP9_P",
 		"damage": "7",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_USP9_P.png"
+		"fileName": "assets/textures/VFWP_Gun_USP9_P.png"
 	},
 	{
 		"abr": "uts-15",
@@ -4529,7 +4529,7 @@
 		"defname": "VFWP_Gun_UTS_PS",
 		"damage": "18",
 		"range": "15.9",
-		"fileName": "VFWP_Gun_UTS_PS.png"
+		"fileName": "assets/textures/VFWP_Gun_UTS_PS.png"
 	},
 	{
 		"abr": "uzi",
@@ -4538,14 +4538,14 @@
 		"defname": "VFWP_Gun_UZI_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_UZI_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_UZI_SMG.png"
 	},
 	{
 		"abr": "vanometricpowercell",
 		"price": 2000,
 		"category": "Special",
 		"defname": "VanometricPowerCell",
-		"fileName": "VanometricPowerCell.png"
+		"fileName": "assets/textures/VanometricPowerCell.png"
 	},
 	{
 		"abr": "vector",
@@ -4554,84 +4554,84 @@
 		"defname": "VFWP_Gun_VECTOR_SMG",
 		"damage": "9",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_VECTOR_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_VECTOR_SMG.png"
 	},
 	{
 		"abr": "vegetarianfinemeal",
 		"price": 33,
 		"category": "Meals",
 		"defname": "MealFine_Veg",
-		"fileName": "MealFine_Veg.png"
+		"fileName": "assets/textures/MealFine_Veg.png"
 	},
 	{
 		"abr": "vegetarianlavishmeal",
 		"price": 67,
 		"category": "Meals",
 		"defname": "MealLavish_Veg",
-		"fileName": "MealLavish_Veg.png"
+		"fileName": "assets/textures/MealLavish_Veg.png"
 	},
 	{
 		"abr": "veil",
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_WarVeil",
-		"fileName": "Apparel_WarVeil.png"
+		"fileName": "assets/textures/Apparel_WarVeil.png"
 	},
 	{
 		"abr": "venison",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Deer",
-		"fileName": "Meat_Deer.png"
+		"fileName": "assets/textures/Meat_Deer.png"
 	},
 	{
 		"abr": "vfwpdmrstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_DMR",
-		"fileName": "VFWPBench_DMR.png"
+		"fileName": "assets/textures/VFWPBench_DMR.png"
 	},
 	{
 		"abr": "vfwpmachinegunstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_MG",
-		"fileName": "VFWPBench_MG.png"
+		"fileName": "assets/textures/VFWPBench_MG.png"
 	},
 	{
 		"abr": "vfwpriflestation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_Rifle",
-		"fileName": "VFWPBench_Rifle.png"
+		"fileName": "assets/textures/VFWPBench_Rifle.png"
 	},
 	{
 		"abr": "vfwpshotgunstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_Shotgun",
-		"fileName": "VFWPBench_Shotgun.png"
+		"fileName": "assets/textures/VFWPBench_Shotgun.png"
 	},
 	{
 		"abr": "vfwpsidearmstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_Sidearm",
-		"fileName": "VFWPBench_Sidearm.png"
+		"fileName": "assets/textures/VFWPBench_Sidearm.png"
 	},
 	{
 		"abr": "vfwpsmgstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_SMG",
-		"fileName": "VFWPBench_SMG.png"
+		"fileName": "assets/textures/VFWPBench_SMG.png"
 	},
 	{
 		"abr": "vfwpsniperstation",
 		"price": 442,
 		"category": "Production",
 		"defname": "VFWPBench_Sniper",
-		"fileName": "VFWPBench_Sniper.png"
+		"fileName": "assets/textures/VFWPBench_Sniper.png"
 	},
 	{
 		"abr": "vhs-2",
@@ -4640,14 +4640,14 @@
 		"defname": "VFWP_Gun_VHS2_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_VHS2_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_VHS2_AR.png"
 	},
 	{
 		"abr": "vitalsmonitor",
 		"price": 358,
 		"category": "Misc",
 		"defname": "VitalsMonitor",
-		"fileName": "VitalsMonitor.png"
+		"fileName": "assets/textures/VitalsMonitor.png"
 	},
 	{
 		"abr": "vityaz-sn",
@@ -4656,7 +4656,7 @@
 		"defname": "VFWP_Gun_VITYAZ_SMG",
 		"damage": "7",
 		"range": "22.9",
-		"fileName": "VFWP_Gun_VITYAZ_SMG.png"
+		"fileName": "assets/textures/VFWP_Gun_VITYAZ_SMG.png"
 	},
 	{
 		"abr": "vssvintorez",
@@ -4665,7 +4665,7 @@
 		"defname": "VFWP_Gun_VSS_AR",
 		"damage": "9",
 		"range": "25.9",
-		"fileName": "VFWP_Gun_VSS_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_VSS_AR.png"
 	},
 	{
 		"abr": "wa2000",
@@ -4674,70 +4674,70 @@
 		"defname": "VFWP_Gun_WA2000_DMR",
 		"damage": "15",
 		"range": "37.9",
-		"fileName": "VFWP_Gun_WA2000_DMR.png"
+		"fileName": "assets/textures/VFWP_Gun_WA2000_DMR.png"
 	},
 	{
 		"abr": "wake-up",
 		"price": 58,
 		"category": "Drugs",
 		"defname": "WakeUp",
-		"fileName": "WakeUp.png"
+		"fileName": "assets/textures/WakeUp.png"
 	},
 	{
 		"abr": "warmask",
 		"price": 101,
 		"category": "Headgear",
 		"defname": "Apparel_WarMask",
-		"fileName": "Apparel_WarMask.png"
+		"fileName": "assets/textures/Apparel_WarMask.png"
 	},
 	{
 		"abr": "warg",
 		"price": 750,
 		"category": "Animals",
 		"defname": "Warg",
-		"fileName": "Warg.png"
+		"fileName": "assets/textures/Warg.png"
 	},
 	{
 		"abr": "wargmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Warg",
-		"fileName": "Meat_Warg.png"
+		"fileName": "assets/textures/Meat_Warg.png"
 	},
 	{
 		"abr": "wildboar",
 		"price": 333,
 		"category": "Animals",
 		"defname": "WildBoar",
-		"fileName": "WildBoar.png"
+		"fileName": "assets/textures/WildBoar.png"
 	},
 	{
 		"abr": "wolfmeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Wolf_Timber",
-		"fileName": "Meat_Wolf_Timber.png"
+		"fileName": "assets/textures/Meat_Wolf_Timber.png"
 	},
 	{
 		"abr": "wolfskin",
 		"price": 5,
 		"category": "Leathers",
 		"defname": "Leather_Wolf",
-		"fileName": "Leather_Wolf.png"
+		"fileName": "assets/textures/Leather_Wolf.png"
 	},
 	{
 		"abr": "wood",
 		"price": 2,
 		"category": "Raw resources",
 		"defname": "WoodLog",
-		"fileName": "WoodLog.png"
+		"fileName": "assets/textures/WoodLog.png"
 	},
 	{
 		"abr": "wort",
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Wort",
-		"fileName": "Wort.png"
+		"fileName": "assets/textures/Wort.png"
 	},
 	{
 		"abr": "xm8",
@@ -4746,43 +4746,43 @@
 		"defname": "VFWP_Gun_XM8_AR",
 		"damage": "11",
 		"range": "30.9",
-		"fileName": "VFWP_Gun_XM8_AR.png"
+		"fileName": "assets/textures/VFWP_Gun_XM8_AR.png"
 	},
 	{
 		"abr": "yak",
 		"price": 533,
 		"category": "Animals",
 		"defname": "Yak",
-		"fileName": "Yak.png"
+		"fileName": "assets/textures/Yak.png"
 	},
 	{
 		"abr": "yakbeef",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Yak",
-		"fileName": "Meat_Yak.png"
+		"fileName": "assets/textures/Meat_Yak.png"
 	},
 	{
 		"abr": "yayo",
 		"price": 35,
 		"category": "Drugs",
 		"defname": "Yayo",
-		"fileName": "Yayo.png"
+		"fileName": "assets/textures/Yayo.png"
 	},
 	{
 		"abr": "yorkshireterrier",
 		"price": 167,
 		"category": "Animals",
 		"defname": "YorkshireTerrier",
-		"fileName": "YorkshireTerrier.png"
+		"fileName": "assets/textures/YorkshireTerrier.png"
 	},
 	{
 		"abr": "yorkshireterriermeat",
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier",
-		"fileName": "Meat_YorkshireTerrier.png"
+		"fileName": "assets/textures/Meat_YorkshireTerrier.png"
 	}
 	],
-	"total": 3402
+	"total": 4018
 }
