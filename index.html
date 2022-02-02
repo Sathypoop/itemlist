@@ -24,6 +24,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -32,6 +33,7 @@ title: Shop
         {%- for item in site.data.StoreItems.items -%}
         {%- if item.price >= 0 -%}
         <tr>
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -90,6 +92,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -111,7 +114,7 @@ title: Shop
                 or item.category == site.data.language.str_Helmet
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -128,6 +131,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -147,7 +151,7 @@ title: Shop
                 or item.category == site.data.language.str_Ultratech
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -164,6 +168,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -174,7 +179,7 @@ title: Shop
                and item.category == site.data.language.str_animal 
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -191,6 +196,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -222,7 +228,7 @@ title: Shop
         
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -240,6 +246,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -254,7 +261,7 @@ title: Shop
                 or item.category == site.data.language.str_DNET
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
@@ -271,6 +278,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th>Image</th>
             <th>Name</th>
             <th>Cost</th>
             <th>Category</th>
@@ -285,12 +293,13 @@ title: Shop
                 or item.category == site.data.language.str_Lime_Art
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
 
         </tr>
+        
         {%- endif -%}
         {%- endfor -%}
     </table>
