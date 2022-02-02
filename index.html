@@ -48,12 +48,12 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th>Name</th>
-            <th>Damage</th>
-            <th>Range</th>
-            <th>Cost</th>
-            <th>Category</th>
-            <th>Image</th>            
+            <th width="20%">Name</th>
+            <th width="10%">Damage</th>
+            <th width="10%">Range</th>
+            <th width="10%">Cost</th>
+            <th width="30%">Category</th>
+            <th width="20%">Image</th>            
         </tr>
 
         {%- for item in site.data.StoreItems.items -%}
@@ -71,12 +71,12 @@ title: Shop
         -%}
         <tr>
             
-            <td width="20%">{{- item.abr -}}</td>
-            <td width="10%">{{- item.damage -}}</td>
-            <td width="10%">{{- item.range -}}</td>
-            <td width="10%">{{- item.price -}}</td>
-            <td width="30%">{{- item.category -}}</td>
-            <td width="20%"><img src= {{item.fileName}} width="76" height="50"></img></td>
+            <td>{{- item.abr -}}</td>
+            <td>{{- item.damage -}}</td>
+            <td>{{- item.range -}}</td>
+            <td>{{- item.price -}}</td>
+            <td>{{- item.category -}}</td>
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
         </tr>
         {%- endif -%}
         {%- endfor -%}
