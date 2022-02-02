@@ -48,12 +48,13 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
+            <th width="10%">Image</th>
             <th width="20%">Name</th>
             <th width="10%">Damage</th>
             <th width="10%">Range</th>
             <th width="10%">Cost</th>
-            <th width="30%">Category</th>
-            <th width="20%">Image</th>            
+            <th width="20%">Category</th>
+                        
         </tr>
 
         {%- for item in site.data.StoreItems.items -%}
@@ -70,13 +71,13 @@ title: Shop
               or item.category == site.data.language.str_Spacer
         -%}
         <tr>
-            
+            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
             <td>{{- item.abr -}}</td>
             <td>{{- item.damage -}}</td>
             <td>{{- item.range -}}</td>
             <td>{{- item.price -}}</td>
             <td>{{- item.category -}}</td>
-            <td><img src= {{item.fileName}} width="76" height="50"></img></td>
+            
         </tr>
         {%- endif -%}
         {%- endfor -%}
