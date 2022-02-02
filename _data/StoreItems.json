@@ -1957,7 +1957,7 @@
 	},
 	{
 		"abr": "bison",
-		"price": -10,
+		"price": 464995,
 		"category": "Animals",
 		"defname": "Bison",
 		"fileName": "assets/textures/Bison.png"
@@ -11152,5 +11152,5 @@
 		"fileName": "assets/textures/Human.png"
 	}
 	],
-	"total": 1542
+	"total": 1541
 }
