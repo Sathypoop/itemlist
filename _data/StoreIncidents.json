@@ -72,12 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 3500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shortcircuit",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
@@ -113,11 +108,6 @@
 	{
 		"abr": "tradercaravan",
 		"price": 275,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -166,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "travelergroup",
 		"price": 80,
 		"karmatype": "Good"
@@ -191,32 +176,7 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -352,7 +312,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -421,5 +381,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 84
+	"total": 76
 }

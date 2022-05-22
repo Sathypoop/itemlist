@@ -66,6 +66,12 @@
     "version": "1.1.7867.20184"
   },
   {
+    "author": "SeoHyeon",
+    "name": "Optimization: Meats - C# Edition",
+    "steamId": "2542931556",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki and  Sarg Bjornson",
     "name": "Vanilla Fishing Expanded",
     "steamId": "1914064942",
@@ -104,6 +110,12 @@
   {
     "author": "NukaFrog Gloomylynx",
     "name": "SheathYourSword",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ILuvSilicon",
+    "name": "ShadowRimRaces",
     "steamId": null,
     "version": null
   },
@@ -862,12 +874,6 @@
     "name": "Mod Manager",
     "steamId": "1507748539",
     "version": "3.8.1038"
-  },
-  {
-    "author": "SeoHyeon",
-    "name": "Optimization: Meats - C# Edition",
-    "steamId": "2542931556",
-    "version": "1.0.0.0"
   },
   {
     "author": "Taranchuk",
