@@ -1967,6 +1967,84 @@
       "enabled": true,
       "name": "Battle droid",
       "price": 3167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "+150% Psychic sensitivity",
+          "+50 Leather amount",
+          "+100 Meat amount",
+          "+10.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+80% Aiming time",
+          "+2.0 Shooting accuracy",
+          "+110% Injury healing factor",
+          "+80% Plant work speed",
+          "+105% Plant harvest yield",
+          "+80% Animal gather speed",
+          "+105% Animal gather yield",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80.00% Bond chance factor",
+          "+80% Mining speed",
+          "+105% Mining yield",
+          "+80% Construction speed",
+          "+105% Construct success chance",
+          "+125% General labor speed",
+          "+1.1 Cooking speed",
+          "+90.00% Food poison chance",
+          "+110% Drug synthesis speed",
+          "+110% Drug cooking speed",
+          "+120% Medical tend speed",
+          "+110% Medical tend quality",
+          "+120% Medical operation speed",
+          "+105% Medical surgery success chance",
+          "+60 Carrying capacity",
+          "+1.1 Melee dodge chance",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+110.00% Social impact",
+          "+70% Pain shock threshold",
+          "+40% Mental break threshold",
+          "+3 Honor value",
+          "+5.00 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An alien species native to an Earth-like planet named Panastria. Their original creation myth says that they are made of stardust and fell onto Panastria, but their is no concrete evidence of this. After a failed uprising against the Empire, most are being relocated from their homeworld or imprisoned until further notice.",
+      "defName": "Seren",
+      "enabled": true,
+      "name": "seren",
+      "price": 3333
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+5.40 Move speed",
+          "+10.0C Minimum comfortable temperature",
+          "+36.0C Maximum comfortable temperature",
+          "+75 Leather amount",
+          "+3 Honor value",
+          "+110% Global learning factor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "The heruan are a race of genetically modified xenohumans hailing from a remote glitterworld established during the First Wave of Exploration. Direct descendents of the people of Old Earth, the heruan people sent forth the Triune Expedition Fleets in the wake of the fall of Old Earth and the collapse of the Origin Systems, their mission to catalogue and preserve the breadth of humanity in order to keep their memories alive for posterity.\n\nHeruan society is centered around the Triune castes of Sun, Moon, and Star. These are not hereditary castes but ones adopted in adulthood; heruan adolescents are expected to aspire to and train themselves for future inclusion into a caste.\n\nHeruan are sleek and nimble with powerful legs. They are swift on foot and their powerful talons can be dangerous in a fight, but their relative frailty makes them poor combatants overall. Heruan are naturally inquisitive and eager to learn about unfamiliar people and cultures, preferring intellectual and creative pursuits over the prosecution of war. However, they understand that sometimes the only way to preserve the memory of others is to defend oneself against those who would destroy them.",
+      "defName": "Aelanna_Heruan",
+      "enabled": true,
+      "name": "heruan",
+      "price": 2917
     }
   ]
 }

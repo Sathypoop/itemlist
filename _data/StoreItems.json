@@ -10307,7 +10307,198 @@
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier",
 		"fileName": "assets/textures/Meat_YorkshireTerrier.png"
+	},
+	{
+		"abr": "diligentmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureDiligent",
+		"fileName": "assets/textures/Heruan_SculptureDiligent.png"
+	},
+	{
+		"abr": "diligentmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardDiligent",
+		"fileName": "assets/textures/Heruan_ShardDiligent.png"
+	},
+	{
+		"abr": "heruan",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "Aelanna_Heruan",
+		"fileName": "assets/textures/Aelanna_Heruan.png"
+	},
+	{
+		"abr": "heruandagger",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "Heruan_Dagger",
+		"fileName": "assets/textures/Heruan_Dagger.png"
+	},
+	{
+		"abr": "heruankhopesh",
+		"price": 1192,
+		"category": "Melee weapons",
+		"defname": "Heruan_Khopesh",
+		"fileName": "assets/textures/Heruan_Khopesh.png"
+	},
+	{
+		"abr": "heruanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Aelanna_Heruan",
+		"fileName": "assets/textures/Meat_Aelanna_Heruan.png"
+	},
+	{
+		"abr": "heruansolarlance",
+		"price": 2508,
+		"category": "Melee weapons",
+		"defname": "Heruan_SolarLance",
+		"fileName": "assets/textures/Heruan_SolarLance.png"
+	},
+	{
+		"abr": "insightfulmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureInsightful",
+		"fileName": "assets/textures/Heruan_SculptureInsightful.png"
+	},
+	{
+		"abr": "insightfulmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardInsightful",
+		"fileName": "assets/textures/Heruan_ShardInsightful.png"
+	},
+	{
+		"abr": "lunarrobe",
+		"price": 2108,
+		"category": "Heruan",
+		"defname": "Heruan_LunarArmor",
+		"fileName": "assets/textures/Heruan_LunarArmor.png"
+	},
+	{
+		"abr": "memoryrecorder",
+		"price": 492,
+		"category": "Heruan",
+		"defname": "Heruan_MemoryRecorder",
+		"fileName": "assets/textures/Heruan_MemoryRecorder.png"
+	},
+	{
+		"abr": "nurturingmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureNurturing",
+		"fileName": "assets/textures/Heruan_SculptureNurturing.png"
+	},
+	{
+		"abr": "nurturingmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardNurturing",
+		"fileName": "assets/textures/Heruan_ShardNurturing.png"
+	},
+	{
+		"abr": "seren",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "Seren",
+		"fileName": "assets/textures/Seren.png"
+	},
+	{
+		"abr": "serenleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "SerenLeather",
+		"fileName": "assets/textures/SerenLeather.png"
+	},
+	{
+		"abr": "serenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seren",
+		"fileName": "assets/textures/Meat_Seren.png"
+	},
+	{
+		"abr": "serensensor",
+		"price": 417,
+		"category": "Natural",
+		"defname": "SerenSensor_Item",
+		"fileName": "assets/textures/SerenSensor_Item.png"
+	},
+	{
+		"abr": "serenity",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "Drug_Serenity",
+		"fileName": "assets/textures/Drug_Serenity.png"
+	},
+	{
+		"abr": "solararmor",
+		"price": 3000,
+		"category": "Heruan",
+		"defname": "Heruan_SolarArmor",
+		"fileName": "assets/textures/Heruan_SolarArmor.png"
+	},
+	{
+		"abr": "stellargown",
+		"price": 2108,
+		"category": "Heruan",
+		"defname": "Heruan_StellarArmor",
+		"fileName": "assets/textures/Heruan_StellarArmor.png"
+	},
+	{
+		"abr": "triunecirclet",
+		"price": 642,
+		"category": "Heruan",
+		"defname": "Heruan_Circlet",
+		"fileName": "assets/textures/Heruan_Circlet.png"
+	},
+	{
+		"abr": "triunehelmet",
+		"price": 775,
+		"category": "Heruan",
+		"defname": "Heruan_Helmet",
+		"fileName": "assets/textures/Heruan_Helmet.png"
+	},
+	{
+		"abr": "triunepistol",
+		"price": 1225,
+		"category": "Ranged weapons",
+		"defname": "Heruan_TriunePistol",
+		"damage": "12",
+		"fileName": "assets/textures/Heruan_TriunePistol.png"
+	},
+	{
+		"abr": "triunerifle",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "Heruan_TriuneRifle",
+		"damage": "12",
+		"fileName": "assets/textures/Heruan_TriuneRifle.png"
+	},
+	{
+		"abr": "triuneundersuit",
+		"price": 642,
+		"category": "Heruan",
+		"defname": "Heruan_Undersuit",
+		"fileName": "assets/textures/Heruan_Undersuit.png"
+	},
+	{
+		"abr": "tumultuousmemorysculpture",
+		"price": 1075,
+		"category": "Art",
+		"defname": "Heruan_SculptureTumultuous",
+		"fileName": "assets/textures/Heruan_SculptureTumultuous.png"
+	},
+	{
+		"abr": "tumultuousmemoryshard",
+		"price": 83,
+		"category": "Memory shards",
+		"defname": "Heruan_ShardTumultuous",
+		"fileName": "assets/textures/Heruan_ShardTumultuous.png"
 	}
 	],
-	"total": 1460
+	"total": 1487
 }
