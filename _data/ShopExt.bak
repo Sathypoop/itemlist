@@ -1787,6 +1787,72 @@
       },
       "defName": "Recluse",
       "name": "recluse"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Psycasts Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VPE_Thrall",
+      "name": "thrall"
     }
   ],
   "races": [
@@ -1811,6 +1877,96 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+75.00 Mass",
+          "+100% Flammability",
+          "+$1500 Market value",
+          "+4.61 Move speed",
+          "-50.0C Minimum comfortable temperature",
+          "+50.0C Maximum comfortable temperature",
+          "+80% Toxic resistance",
+          "+135% Immunity gain speed",
+          "+25 Leather amount"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of humanlike robots which are mostly female in model variety.\n\nThe origins of these machines are mostly unknown. Some speculate they are escapees from a civilization which used them for labor and some just suggest they are outdated pleasure machines which got dumped by a passing space freighter.\n\nBy design by their previous masters they are weak physically but their raw fortitude is enough to make up for it. Beware of their biological reactor and capacitors violently exploding, if they die by overheating.",
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "price": 2500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Mass",
+          "+0% Flammability",
+          "+$850 Market value",
+          "+5.21 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+300.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+30.0% Armor - Sharp",
+          "+20.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+75 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike worker robots.\n\nUsually found toiling around in colonies around the rim which got a resident tinkerer.\n\nNot capable of sapience, however their relative cheap cost and ability to work around the clock make them valuable workers.",
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "price": 1417
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+55.00 Mass",
+          "+0% Flammability",
+          "+$1900 Market value",
+          "+4.00 Move speed",
+          "-200.0C Minimum comfortable temperature",
+          "+500.0C Maximum comfortable temperature",
+          "+100% Toxic resistance",
+          "+0% Psychic sensitivity",
+          "+500% Pain shock threshold",
+          "+0% Mental break threshold",
+          "+0.00% Social impact",
+          "+0% Global learning factor",
+          "+1000% Immunity gain speed",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "-0.4 Melee dodge chance",
+          "+100.0% Armor - Sharp",
+          "+40.0% Armor - Blunt",
+          "+200.0% Armor - Heat",
+          "+150 Carrying capacity"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A race of rudimentary humanlike warrior robots.\n\nUsually found guarding the homes of the wealthy and offices of mega corporations. They show no mercy upon targets who fail to identify themselves. Are traditionally armed with miniguns and core launchers.",
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
+      "price": 3167
     }
   ]
 }
