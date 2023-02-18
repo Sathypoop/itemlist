@@ -108,6 +108,7 @@ title: Shop
         <tr>
             <th  style="text-align:center;" width="10%">Image</th>
             <th  style="text-align:center;" >Name</th>
+            <th style="text-align:center;">Details</th>
             <th  style="text-align:center;">Cost</th>
             <th  style="text-align:center;">Category</th>
         </tr>
@@ -134,9 +135,9 @@ title: Shop
         <tr>
             <td><img src= {{item.fileName}} width="80"></img></td>
             <td  style="text-align:center;">{{- item.abr -}}</td>
+            <td  style="text-align:center;">{{- item.armourDetails -}}</td>
             <td  style="text-align:center;">{{- item.price -}}</td>
             <td  style="text-align:center;">{{- item.category -}}</td>
-
         </tr>
         {%- endif -%}
         {%- endfor -%}
@@ -151,7 +152,6 @@ title: Shop
         <tr>
             <th style="text-align:center;">Image</th>
             <th style="text-align:center;">Name</th>
-            <th style="text-align:center;">Details</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
         </tr>
@@ -172,7 +172,6 @@ title: Shop
         <tr>
             <td><img src= {{item.fileName}} width="80"></img></td>
             <td style="text-align:center;">{{- item.abr -}}</td>
-            <td style="text-align:center;">{{- item.armourDetails -}}</td>
             <td style="text-align:center;">{{- item.price -}}</td>
             <td style="text-align:center;">{{- item.category -}}</td>
 
