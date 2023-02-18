@@ -36,6 +36,12 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
+    "author": "Andreas Pardeike and BleuSquid",
+    "name": "Puppeteer",
+    "steamId": "2594873651",
+    "version": "1.6.3.0"
+  },
+  {
     "author": "BJInternetSupervision (Updated by Gunseeker)",
     "name": "[1.4] Lovely Hair Style",
     "steamId": null,
@@ -75,12 +81,6 @@
     "author": "erdelf",
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ChJees",
-    "name": "Androids for RW 1.4",
-    "steamId": "2889326293",
     "version": "1.0.0.0"
   },
   {
@@ -226,18 +226,6 @@
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.5.2.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Caravan",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -732,10 +720,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "RutraNickers",
-    "name": "Facial Animation Androids Patch",
-    "steamId": null,
-    "version": null
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
   },
   {
     "author": "SeoHyeon",
@@ -748,5 +736,41 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
+  },
+  {
+    "author": "OdysseyLotus",
+    "name": "[Alien/Race] Seren, from Stardust",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Heruan Race",
+    "steamId": "2810613161",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "OdysseyLotus",
+    "name": "Seren Facial Animations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vi/Kirisaki",
+    "name": "[VK]Twst Hair",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "RutraNickers",
+    "name": "Facial Animation Androids Patch",
+    "steamId": null,
+    "version": null
   }
 ]
