@@ -33,6 +33,7 @@
 		"price": 383,
 		"category": "Headgear",
 		"defname": "Apparel_AirwireHeadset",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_AirwireHeadset.png"
 	},
 	{
@@ -173,6 +174,7 @@
 		"price": 600,
 		"category": "Headgear",
 		"defname": "Apparel_ArrayHeadset",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_ArrayHeadset.png"
 	},
 	{
@@ -195,6 +197,7 @@
 		"price": 92,
 		"category": "Headgear",
 		"defname": "Apparel_AuthorityCap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_AuthorityCap.png"
 	},
 	{
@@ -287,6 +290,7 @@
 		"price": 141,
 		"category": "Headgear",
 		"defname": "Apparel_Beret",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Beret.png"
 	},
 	{
@@ -399,6 +403,7 @@
 		"price": 74,
 		"category": "Headgear",
 		"defname": "Apparel_Blindfold",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Blindfold.png"
 	},
 	{
@@ -449,6 +454,7 @@
 		"price": 77,
 		"category": "Headgear",
 		"defname": "Apparel_BowlerHat",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_BowlerHat.png"
 	},
 	{
@@ -484,6 +490,7 @@
 		"price": 111,
 		"category": "Headgear",
 		"defname": "Apparel_Broadwrap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Broadwrap.png"
 	},
 	{
@@ -533,6 +540,7 @@
 		"price": 367,
 		"category": "Noble apparel",
 		"defname": "Apparel_Cape",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Cape.png"
 	},
 	{
@@ -589,6 +597,7 @@
 		"price": 5200,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphract",
+		"armourDetails": "Cold: -36 | Heat: +12 | Sharp: 12% | Blunt: 5% | Heat: 6% ",
 		"fileName": "assets/textures/Apparel_ArmorCataphract.png"
 	},
 	{
@@ -596,6 +605,7 @@
 		"price": 1242,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphract",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 12% | Blunt: 5% | Heat: 6% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetCataphract.png"
 	},
 	{
@@ -788,6 +798,7 @@
 		"price": 215,
 		"category": "Headgear",
 		"defname": "Apparel_Coronet",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Coronet.png"
 	},
 	{
@@ -795,6 +806,7 @@
 		"price": 222,
 		"category": "Noble apparel",
 		"defname": "Apparel_Corset",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Corset.png"
 	},
 	{
@@ -816,6 +828,7 @@
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_CowboyHat.png"
 	},
 	{
@@ -830,6 +843,7 @@
 		"price": 322,
 		"category": "Headgear",
 		"defname": "Apparel_Crown",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Crown.png"
 	},
 	{
@@ -1111,6 +1125,7 @@
 		"price": 833,
 		"category": "Headgear",
 		"defname": "Apparel_PsyfocusHelmet",
+		"armourDetails": "Cold: -4 | Heat: +1 | Sharp: 0.9% | Blunt: 0.9% | Heat: 2.7% ",
 		"fileName": "assets/textures/Apparel_PsyfocusHelmet.png"
 	},
 	{
@@ -1132,6 +1147,7 @@
 		"price": 833,
 		"category": "Headgear",
 		"defname": "Apparel_EltexSkullcap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_EltexSkullcap.png"
 	},
 	{
@@ -1203,6 +1219,7 @@
 		"price": 38,
 		"category": "Headgear",
 		"defname": "Apparel_ClothMask",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_ClothMask.png"
 	},
 	{
@@ -1259,6 +1276,7 @@
 		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_AdvancedHelmet",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_AdvancedHelmet.png"
 	},
 	{
@@ -1266,6 +1284,7 @@
 		"price": 483,
 		"category": "Armor",
 		"defname": "Apparel_FlakJacket",
+		"armourDetails": "Cold: -14.4 | Heat: +3 | Sharp: 4% | Blunt: 0.8% | Heat: 1% ",
 		"fileName": "assets/textures/Apparel_FlakJacket.png"
 	},
 	{
@@ -1273,6 +1292,7 @@
 		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakPants",
+		"armourDetails": "Cold: -3.5 | Heat: +1 | Sharp: 4% | Blunt: 0.8% | Heat: 1% ",
 		"fileName": "assets/textures/Apparel_FlakPants.png"
 	},
 	{
@@ -1280,6 +1300,7 @@
 		"price": 375,
 		"category": "Armor",
 		"defname": "Apparel_FlakVest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10% | Blunt: 3.6% | Heat: 2.7% ",
 		"fileName": "assets/textures/Apparel_FlakVest.png"
 	},
 	{
@@ -1309,6 +1330,7 @@
 		"price": 74,
 		"category": "Headgear",
 		"defname": "Apparel_Flophat",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Flophat.png"
 	},
 	{
@@ -1323,6 +1345,7 @@
 		"price": 253,
 		"category": "Noble apparel",
 		"defname": "Apparel_ShirtRuffle",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_ShirtRuffle.png"
 	},
 	{
@@ -1330,6 +1353,7 @@
 		"price": 222,
 		"category": "Noble apparel",
 		"defname": "Apparel_VestRoyal",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_VestRoyal.png"
 	},
 	{
@@ -1379,6 +1403,7 @@
 		"price": 176,
 		"category": "Headgear",
 		"defname": "Apparel_GasMask",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_GasMask.png"
 	},
 	{
@@ -1527,6 +1552,7 @@
 		"price": 3842,
 		"category": "Armor",
 		"defname": "Apparel_ArmorMarineGrenadier",
+		"armourDetails": "Cold: -34 | Heat: +10 | Sharp: 10.1% | Blunt: 4% | Heat: 4.9% ",
 		"fileName": "assets/textures/Apparel_ArmorMarineGrenadier.png"
 	},
 	{
@@ -1555,6 +1581,7 @@
 		"price": 575,
 		"category": "Headgear",
 		"defname": "Apparel_Gunlink",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Gunlink.png"
 	},
 	{
@@ -1604,6 +1631,7 @@
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_Headwrap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Headwrap.png"
 	},
 	{
@@ -1710,6 +1738,7 @@
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_HatHood",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_HatHood.png"
 	},
 	{
@@ -1907,6 +1936,7 @@
 		"price": 4058,
 		"category": "Headgear",
 		"defname": "Apparel_IntegratorHeadset",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_IntegratorHeadset.png"
 	},
 	{
@@ -1949,6 +1979,7 @@
 		"price": 79,
 		"category": "Headgear",
 		"defname": "Apparel_KidHelmet",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_KidHelmet.png"
 	},
 	{
@@ -2033,6 +2064,7 @@
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_HatLadies",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_HatLadies.png"
 	},
 	{
@@ -2118,6 +2150,7 @@
 		"price": 3717,
 		"category": "Armor",
 		"defname": "Apparel_ArmorLocust",
+		"armourDetails": "Cold: -32 | Heat: +9 | Sharp: 8.7% | Blunt: 3.5% | Heat: 4.1% ",
 		"fileName": "assets/textures/Apparel_ArmorLocust.png"
 	},
 	{
@@ -2203,6 +2236,7 @@
 		"price": 3392,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor",
+		"armourDetails": "Cold: -34 | Heat: +10 | Sharp: 10.6% | Blunt: 4.5% | Heat: 5.4% ",
 		"fileName": "assets/textures/Apparel_PowerArmor.png"
 	},
 	{
@@ -2210,6 +2244,7 @@
 		"price": 1058,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 10.6% | Blunt: 4.5% | Heat: 5.4% ",
 		"fileName": "assets/textures/Apparel_PowerArmorHelmet.png"
 	},
 	{
@@ -2245,6 +2280,7 @@
 		"price": 2150,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetMechCommander",
+		"armourDetails": "Cold: -3 | Heat: +1.5 | Sharp: 6.9% | Blunt: 3% | Heat: 3.45% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetMechCommander.png"
 	},
 	{
@@ -2259,6 +2295,7 @@
 		"price": 8892,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetMechlordHelmet",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetMechlordHelmet.png"
 	},
 	{
@@ -2266,6 +2303,7 @@
 		"price": 11692,
 		"category": "Armor",
 		"defname": "Apparel_MechlordSuit",
+		"armourDetails": "Cold: -32 | Heat: +9 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_MechlordSuit.png"
 	},
 	{
@@ -2617,6 +2655,7 @@
 		"price": 5800,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPhoenix",
+		"armourDetails": "Cold: -36 | Heat: +100 | Sharp: 11.5% | Blunt: 4.5% | Heat: 7.5% ",
 		"fileName": "assets/textures/Apparel_ArmorCataphractPhoenix.png"
 	},
 	{
@@ -2681,6 +2720,7 @@
 		"price": 792,
 		"category": "Armor",
 		"defname": "Apparel_PlateArmor",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_PlateArmor.png"
 	},
 	{
@@ -2737,6 +2777,7 @@
 		"price": 6550,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPrestige",
+		"armourDetails": "Cold: -36 | Heat: +12 | Sharp: 12% | Blunt: 5% | Heat: 6% ",
 		"fileName": "assets/textures/Apparel_ArmorCataphractPrestige.png"
 	},
 	{
@@ -2744,6 +2785,7 @@
 		"price": 1925,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphractPrestige",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 12% | Blunt: 5% | Heat: 6% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetCataphractPrestige.png"
 	},
 	{
@@ -2751,6 +2793,7 @@
 		"price": 4217,
 		"category": "Armor",
 		"defname": "Apparel_ArmorMarinePrestige",
+		"armourDetails": "Cold: -34 | Heat: +10 | Sharp: 10.6% | Blunt: 4.5% | Heat: 5.4% ",
 		"fileName": "assets/textures/Apparel_ArmorMarinePrestige.png"
 	},
 	{
@@ -2758,6 +2801,7 @@
 		"price": 1417,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorMarineHelmetPrestige",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 10.6% | Blunt: 4.5% | Heat: 5.4% ",
 		"fileName": "assets/textures/Apparel_ArmorMarineHelmetPrestige.png"
 	},
 	{
@@ -2765,6 +2809,7 @@
 		"price": 3292,
 		"category": "Armor",
 		"defname": "Apparel_ArmorReconPrestige",
+		"armourDetails": "Cold: -32 | Heat: +9 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_ArmorReconPrestige.png"
 	},
 	{
@@ -2772,6 +2817,7 @@
 		"price": 1192,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetReconPrestige",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetReconPrestige.png"
 	},
 	{
@@ -2779,6 +2825,7 @@
 		"price": 450,
 		"category": "Noble apparel",
 		"defname": "Apparel_RobeRoyal",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_RobeRoyal.png"
 	},
 	{
@@ -2821,6 +2868,7 @@
 		"price": 417,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet",
+		"armourDetails": "Cold: -2 | Heat: +1 | Sharp: 0.9% | Blunt: 0.9% | Heat: 2.7% ",
 		"fileName": "assets/textures/Apparel_PsychicFoilHelmet.png"
 	},
 	{
@@ -2934,6 +2982,7 @@
 		"price": 2567,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon",
+		"armourDetails": "Cold: -32 | Heat: +9 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_ArmorRecon.png"
 	},
 	{
@@ -2941,6 +2990,7 @@
 		"price": 875,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetRecon",
+		"armourDetails": "Cold: -4 | Heat: +2 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/Apparel_ArmorHelmetRecon.png"
 	},
 	{
@@ -3090,6 +3140,7 @@
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_Shadecone",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Shadecone.png"
 	},
 	{
@@ -3161,6 +3212,7 @@
 		"price": 153,
 		"category": "Headgear",
 		"defname": "Apparel_SimpleHelmet",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_SimpleHelmet.png"
 	},
 	{
@@ -3308,6 +3360,7 @@
 		"price": 94,
 		"category": "Headgear",
 		"defname": "Apparel_Collar",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Collar.png"
 	},
 	{
@@ -3322,6 +3375,7 @@
 		"price": 62,
 		"category": "Headgear",
 		"defname": "Apparel_Slicecap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Slicecap.png"
 	},
 	{
@@ -3464,6 +3518,7 @@
 		"price": 283,
 		"category": "Headgear",
 		"defname": "Apparel_CrownStellic",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_CrownStellic.png"
 	},
 	{
@@ -3562,6 +3617,7 @@
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_Tailcap",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Tailcap.png"
 	},
 	{
@@ -3716,6 +3772,7 @@
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_HatTop",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_HatTop.png"
 	},
 	{
@@ -3744,6 +3801,7 @@
 		"price": 91,
 		"category": "Headgear",
 		"defname": "Apparel_TortureCrown",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_TortureCrown.png"
 	},
 	{
@@ -3822,6 +3880,7 @@
 		"price": 203,
 		"category": "Headgear",
 		"defname": "Apparel_TribalHeaddress",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_TribalHeaddress.png"
 	},
 	{
@@ -3858,6 +3917,7 @@
 		"price": 74,
 		"category": "Headgear",
 		"defname": "Apparel_Tuque",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_Tuque.png"
 	},
 	{
@@ -3921,6 +3981,7 @@
 		"price": 75,
 		"category": "Headgear",
 		"defname": "Apparel_WarVeil",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_WarVeil.png"
 	},
 	{
@@ -3942,6 +4003,7 @@
 		"price": 62,
 		"category": "Headgear",
 		"defname": "Apparel_VisageMask",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_VisageMask.png"
 	},
 	{
@@ -3963,6 +4025,7 @@
 		"price": 101,
 		"category": "Headgear",
 		"defname": "Apparel_WarMask",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_WarMask.png"
 	},
 	{
@@ -4062,6 +4125,7 @@
 		"price": 400,
 		"category": "Body armor",
 		"defname": "RNApparel_511TacTecVest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10.1% | Blunt: 3.7% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_511TacTecVest.png"
 	},
 	{
@@ -4069,6 +4133,7 @@
 		"price": 392,
 		"category": "Body armor",
 		"defname": "RNApparel_6B23Vest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10% | Blunt: 3.6% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_6B23Vest.png"
 	},
 	{
@@ -4474,6 +4539,7 @@
 		"price": 417,
 		"category": "Body armor",
 		"defname": "RNApparel_AR500Vest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10% | Blunt: 3.6% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_AR500Vest.png"
 	},
 	{
@@ -4481,6 +4547,7 @@
 		"price": 425,
 		"category": "Body armor",
 		"defname": "RNApparel_AR500PMCVest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10.1% | Blunt: 3.7% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_AR500PMCVest.png"
 	},
 	{
@@ -4488,6 +4555,7 @@
 		"price": 425,
 		"category": "Body armor",
 		"defname": "RNApparel_AR500WarriorVest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10.1% | Blunt: 3.7% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_AR500WarriorVest.png"
 	},
 	{
@@ -4813,6 +4881,7 @@
 		"price": 450,
 		"category": "Headgear",
 		"defname": "ChjAndroidBattleMaidHat",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 2% | Blunt: 2% | Heat: 1% ",
 		"fileName": "assets/textures/ChjAndroidBattleMaidHat.png"
 	},
 	{
@@ -5563,6 +5632,7 @@
 		"price": 358,
 		"category": "Headgear",
 		"defname": "Fallarmory_CombatarmorHelmet",
+		"armourDetails": "Cold: -0 | Heat: +6 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_CombatarmorHelmet.png"
 	},
 	{
@@ -5747,6 +5817,7 @@
 		"price": 425,
 		"category": "Body armor",
 		"defname": "RNApparel_CryeCAGE_Tan",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10.2% | Blunt: 3.8% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_CryeCAGE_Tan.png"
 	},
 	{
@@ -5790,6 +5861,7 @@
 		"price": 275,
 		"category": "Casual jackets",
 		"defname": "RNApparel_Jacket_Division",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_Jacket_Division.png"
 	},
 	{
@@ -5933,6 +6005,7 @@
 		"price": 833,
 		"category": "Headgear",
 		"defname": "VPE_Apparel_EltexMask",
+		"armourDetails": "Cold: -4 | Heat: +1 | Sharp: 1.4% | Blunt: 1.4% | Heat: 1.2% ",
 		"fileName": "assets/textures/VPE_Apparel_EltexMask.png"
 	},
 	{
@@ -6087,6 +6160,7 @@
 		"price": 239,
 		"category": "Headgear",
 		"defname": "Fallarmory_FlightHelmet",
+		"armourDetails": "Cold: -6 | Heat: +5 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_FlightHelmet.png"
 	},
 	{
@@ -6477,6 +6551,7 @@
 		"price": 1008,
 		"category": "Armor",
 		"defname": "FallArmory_HeavyCombatArmor",
+		"armourDetails": "Cold: -10 | Heat: +3 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/FallArmory_HeavyCombatArmor.png"
 	},
 	{
@@ -6484,6 +6559,7 @@
 		"price": 858,
 		"category": "Armor",
 		"defname": "FallArmory_HeavyMetalArmor",
+		"armourDetails": "Cold: -1 | Heat: +1 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/FallArmory_HeavyMetalArmor.png"
 	},
 	{
@@ -6864,6 +6940,7 @@
 		"price": 450,
 		"category": "Body armor",
 		"defname": "RNApparel_IBAM81Vest",
+		"armourDetails": "Cold: -1 | Heat: +0 | Sharp: 10.2% | Blunt: 3.8% | Heat: 2.7% ",
 		"fileName": "assets/textures/RNApparel_IBAM81Vest.png"
 	},
 	{
@@ -6936,6 +7013,7 @@
 		"price": 275,
 		"category": "Casual jackets",
 		"defname": "RNApparel_Jacket_LeatherBlank",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_Jacket_LeatherBlank.png"
 	},
 	{
@@ -7316,6 +7394,7 @@
 		"price": 717,
 		"category": "Armor",
 		"defname": "Fallarmory_MediumCombatArmor",
+		"armourDetails": "Cold: -5 | Heat: +3 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_MediumCombatArmor.png"
 	},
 	{
@@ -7323,6 +7402,7 @@
 		"price": 567,
 		"category": "Armor",
 		"defname": "Fallarmory_MediumMetalArmor",
+		"armourDetails": "Cold: -1 | Heat: +1 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_MediumMetalArmor.png"
 	},
 	{
@@ -7344,6 +7424,7 @@
 		"price": 239,
 		"category": "Headgear",
 		"defname": "Fallarmory_MetalArmorHelmetA",
+		"armourDetails": "Cold: -0 | Heat: +3 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_MetalArmorHelmetA.png"
 	},
 	{
@@ -7351,6 +7432,7 @@
 		"price": 239,
 		"category": "Headgear",
 		"defname": "Fallarmory_MetalArmorHelmetB",
+		"armourDetails": "Cold: -0 | Heat: +3 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Fallarmory_MetalArmorHelmetB.png"
 	},
 	{
@@ -7800,6 +7882,7 @@
 		"price": 1400,
 		"category": "Armor",
 		"defname": "VPE_Apparel_PlateArmorPrestige",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/VPE_Apparel_PlateArmorPrestige.png"
 	},
 	{
@@ -9027,6 +9110,7 @@
 		"price": 275,
 		"category": "Casual jackets",
 		"defname": "RNApparel_Jacket_Bomber",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_Jacket_Bomber.png"
 	},
 	{
@@ -9123,6 +9207,7 @@
 		"price": 1992,
 		"category": "Armor",
 		"defname": "FallArmory_SecretServiceArmor",
+		"armourDetails": "Cold: -20 | Heat: +12 | Sharp: 10.2% | Blunt: 6% | Heat: 5% ",
 		"fileName": "assets/textures/FallArmory_SecretServiceArmor.png"
 	},
 	{
@@ -9130,6 +9215,7 @@
 		"price": 933,
 		"category": "Headgear",
 		"defname": "FallArmory_SecretServiceHelmet",
+		"armourDetails": "Cold: -8 | Heat: +2 | Sharp: 9.2% | Blunt: 4% | Heat: 4.6% ",
 		"fileName": "assets/textures/FallArmory_SecretServiceHelmet.png"
 	},
 	{
@@ -9611,6 +9697,7 @@
 		"price": 275,
 		"category": "Casual jackets",
 		"defname": "RNApparel_Tracksuit_Blue",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_Tracksuit_Blue.png"
 	},
 	{
@@ -9618,6 +9705,7 @@
 		"price": 275,
 		"category": "Casual jackets",
 		"defname": "RNApparel_Tracksuit_Red",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_Tracksuit_Red.png"
 	},
 	{
@@ -9625,6 +9713,7 @@
 		"price": 327,
 		"category": "Casual jackets",
 		"defname": "RNApparel_TrenchCoat_Brown",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_TrenchCoat_Brown.png"
 	},
 	{
@@ -9632,6 +9721,7 @@
 		"price": 327,
 		"category": "Casual jackets",
 		"defname": "RNApparel_TrenchCoat_Gray",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_TrenchCoat_Gray.png"
 	},
 	{
@@ -9639,6 +9729,7 @@
 		"price": 327,
 		"category": "Casual jackets",
 		"defname": "RNApparel_TrenchCoat_PUBG",
+		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/RNApparel_TrenchCoat_PUBG.png"
 	},
 	{
@@ -9703,6 +9794,7 @@
 		"price": 1167,
 		"category": "Armor",
 		"defname": "FallArmory_HeavyCombatArmorUS",
+		"armourDetails": "Cold: -10 | Heat: +3 | Sharp: 7.8% | Blunt: 4.5% | Heat: 4% ",
 		"fileName": "assets/textures/FallArmory_HeavyCombatArmorUS.png"
 	},
 	{
@@ -9710,6 +9802,7 @@
 		"price": 550,
 		"category": "Headgear",
 		"defname": "FallArmory_CombatarmorHelmetUS",
+		"armourDetails": "Cold: -3 | Heat: +3 | Sharp: 7.8% | Blunt: 4.5% | Heat: 4% ",
 		"fileName": "assets/textures/FallArmory_CombatarmorHelmetUS.png"
 	},
 	{
@@ -9717,6 +9810,7 @@
 		"price": 231,
 		"category": "Headgear",
 		"defname": "Fallarmory_USFlightHelmet",
+		"armourDetails": "Cold: -6 | Heat: +5 | Sharp: 6.2% | Blunt: 4.5% | Heat: 4% ",
 		"fileName": "assets/textures/Fallarmory_USFlightHelmet.png"
 	},
 	{
