@@ -150,7 +150,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -187,7 +187,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -215,7 +215,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -265,7 +265,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -297,7 +297,7 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Image</th>
+            <th style="text-align:center;" width="10%">Image</th>
             <th style="text-align:center;">Name</th>
             <th style="text-align:center;">Cost</th>
             <th style="text-align:center;">Category</th>
@@ -415,7 +415,9 @@ title: Shop
 
     <table style="display: table" class="sortable">
         <tr>
-            <th style="text-align:center;">Name</th>
+            <th style="text-align:center; "width="15%">Name</th>
+            <th style="text-align:center;">Description</th>
+            <th style="text-align:center;">Stats</th>
             <th style="text-align:center;">Cost</th>
         </tr>
 
@@ -423,6 +425,8 @@ title: Shop
         {%- if item.enabled -%}
         <tr>
             <td style="text-align:center;">{{- item.name -}}</td>
+            <th style="text-align:center;">{{- item.description -}}</th>
+            <th style="text-align:center;">{{- item.data.stats -}}</th>
             <td style="text-align:center;">{{- item.price -}}</td>
         </tr>
         {%- endif -%}
