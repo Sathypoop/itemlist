@@ -26,17 +26,10 @@
 	},
 	{
 		"abr": "aberrantfleshbeast",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_AberrantFleshbeast",
 		"fileName": "assets/textures/GR_AberrantFleshbeast.png"
-	},
-	{
-		"abr": "aberrantmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GR_AberrantFleshbeast",
-		"fileName": "assets/textures/Meat_GR_AberrantFleshbeast.png"
 	},
 	{
 		"abr": "acr",
@@ -145,17 +138,10 @@
 	},
 	{
 		"abr": "alpaca",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Alpaca",
 		"fileName": "assets/textures/Alpaca.png"
-	},
-	{
-		"abr": "alpacameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alpaca",
-		"fileName": "assets/textures/Meat_Alpaca.png"
 	},
 	{
 		"abr": "alpacawool",
@@ -166,17 +152,10 @@
 	},
 	{
 		"abr": "alphabeaver",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Alphabeaver",
 		"fileName": "assets/textures/Alphabeaver.png"
-	},
-	{
-		"abr": "alphabeavermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Alphabeaver",
-		"fileName": "assets/textures/Meat_Alphabeaver.png"
 	},
 	{
 		"abr": "ambrandy(awful)",
@@ -568,7 +547,7 @@
 	},
 	{
 		"abr": "archocentipede",
-		"price": 6666666,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ArchotechCentipede",
 		"fileName": "assets/textures/GR_ArchotechCentipede.png"
@@ -624,14 +603,14 @@
 	},
 	{
 		"abr": "arcticfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Fox_Arctic",
 		"fileName": "assets/textures/Fox_Arctic.png"
 	},
 	{
 		"abr": "arcticwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Wolf_Arctic",
 		"fileName": "assets/textures/Wolf_Arctic.png"
@@ -720,7 +699,7 @@
 	},
 	{
 		"abr": "avianparagon",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonChicken",
 		"fileName": "assets/textures/GR_ParagonChicken.png"
@@ -1014,22 +993,15 @@
 		"fileName": "assets/textures/RNApparel_BeanieDivision.png"
 	},
 	{
-		"abr": "bearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Bear_Grizzly",
-		"fileName": "assets/textures/Meat_Bear_Grizzly.png"
-	},
-	{
 		"abr": "bearalope",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearalope",
 		"fileName": "assets/textures/GR_Bearalope.png"
 	},
 	{
 		"abr": "bearcat",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearcat",
 		"fileName": "assets/textures/GR_Bearcat.png"
@@ -1043,7 +1015,7 @@
 	},
 	{
 		"abr": "bearchicken",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearchicken",
 		"fileName": "assets/textures/GR_Bearchicken.png"
@@ -1064,7 +1036,7 @@
 	},
 	{
 		"abr": "bearffalo",
-		"price": 833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearffalo",
 		"fileName": "assets/textures/GR_Bearffalo.png"
@@ -1078,35 +1050,35 @@
 	},
 	{
 		"abr": "bearhorse",
-		"price": 1417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearhorse",
 		"fileName": "assets/textures/GR_Bearhorse.png"
 	},
 	{
 		"abr": "bearman",
-		"price": 1083,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearman",
 		"fileName": "assets/textures/GR_Bearman.png"
 	},
 	{
 		"abr": "bearmole",
-		"price": 450,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearmole",
 		"fileName": "assets/textures/GR_Bearmole.png"
 	},
 	{
 		"abr": "bearodile",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearodile",
 		"fileName": "assets/textures/GR_Bearodile.png"
 	},
 	{
 		"abr": "bearscarab",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearscarab",
 		"fileName": "assets/textures/GR_Bearscarab.png"
@@ -1120,14 +1092,14 @@
 	},
 	{
 		"abr": "bearwolf",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Bearwolf",
 		"fileName": "assets/textures/GR_Bearwolf.png"
 	},
 	{
 		"abr": "beaverwolf",
-		"price": 458,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Beaverwolf",
 		"fileName": "assets/textures/GR_Beaverwolf.png"
@@ -1267,13 +1239,6 @@
 		"fileName": "assets/textures/BiosculpterPod.png"
 	},
 	{
-		"abr": "birdmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cassowary",
-		"fileName": "assets/textures/Meat_Cassowary.png"
-	},
-	{
 		"abr": "birdskin",
 		"price": 3,
 		"category": "Leathers",
@@ -1282,17 +1247,10 @@
 	},
 	{
 		"abr": "bison",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Bison",
 		"fileName": "assets/textures/Bison.png"
-	},
-	{
-		"abr": "bisonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Bison",
-		"fileName": "assets/textures/Meat_Bison.png"
 	},
 	{
 		"abr": "bisonwool",
@@ -1361,14 +1319,14 @@
 	},
 	{
 		"abr": "boomabear",
-		"price": 625,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomabear",
 		"fileName": "assets/textures/GR_Boomabear.png"
 	},
 	{
 		"abr": "boomachicken",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomachicken",
 		"fileName": "assets/textures/GR_Boomachicken.png"
@@ -1389,56 +1347,49 @@
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Boomalope",
 		"fileName": "assets/textures/Boomalope.png"
 	},
 	{
-		"abr": "boomalopemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Boomalope",
-		"fileName": "assets/textures/Meat_Boomalope.png"
-	},
-	{
 		"abr": "boomalopeparagon",
-		"price": 967,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonBoomalope",
 		"fileName": "assets/textures/GR_ParagonBoomalope.png"
 	},
 	{
 		"abr": "booman",
-		"price": 458,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Booman",
 		"fileName": "assets/textures/GR_Booman.png"
 	},
 	{
 		"abr": "boombeetle",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boombeetle",
 		"fileName": "assets/textures/GR_Boombeetle.png"
 	},
 	{
 		"abr": "boomcat",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomcat",
 		"fileName": "assets/textures/GR_Boomcat.png"
 	},
 	{
 		"abr": "boomffalo",
-		"price": 383,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomffalo",
 		"fileName": "assets/textures/GR_Boomffalo.png"
 	},
 	{
 		"abr": "boomhorse",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomhorse",
 		"fileName": "assets/textures/GR_Boomhorse.png"
@@ -1452,35 +1403,28 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Boomrat",
 		"fileName": "assets/textures/Boomrat.png"
 	},
 	{
-		"abr": "boomratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Boomrat",
-		"fileName": "assets/textures/Meat_Boomrat.png"
-	},
-	{
 		"abr": "boomsnake",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomsnake",
 		"fileName": "assets/textures/GR_Boomsnake.png"
 	},
 	{
 		"abr": "boomsquirrel",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomsquirrel",
 		"fileName": "assets/textures/GR_Boomsquirrel.png"
 	},
 	{
 		"abr": "boomwolf",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Boomwolf",
 		"fileName": "assets/textures/GR_Boomwolf.png"
@@ -1623,7 +1567,7 @@
 	},
 	{
 		"abr": "canineparagon",
-		"price": 1233,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonWolf",
 		"fileName": "assets/textures/GR_ParagonWolf.png"
@@ -1645,17 +1589,10 @@
 	},
 	{
 		"abr": "capybara",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Capybara",
 		"fileName": "assets/textures/Capybara.png"
-	},
-	{
-		"abr": "capybarameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Capybara",
-		"fileName": "assets/textures/Meat_Capybara.png"
 	},
 	{
 		"abr": "caramel",
@@ -1666,17 +1603,10 @@
 	},
 	{
 		"abr": "caribou",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Caribou",
 		"fileName": "assets/textures/Caribou.png"
-	},
-	{
-		"abr": "cariboumeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Caribou",
-		"fileName": "assets/textures/Meat_Caribou.png"
 	},
 	{
 		"abr": "carnivorefinemeal",
@@ -1694,7 +1624,7 @@
 	},
 	{
 		"abr": "cassowary",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Cassowary",
 		"fileName": "assets/textures/Cassowary.png"
@@ -1764,21 +1694,14 @@
 	},
 	{
 		"abr": "cat",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Cat",
 		"fileName": "assets/textures/Cat.png"
 	},
 	{
-		"abr": "catmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cat",
-		"fileName": "assets/textures/Meat_Cat.png"
-	},
-	{
 		"abr": "catalope",
-		"price": 208,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catalope",
 		"fileName": "assets/textures/GR_Catalope.png"
@@ -1801,49 +1724,49 @@
 	},
 	{
 		"abr": "catbear",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catbear",
 		"fileName": "assets/textures/GR_Catbear.png"
 	},
 	{
 		"abr": "catchicken",
-		"price": 183,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catchicken",
 		"fileName": "assets/textures/GR_Catchicken.png"
 	},
 	{
 		"abr": "catffalo",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catffalo",
 		"fileName": "assets/textures/GR_Catffalo.png"
 	},
 	{
 		"abr": "cathorse",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Cathorse",
 		"fileName": "assets/textures/GR_Cathorse.png"
 	},
 	{
 		"abr": "catman",
-		"price": 292,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catman",
 		"fileName": "assets/textures/GR_Catman.png"
 	},
 	{
 		"abr": "catrabbit",
-		"price": 200,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catrabbit",
 		"fileName": "assets/textures/GR_Catrabbit.png"
 	},
 	{
 		"abr": "catwolf",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Catwolf",
 		"fileName": "assets/textures/GR_Catwolf.png"
@@ -1916,7 +1839,7 @@
 	},
 	{
 		"abr": "chicken",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Chicken",
 		"fileName": "assets/textures/Chicken.png"
@@ -1943,15 +1866,8 @@
 		"fileName": "assets/textures/RNApparel_ChickenHatMGSV.png"
 	},
 	{
-		"abr": "chickenmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chicken",
-		"fileName": "assets/textures/Meat_Chicken.png"
-	},
-	{
 		"abr": "chickenbear",
-		"price": 192,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenbear",
 		"fileName": "assets/textures/GR_Chickenbear.png"
@@ -1979,7 +1895,7 @@
 	},
 	{
 		"abr": "chickencat",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickencat",
 		"fileName": "assets/textures/GR_Chickencat.png"
@@ -2000,7 +1916,7 @@
 	},
 	{
 		"abr": "chickenffalo",
-		"price": 292,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenffalo",
 		"fileName": "assets/textures/GR_Chickenffalo.png"
@@ -2028,7 +1944,7 @@
 	},
 	{
 		"abr": "chickenhorse",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenhorse",
 		"fileName": "assets/textures/GR_Chickenhorse.png"
@@ -2049,7 +1965,7 @@
 	},
 	{
 		"abr": "chickenlizard",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenlizard",
 		"fileName": "assets/textures/GR_Chickenlizard.png"
@@ -2070,7 +1986,7 @@
 	},
 	{
 		"abr": "chickenlope",
-		"price": 158,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenlope",
 		"fileName": "assets/textures/GR_Chickenlope.png"
@@ -2091,7 +2007,7 @@
 	},
 	{
 		"abr": "chickenrabbit",
-		"price": 75,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenrabbit",
 		"fileName": "assets/textures/GR_Chickenrabbit.png"
@@ -2112,7 +2028,7 @@
 	},
 	{
 		"abr": "chickenspider",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenspider",
 		"fileName": "assets/textures/GR_Chickenspider.png"
@@ -2126,7 +2042,7 @@
 	},
 	{
 		"abr": "chickenwolf",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Chickenwolf",
 		"fileName": "assets/textures/GR_Chickenwolf.png"
@@ -2147,7 +2063,7 @@
 	},
 	{
 		"abr": "chinchilla",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Chinchilla",
 		"fileName": "assets/textures/Chinchilla.png"
@@ -2158,13 +2074,6 @@
 		"category": "Leathers",
 		"defname": "Leather_Chinchilla",
 		"fileName": "assets/textures/Leather_Chinchilla.png"
-	},
-	{
-		"abr": "chinchillameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Chinchilla",
-		"fileName": "assets/textures/Meat_Chinchilla.png"
 	},
 	{
 		"abr": "chocolate",
@@ -2245,7 +2154,7 @@
 	},
 	{
 		"abr": "cobra",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Cobra",
 		"fileName": "assets/textures/Cobra.png"
@@ -2256,13 +2165,6 @@
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized",
 		"fileName": "assets/textures/EggCobraFertilized.png"
-	},
-	{
-		"abr": "cobrameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cobra",
-		"fileName": "assets/textures/Meat_Cobra.png"
 	},
 	{
 		"abr": "cochlearimplant",
@@ -2308,7 +2210,7 @@
 	},
 	{
 		"abr": "colossalparagon",
-		"price": 8333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonThrumbo",
 		"fileName": "assets/textures/GR_ParagonThrumbo.png"
@@ -2522,21 +2424,14 @@
 	},
 	{
 		"abr": "cougar",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Cougar",
 		"fileName": "assets/textures/Cougar.png"
 	},
 	{
-		"abr": "cougarmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Cougar",
-		"fileName": "assets/textures/Meat_Cougar.png"
-	},
-	{
 		"abr": "cow",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Cow",
 		"fileName": "assets/textures/Cow.png"
@@ -2565,7 +2460,7 @@
 	},
 	{
 		"abr": "crocorse",
-		"price": 1583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Crocorse",
 		"fileName": "assets/textures/GR_Crocorse.png"
@@ -2673,7 +2568,7 @@
 	},
 	{
 		"abr": "deer",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Deer",
 		"fileName": "assets/textures/Deer.png"
@@ -2751,24 +2646,17 @@
 	},
 	{
 		"abr": "dogman",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Dogman",
 		"fileName": "assets/textures/GR_Dogman.png"
 	},
 	{
 		"abr": "donkey",
-		"price": 533,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Donkey",
 		"fileName": "assets/textures/Donkey.png"
-	},
-	{
-		"abr": "donkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Donkey",
-		"fileName": "assets/textures/Meat_Donkey.png"
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
@@ -2829,17 +2717,10 @@
 	},
 	{
 		"abr": "dromedary",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Dromedary",
 		"fileName": "assets/textures/Dromedary.png"
-	},
-	{
-		"abr": "dromedarymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dromedary",
-		"fileName": "assets/textures/Meat_Dromedary.png"
 	},
 	{
 		"abr": "druglab",
@@ -2857,7 +2738,7 @@
 	},
 	{
 		"abr": "duck",
-		"price": 100,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Duck",
 		"fileName": "assets/textures/Duck.png"
@@ -2875,13 +2756,6 @@
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized",
 		"fileName": "assets/textures/EggDuckUnfertilized.png"
-	},
-	{
-		"abr": "duckmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Duck",
-		"fileName": "assets/textures/Meat_Duck.png"
 	},
 	{
 		"abr": "duster",
@@ -2969,7 +2843,7 @@
 	},
 	{
 		"abr": "elephant",
-		"price": 1000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Elephant",
 		"fileName": "assets/textures/Elephant.png"
@@ -2982,13 +2856,6 @@
 		"fileName": "assets/textures/Leather_Elephant.png"
 	},
 	{
-		"abr": "elephantmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elephant",
-		"fileName": "assets/textures/Meat_Elephant.png"
-	},
-	{
 		"abr": "elephanttusk",
 		"price": 133,
 		"category": "Misc",
@@ -2997,17 +2864,10 @@
 	},
 	{
 		"abr": "elk",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Elk",
 		"fileName": "assets/textures/Elk.png"
-	},
-	{
-		"abr": "elkmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Elk",
-		"fileName": "assets/textures/Meat_Elk.png"
 	},
 	{
 		"abr": "eltex",
@@ -3128,7 +2988,7 @@
 	},
 	{
 		"abr": "emu",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Emu",
 		"fileName": "assets/textures/Emu.png"
@@ -3163,7 +3023,7 @@
 	},
 	{
 		"abr": "equineparagon",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonHorse",
 		"fileName": "assets/textures/GR_ParagonHorse.png"
@@ -3220,14 +3080,14 @@
 	},
 	{
 		"abr": "felineparagon",
-		"price": 1417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonFeline",
 		"fileName": "assets/textures/GR_ParagonFeline.png"
 	},
 	{
 		"abr": "fennecfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Fox_Fennec",
 		"fileName": "assets/textures/Fox_Fennec.png"
@@ -3372,28 +3232,28 @@
 	},
 	{
 		"abr": "fleshflies",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshFlies",
 		"fileName": "assets/textures/GR_FleshFlies.png"
 	},
 	{
 		"abr": "fleshgrowth",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshGrowth",
 		"fileName": "assets/textures/GR_FleshGrowth.png"
 	},
 	{
 		"abr": "fleshmonstrosity",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_FleshMonstrosity",
 		"fileName": "assets/textures/GR_FleshMonstrosity.png"
 	},
 	{
 		"abr": "fleshling",
-		"price": 17,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Fleshling",
 		"fileName": "assets/textures/GR_Fleshling.png"
@@ -3494,13 +3354,6 @@
 		"defname": "Apparel_VestRoyal",
 		"armourDetails": "Cold: -0 | Heat: +0 | Sharp: 0% | Blunt: 0% | Heat: 0% ",
 		"fileName": "assets/textures/Apparel_VestRoyal.png"
-	},
-	{
-		"abr": "foxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Fox_Fennec",
-		"fileName": "assets/textures/Meat_Fox_Fennec.png"
 	},
 	{
 		"abr": "foxfur",
@@ -3639,17 +3492,10 @@
 	},
 	{
 		"abr": "gazelle",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Gazelle",
 		"fileName": "assets/textures/Gazelle.png"
-	},
-	{
-		"abr": "gazellemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Gazelle",
-		"fileName": "assets/textures/Meat_Gazelle.png"
 	},
 	{
 		"abr": "genebank",
@@ -3829,17 +3675,10 @@
 	},
 	{
 		"abr": "goat",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Goat",
 		"fileName": "assets/textures/Goat.png"
-	},
-	{
-		"abr": "goatmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Goat",
-		"fileName": "assets/textures/Meat_Goat.png"
 	},
 	{
 		"abr": "go-juice",
@@ -3857,7 +3696,7 @@
 	},
 	{
 		"abr": "goose",
-		"price": 150,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Goose",
 		"fileName": "assets/textures/Goose.png"
@@ -3978,7 +3817,7 @@
 	},
 	{
 		"abr": "grizzlybear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Bear_Grizzly",
 		"fileName": "assets/textures/Bear_Grizzly.png"
@@ -3992,7 +3831,7 @@
 	},
 	{
 		"abr": "guineapig",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GuineaPig",
 		"fileName": "assets/textures/GuineaPig.png"
@@ -4003,13 +3842,6 @@
 		"category": "Leathers",
 		"defname": "Leather_GuineaPig",
 		"fileName": "assets/textures/Leather_GuineaPig.png"
-	},
-	{
-		"abr": "guineapigmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_GuineaPig",
-		"fileName": "assets/textures/Meat_GuineaPig.png"
 	},
 	{
 		"abr": "gunlink",
@@ -4078,17 +3910,10 @@
 	},
 	{
 		"abr": "hare",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Hare",
 		"fileName": "assets/textures/Hare.png"
-	},
-	{
-		"abr": "haremeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Hare",
-		"fileName": "assets/textures/Meat_Hare.png"
 	},
 	{
 		"abr": "harmonobooster",
@@ -4229,7 +4054,7 @@
 	},
 	{
 		"abr": "heruan",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Aelanna_Heruan",
 		"fileName": "assets/textures/Aelanna_Heruan.png"
@@ -4247,13 +4072,6 @@
 		"category": "Melee weapons",
 		"defname": "Heruan_Khopesh",
 		"fileName": "assets/textures/Heruan_Khopesh.png"
-	},
-	{
-		"abr": "heruanmeat",
-		"price": 1,
-		"category": "Meat",
-		"defname": "Meat_Aelanna_Heruan",
-		"fileName": "assets/textures/Meat_Aelanna_Heruan.png"
 	},
 	{
 		"abr": "heruansolarlance",
@@ -4351,17 +4169,10 @@
 	},
 	{
 		"abr": "horse",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Horse",
 		"fileName": "assets/textures/Horse.png"
-	},
-	{
-		"abr": "horsemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Horse",
-		"fileName": "assets/textures/Meat_Horse.png"
 	},
 	{
 		"abr": "horseshoespin",
@@ -4603,7 +4414,7 @@
 	},
 	{
 		"abr": "humanoidparagon",
-		"price": 1417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonHumanoid",
 		"fileName": "assets/textures/GR_ParagonHumanoid.png"
@@ -4624,24 +4435,17 @@
 	},
 	{
 		"abr": "hurseman",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Hurseman",
 		"fileName": "assets/textures/GR_Hurseman.png"
 	},
 	{
 		"abr": "husky",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Husky",
 		"fileName": "assets/textures/Husky.png"
-	},
-	{
-		"abr": "huskymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Husky",
-		"fileName": "assets/textures/Meat_Husky.png"
 	},
 	{
 		"abr": "hybridchitin",
@@ -4673,17 +4477,10 @@
 	},
 	{
 		"abr": "ibex",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Ibex",
 		"fileName": "assets/textures/Ibex.png"
-	},
-	{
-		"abr": "ibexmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Ibex",
-		"fileName": "assets/textures/Meat_Ibex.png"
 	},
 	{
 		"abr": "icecream",
@@ -4750,7 +4547,7 @@
 	},
 	{
 		"abr": "iguana",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Iguana",
 		"fileName": "assets/textures/Iguana.png"
@@ -4763,25 +4560,11 @@
 		"fileName": "assets/textures/EggIguanaFertilized.png"
 	},
 	{
-		"abr": "iguanameat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Iguana",
-		"fileName": "assets/textures/Meat_Iguana.png"
-	},
-	{
 		"abr": "ikwa",
 		"price": 197,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa",
 		"fileName": "assets/textures/MeleeWeapon_Ikwa.png"
-	},
-	{
-		"abr": "immaturedryadmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Dryad_Basic",
-		"fileName": "assets/textures/Meat_Dryad_Basic.png"
 	},
 	{
 		"abr": "immunobooster",
@@ -4877,7 +4660,7 @@
 	},
 	{
 		"abr": "insectoidparagon",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonInsectoid",
 		"fileName": "assets/textures/GR_ParagonInsectoid.png"
@@ -5078,17 +4861,10 @@
 	},
 	{
 		"abr": "labradorretriever",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "LabradorRetriever",
 		"fileName": "assets/textures/LabradorRetriever.png"
-	},
-	{
-		"abr": "labradorretrievermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_LabradorRetriever",
-		"fileName": "assets/textures/Meat_LabradorRetriever.png"
 	},
 	{
 		"abr": "ladieshat",
@@ -5185,7 +4961,7 @@
 	},
 	{
 		"abr": "lizardman",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Lizardman",
 		"fileName": "assets/textures/GR_Lizardman.png"
@@ -5271,17 +5047,10 @@
 	},
 	{
 		"abr": "lynx",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Lynx",
 		"fileName": "assets/textures/Lynx.png"
-	},
-	{
-		"abr": "lynxmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Lynx",
-		"fileName": "assets/textures/Meat_Lynx.png"
 	},
 	{
 		"abr": "lynx-thelmet",
@@ -5447,56 +5216,56 @@
 	},
 	{
 		"abr": "manalope",
-		"price": 300,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manalope",
 		"fileName": "assets/textures/GR_Manalope.png"
 	},
 	{
 		"abr": "manbear",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manbear",
 		"fileName": "assets/textures/GR_Manbear.png"
 	},
 	{
 		"abr": "mancat",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mancat",
 		"fileName": "assets/textures/GR_Mancat.png"
 	},
 	{
 		"abr": "manchicken",
-		"price": 1750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manchicken",
 		"fileName": "assets/textures/GR_Manchicken.png"
 	},
 	{
 		"abr": "manffalo",
-		"price": 1083,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manffalo",
 		"fileName": "assets/textures/GR_Manffalo.png"
 	},
 	{
 		"abr": "manscarab",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manscarab",
 		"fileName": "assets/textures/GR_Manscarab.png"
 	},
 	{
 		"abr": "mansquirrel",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mansquirrel",
 		"fileName": "assets/textures/GR_Mansquirrel.png"
 	},
 	{
 		"abr": "manwolf",
-		"price": 917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Manwolf",
 		"fileName": "assets/textures/GR_Manwolf.png"
@@ -5576,49 +5345,49 @@
 	},
 	{
 		"abr": "mechabear",
-		"price": 5000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechabear",
 		"fileName": "assets/textures/GR_Mechabear.png"
 	},
 	{
 		"abr": "mechacat",
-		"price": 3000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechacat",
 		"fileName": "assets/textures/GR_Mechacat.png"
 	},
 	{
 		"abr": "mecha-chicken",
-		"price": 2500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechachicken",
 		"fileName": "assets/textures/GR_Mechachicken.png"
 	},
 	{
 		"abr": "mecha-horse",
-		"price": 3000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechahorse",
 		"fileName": "assets/textures/GR_Mechahorse.png"
 	},
 	{
 		"abr": "mechalope",
-		"price": 5000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechalope",
 		"fileName": "assets/textures/GR_Mechalope.png"
 	},
 	{
 		"abr": "mecha-mime",
-		"price": 3000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechamime",
 		"fileName": "assets/textures/GR_Mechamime.png"
 	},
 	{
 		"abr": "mecha-muffalo",
-		"price": 5833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechamuffalo",
 		"fileName": "assets/textures/GR_Mechamuffalo.png"
@@ -5667,35 +5436,35 @@
 	},
 	{
 		"abr": "mecha-rat",
-		"price": 833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mecharat",
 		"fileName": "assets/textures/GR_Mecharat.png"
 	},
 	{
 		"abr": "mechaspider",
-		"price": 5833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechaspider",
 		"fileName": "assets/textures/GR_Mechaspider.png"
 	},
 	{
 		"abr": "mechathrumbo",
-		"price": 6667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechathrumbo",
 		"fileName": "assets/textures/GR_Mechathrumbo.png"
 	},
 	{
 		"abr": "mechaturtle",
-		"price": 3333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechaturtle",
 		"fileName": "assets/textures/GR_Mechaturtle.png"
 	},
 	{
 		"abr": "mechawolf",
-		"price": 3333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Mechawolf",
 		"fileName": "assets/textures/GR_Mechawolf.png"
@@ -5770,7 +5539,7 @@
 	},
 	{
 		"abr": "megascarab",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Megascarab",
 		"fileName": "assets/textures/Megascarab.png"
@@ -5784,17 +5553,10 @@
 	},
 	{
 		"abr": "megasloth",
-		"price": 1167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Megasloth",
 		"fileName": "assets/textures/Megasloth.png"
-	},
-	{
-		"abr": "megaslothmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Megasloth",
-		"fileName": "assets/textures/Meat_Megasloth.png"
 	},
 	{
 		"abr": "megaslothwool",
@@ -5805,7 +5567,7 @@
 	},
 	{
 		"abr": "megaspider",
-		"price": 833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Megaspider",
 		"fileName": "assets/textures/Megaspider.png"
@@ -5938,21 +5700,21 @@
 	},
 	{
 		"abr": "molebear",
-		"price": 458,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Molebear",
 		"fileName": "assets/textures/GR_Molebear.png"
 	},
 	{
 		"abr": "molehorse",
-		"price": 1250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Molehorse",
 		"fileName": "assets/textures/GR_Molehorse.png"
 	},
 	{
 		"abr": "moleman",
-		"price": 833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Moleman",
 		"fileName": "assets/textures/GR_Moleman.png"
@@ -5966,17 +5728,10 @@
 	},
 	{
 		"abr": "monkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Monkey",
 		"fileName": "assets/textures/Monkey.png"
-	},
-	{
-		"abr": "monkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Monkey",
-		"fileName": "assets/textures/Meat_Monkey.png"
 	},
 	{
 		"abr": "monosword",
@@ -6070,7 +5825,7 @@
 	},
 	{
 		"abr": "muffalo",
-		"price": 500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Muffalo",
 		"fileName": "assets/textures/Muffalo.png"
@@ -6083,15 +5838,8 @@
 		"fileName": "assets/textures/GR_MuffaloGenetic.png"
 	},
 	{
-		"abr": "muffalomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Muffalo",
-		"fileName": "assets/textures/Meat_Muffalo.png"
-	},
-	{
 		"abr": "muffaloparagon",
-		"price": 1667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonMuffalo",
 		"fileName": "assets/textures/GR_ParagonMuffalo.png"
@@ -6119,7 +5867,7 @@
 	},
 	{
 		"abr": "muffalobear",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalobear",
 		"fileName": "assets/textures/GR_Muffalobear.png"
@@ -6133,14 +5881,14 @@
 	},
 	{
 		"abr": "muffalocat",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalocat",
 		"fileName": "assets/textures/GR_Muffalocat.png"
 	},
 	{
 		"abr": "muffalochicken",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalochicken",
 		"fileName": "assets/textures/GR_Muffalochicken.png"
@@ -6154,49 +5902,49 @@
 	},
 	{
 		"abr": "muffalohorse",
-		"price": 1583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalohorse",
 		"fileName": "assets/textures/GR_Muffalohorse.png"
 	},
 	{
 		"abr": "muffalokomodo",
-		"price": 1083,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalokomodo",
 		"fileName": "assets/textures/GR_Muffalokomodo.png"
 	},
 	{
 		"abr": "muffaloman",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffaloman",
 		"fileName": "assets/textures/GR_Muffaloman.png"
 	},
 	{
 		"abr": "muffalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalope",
 		"fileName": "assets/textures/GR_Muffalope.png"
 	},
 	{
 		"abr": "muffalopede",
-		"price": 833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalopede",
 		"fileName": "assets/textures/GR_Muffalopede.png"
 	},
 	{
 		"abr": "muffalorat",
-		"price": 175,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalorat",
 		"fileName": "assets/textures/GR_Muffalorat.png"
 	},
 	{
 		"abr": "muffalowolf",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Muffalowolf",
 		"fileName": "assets/textures/GR_Muffalowolf.png"
@@ -6344,7 +6092,7 @@
 	},
 	{
 		"abr": "ostrich",
-		"price": 417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Ostrich",
 		"fileName": "assets/textures/Ostrich.png"
@@ -6394,17 +6142,10 @@
 	},
 	{
 		"abr": "panther",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Panther",
 		"fileName": "assets/textures/Panther.png"
-	},
-	{
-		"abr": "panthermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Panther",
-		"fileName": "assets/textures/Meat_Panther.png"
 	},
 	{
 		"abr": "pantherafur",
@@ -6557,7 +6298,7 @@
 	},
 	{
 		"abr": "pig",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Pig",
 		"fileName": "assets/textures/Pig.png"
@@ -6686,7 +6427,7 @@
 	},
 	{
 		"abr": "polarbear",
-		"price": 1167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Bear_Polar",
 		"fileName": "assets/textures/Bear_Polar.png"
@@ -6704,13 +6445,6 @@
 		"category": "Misc",
 		"defname": "PoluxSeed",
 		"fileName": "assets/textures/PoluxSeed.png"
-	},
-	{
-		"abr": "pork",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Pig",
-		"fileName": "assets/textures/Meat_Pig.png"
 	},
 	{
 		"abr": "porridge",
@@ -8069,31 +7803,24 @@
 	},
 	{
 		"abr": "rabbitcat",
-		"price": 958,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Rabbitcat",
 		"fileName": "assets/textures/GR_Rabbitcat.png"
 	},
 	{
 		"abr": "rabbitchicken",
-		"price": 25,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Rabbitchicken",
 		"fileName": "assets/textures/GR_Rabbitchicken.png"
 	},
 	{
 		"abr": "raccoon",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Raccoon",
 		"fileName": "assets/textures/Raccoon.png"
-	},
-	{
-		"abr": "raccoonmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Raccoon",
-		"fileName": "assets/textures/Meat_Raccoon.png"
 	},
 	{
 		"abr": "rangedshieldbelt",
@@ -8104,21 +7831,14 @@
 	},
 	{
 		"abr": "rat",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Rat",
 		"fileName": "assets/textures/Rat.png"
 	},
 	{
-		"abr": "ratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rat",
-		"fileName": "assets/textures/Meat_Rat.png"
-	},
-	{
 		"abr": "ratffalo",
-		"price": 175,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Ratffalo",
 		"fileName": "assets/textures/GR_Ratffalo.png"
@@ -8170,7 +7890,7 @@
 	},
 	{
 		"abr": "redfox",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Fox_Red",
 		"fileName": "assets/textures/Fox_Red.png"
@@ -8226,7 +7946,7 @@
 	},
 	{
 		"abr": "reptileparagon",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonIguana",
 		"fileName": "assets/textures/GR_ParagonIguana.png"
@@ -8292,7 +8012,7 @@
 	},
 	{
 		"abr": "rhinoceros",
-		"price": 1167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Rhinoceros",
 		"fileName": "assets/textures/Rhinoceros.png"
@@ -8303,13 +8023,6 @@
 		"category": "Leathers",
 		"defname": "Leather_Rhinoceros",
 		"fileName": "assets/textures/Leather_Rhinoceros.png"
-	},
-	{
-		"abr": "rhinocerosmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Rhinoceros",
-		"fileName": "assets/textures/Meat_Rhinoceros.png"
 	},
 	{
 		"abr": "rice",
@@ -8334,14 +8047,14 @@
 	},
 	{
 		"abr": "rockconstruct",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VPE_RockConstruct",
 		"fileName": "assets/textures/VPE_RockConstruct.png"
 	},
 	{
 		"abr": "rodentparagon",
-		"price": 200,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonRat",
 		"fileName": "assets/textures/GR_ParagonRat.png"
@@ -8466,7 +8179,7 @@
 	},
 	{
 		"abr": "seren",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Seren",
 		"fileName": "assets/textures/Seren.png"
@@ -8477,13 +8190,6 @@
 		"category": "Leathers",
 		"defname": "SerenLeather",
 		"fileName": "assets/textures/SerenLeather.png"
-	},
-	{
-		"abr": "serenmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Seren",
-		"fileName": "assets/textures/Meat_Seren.png"
 	},
 	{
 		"abr": "serensensor",
@@ -8509,17 +8215,10 @@
 	},
 	{
 		"abr": "sheep",
-		"price": 350,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Sheep",
 		"fileName": "assets/textures/Sheep.png"
-	},
-	{
-		"abr": "sheepmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Sheep",
-		"fileName": "assets/textures/Meat_Sheep.png"
 	},
 	{
 		"abr": "sheepwool",
@@ -8630,7 +8329,7 @@
 	},
 	{
 		"abr": "skeleton",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VPE_SummonedSkeleton",
 		"fileName": "assets/textures/VPE_SummonedSkeleton.png"
@@ -8865,7 +8564,7 @@
 	},
 	{
 		"abr": "snakecat",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Snakecat",
 		"fileName": "assets/textures/GR_Snakecat.png"
@@ -8887,7 +8586,7 @@
 	},
 	{
 		"abr": "snowhare",
-		"price": 83,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Snowhare",
 		"fileName": "assets/textures/Snowhare.png"
@@ -8937,28 +8636,28 @@
 	},
 	{
 		"abr": "spelopede",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Spelopede",
 		"fileName": "assets/textures/Spelopede.png"
 	},
 	{
 		"abr": "spidercat",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Spidercat",
 		"fileName": "assets/textures/GR_Spidercat.png"
 	},
 	{
 		"abr": "spiderhorse",
-		"price": 1417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Spiderhorse",
 		"fileName": "assets/textures/GR_Spiderhorse.png"
 	},
 	{
 		"abr": "spidersnake",
-		"price": 1083,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Spidersnake",
 		"fileName": "assets/textures/GR_Spidersnake.png"
@@ -8986,24 +8685,17 @@
 	},
 	{
 		"abr": "squirralope",
-		"price": 208,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Squirralope",
 		"fileName": "assets/textures/GR_Squirralope.png"
 	},
 	{
 		"abr": "squirrel",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Squirrel",
 		"fileName": "assets/textures/Squirrel.png"
-	},
-	{
-		"abr": "squirrelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Squirrel",
-		"fileName": "assets/textures/Meat_Squirrel.png"
 	},
 	{
 		"abr": "sr25",
@@ -9058,7 +8750,7 @@
 	},
 	{
 		"abr": "steelconstruct",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "VPE_SteelConstruct",
 		"fileName": "assets/textures/VPE_SteelConstruct.png"
@@ -9459,21 +9151,21 @@
 	},
 	{
 		"abr": "thrumbalope",
-		"price": 5000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbalope",
 		"fileName": "assets/textures/GR_Thrumbalope.png"
 	},
 	{
 		"abr": "thrumbear",
-		"price": 7500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbear",
 		"fileName": "assets/textures/GR_Thrumbear.png"
 	},
 	{
 		"abr": "thrumbo",
-		"price": 6667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Thrumbo",
 		"fileName": "assets/textures/Thrumbo.png"
@@ -9486,22 +9178,15 @@
 		"fileName": "assets/textures/ThrumboHorn.png"
 	},
 	{
-		"abr": "thrumbomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Thrumbo",
-		"fileName": "assets/textures/Meat_Thrumbo.png"
-	},
-	{
 		"abr": "thrumbocat",
-		"price": 2917,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbocat",
 		"fileName": "assets/textures/GR_Thrumbocat.png"
 	},
 	{
 		"abr": "thrumbochicken",
-		"price": 5000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbochicken",
 		"fileName": "assets/textures/GR_Thrumbochicken.png"
@@ -9529,35 +9214,35 @@
 	},
 	{
 		"abr": "thrumbolizard",
-		"price": 7500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbolizard",
 		"fileName": "assets/textures/GR_Thrumbolizard.png"
 	},
 	{
 		"abr": "thrumboman",
-		"price": 6667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumboman",
 		"fileName": "assets/textures/GR_Thrumboman.png"
 	},
 	{
 		"abr": "thrumborat",
-		"price": 4000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumborat",
 		"fileName": "assets/textures/GR_Thrumborat.png"
 	},
 	{
 		"abr": "thrumbospider",
-		"price": 4167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumbospider",
 		"fileName": "assets/textures/GR_Thrumbospider.png"
 	},
 	{
 		"abr": "thrumffalo",
-		"price": 5833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumffalo",
 		"fileName": "assets/textures/GR_Thrumffalo.png"
@@ -9571,21 +9256,21 @@
 	},
 	{
 		"abr": "thrumhorse",
-		"price": 7500,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumhorse",
 		"fileName": "assets/textures/GR_Thrumhorse.png"
 	},
 	{
 		"abr": "thrumwolf",
-		"price": 4167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Thrumwolf",
 		"fileName": "assets/textures/GR_Thrumwolf.png"
 	},
 	{
 		"abr": "timberwolf",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Wolf_Timber",
 		"fileName": "assets/textures/Wolf_Timber.png"
@@ -9649,7 +9334,7 @@
 	},
 	{
 		"abr": "tortoise",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Tortoise",
 		"fileName": "assets/textures/Tortoise.png"
@@ -9660,13 +9345,6 @@
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized",
 		"fileName": "assets/textures/EggTortoiseFertilized.png"
-	},
-	{
-		"abr": "tortoisemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Tortoise",
-		"fileName": "assets/textures/Meat_Tortoise.png"
 	},
 	{
 		"abr": "torturecrown",
@@ -9720,17 +9398,10 @@
 	},
 	{
 		"abr": "toxalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Toxalope",
 		"fileName": "assets/textures/Toxalope.png"
-	},
-	{
-		"abr": "toxalopemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Toxalope",
-		"fileName": "assets/textures/Meat_Toxalope.png"
 	},
 	{
 		"abr": "toxbomblauncher",
@@ -9906,7 +9577,7 @@
 	},
 	{
 		"abr": "turkey",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Turkey",
 		"fileName": "assets/textures/Turkey.png"
@@ -9919,15 +9590,8 @@
 		"fileName": "assets/textures/EggTurkeyFertilized.png"
 	},
 	{
-		"abr": "turkeymeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Turkey",
-		"fileName": "assets/textures/Meat_Turkey.png"
-	},
-	{
 		"abr": "turkeyman",
-		"price": 250,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Turkeyman",
 		"fileName": "assets/textures/GR_Turkeyman.png"
@@ -9984,7 +9648,7 @@
 	},
 	{
 		"abr": "ursineparagon",
-		"price": 1833,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_ParagonBear",
 		"fileName": "assets/textures/GR_ParagonBear.png"
@@ -10066,13 +9730,6 @@
 		"fileName": "assets/textures/Apparel_WarVeil.png"
 	},
 	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Deer",
-		"fileName": "assets/textures/Meat_Deer.png"
-	},
-	{
 		"abr": "venomfangs",
 		"price": 592,
 		"category": "Prosthetic",
@@ -10139,17 +9796,10 @@
 	},
 	{
 		"abr": "warg",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Warg",
 		"fileName": "assets/textures/Warg.png"
-	},
-	{
-		"abr": "wargmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Warg",
-		"fileName": "assets/textures/Meat_Warg.png"
 	},
 	{
 		"abr": "warhammer",
@@ -10160,17 +9810,10 @@
 	},
 	{
 		"abr": "wasterat",
-		"price": 58,
+		"price": -10,
 		"category": "Animals",
 		"defname": "WasteRat",
 		"fileName": "assets/textures/WasteRat.png"
-	},
-	{
-		"abr": "wasteratmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WasteRat",
-		"fileName": "assets/textures/Meat_WasteRat.png"
 	},
 	{
 		"abr": "watermelon",
@@ -10230,17 +9873,10 @@
 	},
 	{
 		"abr": "wildboar",
-		"price": 333,
+		"price": -10,
 		"category": "Animals",
 		"defname": "WildBoar",
 		"fileName": "assets/textures/WildBoar.png"
-	},
-	{
-		"abr": "wolfmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Wolf_Timber",
-		"fileName": "assets/textures/Meat_Wolf_Timber.png"
 	},
 	{
 		"abr": "wolfpelt",
@@ -10258,35 +9894,35 @@
 	},
 	{
 		"abr": "wolfalope",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfalope",
 		"fileName": "assets/textures/GR_Wolfalope.png"
 	},
 	{
 		"abr": "wolfbear",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfbear",
 		"fileName": "assets/textures/GR_Wolfbear.png"
 	},
 	{
 		"abr": "wolfbeaver",
-		"price": 458,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfbeaver",
 		"fileName": "assets/textures/GR_Wolfbeaver.png"
 	},
 	{
 		"abr": "wolfcat",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfcat",
 		"fileName": "assets/textures/GR_Wolfcat.png"
 	},
 	{
 		"abr": "wolfchicken",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfchicken",
 		"fileName": "assets/textures/GR_Wolfchicken.png"
@@ -10307,21 +9943,21 @@
 	},
 	{
 		"abr": "wolffalo",
-		"price": 617,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolffalo",
 		"fileName": "assets/textures/GR_Wolffalo.png"
 	},
 	{
 		"abr": "wolfhorse",
-		"price": 1417,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfhorse",
 		"fileName": "assets/textures/GR_Wolfhorse.png"
 	},
 	{
 		"abr": "wolfscarab",
-		"price": 667,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfscarab",
 		"fileName": "assets/textures/GR_Wolfscarab.png"
@@ -10335,7 +9971,7 @@
 	},
 	{
 		"abr": "wolfsnake",
-		"price": 750,
+		"price": -10,
 		"category": "Animals",
 		"defname": "GR_Wolfsnake",
 		"fileName": "assets/textures/GR_Wolfsnake.png"
@@ -10387,17 +10023,10 @@
 	},
 	{
 		"abr": "yak",
-		"price": 533,
+		"price": -10,
 		"category": "Animals",
 		"defname": "Yak",
 		"fileName": "assets/textures/Yak.png"
-	},
-	{
-		"abr": "yakbeef",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Yak",
-		"fileName": "assets/textures/Meat_Yak.png"
 	},
 	{
 		"abr": "yayo",
@@ -10415,17 +10044,10 @@
 	},
 	{
 		"abr": "yorkshireterrier",
-		"price": 167,
+		"price": -10,
 		"category": "Animals",
 		"defname": "YorkshireTerrier",
 		"fileName": "assets/textures/YorkshireTerrier.png"
-	},
-	{
-		"abr": "yorkshireterriermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_YorkshireTerrier",
-		"fileName": "assets/textures/Meat_YorkshireTerrier.png"
 	},
 	{
 		"abr": "zaryastungrenade",
@@ -10440,6 +10062,384 @@
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer",
 		"fileName": "assets/textures/MeleeWeapon_Zeushammer.png"
+	},
+	{
+		"abr": "aberrantmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_AberrantFleshbeast",
+		"fileName": "assets/textures/Meat_GR_AberrantFleshbeast.png"
+	},
+	{
+		"abr": "alpacameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alpaca",
+		"fileName": "assets/textures/Meat_Alpaca.png"
+	},
+	{
+		"abr": "alphabeavermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alphabeaver",
+		"fileName": "assets/textures/Meat_Alphabeaver.png"
+	},
+	{
+		"abr": "bearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bear_Grizzly",
+		"fileName": "assets/textures/Meat_Bear_Grizzly.png"
+	},
+	{
+		"abr": "birdmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cassowary",
+		"fileName": "assets/textures/Meat_Cassowary.png"
+	},
+	{
+		"abr": "bisonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bison",
+		"fileName": "assets/textures/Meat_Bison.png"
+	},
+	{
+		"abr": "boomalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Boomalope",
+		"fileName": "assets/textures/Meat_Boomalope.png"
+	},
+	{
+		"abr": "boomratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Boomrat",
+		"fileName": "assets/textures/Meat_Boomrat.png"
+	},
+	{
+		"abr": "capybarameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Capybara",
+		"fileName": "assets/textures/Meat_Capybara.png"
+	},
+	{
+		"abr": "cariboumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Caribou",
+		"fileName": "assets/textures/Meat_Caribou.png"
+	},
+	{
+		"abr": "catmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cat",
+		"fileName": "assets/textures/Meat_Cat.png"
+	},
+	{
+		"abr": "chickenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chicken",
+		"fileName": "assets/textures/Meat_Chicken.png"
+	},
+	{
+		"abr": "chinchillameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chinchilla",
+		"fileName": "assets/textures/Meat_Chinchilla.png"
+	},
+	{
+		"abr": "cobrameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cobra",
+		"fileName": "assets/textures/Meat_Cobra.png"
+	},
+	{
+		"abr": "cougarmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cougar",
+		"fileName": "assets/textures/Meat_Cougar.png"
+	},
+	{
+		"abr": "donkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Donkey",
+		"fileName": "assets/textures/Meat_Donkey.png"
+	},
+	{
+		"abr": "dromedarymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dromedary",
+		"fileName": "assets/textures/Meat_Dromedary.png"
+	},
+	{
+		"abr": "duckmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Duck",
+		"fileName": "assets/textures/Meat_Duck.png"
+	},
+	{
+		"abr": "elephantmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Elephant",
+		"fileName": "assets/textures/Meat_Elephant.png"
+	},
+	{
+		"abr": "elkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Elk",
+		"fileName": "assets/textures/Meat_Elk.png"
+	},
+	{
+		"abr": "foxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fox_Fennec",
+		"fileName": "assets/textures/Meat_Fox_Fennec.png"
+	},
+	{
+		"abr": "gazellemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gazelle",
+		"fileName": "assets/textures/Meat_Gazelle.png"
+	},
+	{
+		"abr": "goatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Goat",
+		"fileName": "assets/textures/Meat_Goat.png"
+	},
+	{
+		"abr": "guineapigmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GuineaPig",
+		"fileName": "assets/textures/Meat_GuineaPig.png"
+	},
+	{
+		"abr": "haremeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hare",
+		"fileName": "assets/textures/Meat_Hare.png"
+	},
+	{
+		"abr": "heruanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_Aelanna_Heruan",
+		"fileName": "assets/textures/Meat_Aelanna_Heruan.png"
+	},
+	{
+		"abr": "horsemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Horse",
+		"fileName": "assets/textures/Meat_Horse.png"
+	},
+	{
+		"abr": "huskymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Husky",
+		"fileName": "assets/textures/Meat_Husky.png"
+	},
+	{
+		"abr": "ibexmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ibex",
+		"fileName": "assets/textures/Meat_Ibex.png"
+	},
+	{
+		"abr": "iguanameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Iguana",
+		"fileName": "assets/textures/Meat_Iguana.png"
+	},
+	{
+		"abr": "immaturedryadmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dryad_Basic",
+		"fileName": "assets/textures/Meat_Dryad_Basic.png"
+	},
+	{
+		"abr": "labradorretrievermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_LabradorRetriever",
+		"fileName": "assets/textures/Meat_LabradorRetriever.png"
+	},
+	{
+		"abr": "lynxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Lynx",
+		"fileName": "assets/textures/Meat_Lynx.png"
+	},
+	{
+		"abr": "megaslothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Megasloth",
+		"fileName": "assets/textures/Meat_Megasloth.png"
+	},
+	{
+		"abr": "monkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Monkey",
+		"fileName": "assets/textures/Meat_Monkey.png"
+	},
+	{
+		"abr": "muffalomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Muffalo",
+		"fileName": "assets/textures/Meat_Muffalo.png"
+	},
+	{
+		"abr": "panthermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Panther",
+		"fileName": "assets/textures/Meat_Panther.png"
+	},
+	{
+		"abr": "pork",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pig",
+		"fileName": "assets/textures/Meat_Pig.png"
+	},
+	{
+		"abr": "raccoonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Raccoon",
+		"fileName": "assets/textures/Meat_Raccoon.png"
+	},
+	{
+		"abr": "ratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rat",
+		"fileName": "assets/textures/Meat_Rat.png"
+	},
+	{
+		"abr": "rhinocerosmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rhinoceros",
+		"fileName": "assets/textures/Meat_Rhinoceros.png"
+	},
+	{
+		"abr": "serenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seren",
+		"fileName": "assets/textures/Meat_Seren.png"
+	},
+	{
+		"abr": "sheepmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sheep",
+		"fileName": "assets/textures/Meat_Sheep.png"
+	},
+	{
+		"abr": "squirrelmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Squirrel",
+		"fileName": "assets/textures/Meat_Squirrel.png"
+	},
+	{
+		"abr": "thrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Thrumbo",
+		"fileName": "assets/textures/Meat_Thrumbo.png"
+	},
+	{
+		"abr": "tortoisemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tortoise",
+		"fileName": "assets/textures/Meat_Tortoise.png"
+	},
+	{
+		"abr": "toxalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Toxalope",
+		"fileName": "assets/textures/Meat_Toxalope.png"
+	},
+	{
+		"abr": "turkeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Turkey",
+		"fileName": "assets/textures/Meat_Turkey.png"
+	},
+	{
+		"abr": "venison",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Deer",
+		"fileName": "assets/textures/Meat_Deer.png"
+	},
+	{
+		"abr": "wargmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Warg",
+		"fileName": "assets/textures/Meat_Warg.png"
+	},
+	{
+		"abr": "wasteratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WasteRat",
+		"fileName": "assets/textures/Meat_WasteRat.png"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wolf_Timber",
+		"fileName": "assets/textures/Meat_Wolf_Timber.png"
+	},
+	{
+		"abr": "yakbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Yak",
+		"fileName": "assets/textures/Meat_Yak.png"
+	},
+	{
+		"abr": "yorkshireterriermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_YorkshireTerrier",
+		"fileName": "assets/textures/Meat_YorkshireTerrier.png"
 	}
 	],
 	"total": 1465
