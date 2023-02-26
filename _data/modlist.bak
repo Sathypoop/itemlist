@@ -720,12 +720,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "ChJees",
-    "name": "Androids for RW 1.4",
-    "steamId": "2889326293",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "SeoHyeon",
     "name": "Optimization: Meats - C# Edition",
     "steamId": "2542931556",
@@ -768,8 +762,8 @@
     "version": "1.4"
   },
   {
-    "author": "RutraNickers",
-    "name": "Facial Animation Androids Patch",
+    "author": "Ed86",
+    "name": "NoKidnaping",
     "steamId": null,
     "version": null
   }

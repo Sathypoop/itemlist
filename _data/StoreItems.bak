@@ -3595,24 +3595,6 @@
       "price": 176
     },
     {
-      "abr": "android",
-      "category": "Animal",
-      "defname": "ChjAndroid",
-      "price": -10
-    },
-    {
-      "abr": "androidleather",
-      "category": "Leathers",
-      "defname": "Leather_ChJAndroid",
-      "price": 9
-    },
-    {
-      "abr": "androidprinter",
-      "category": "Production",
-      "defname": "ChJAndroidPrinter",
-      "price": 7183
-    },
-    {
       "abr": "animalimplant:bearleg",
       "category": "Hybrid implants",
       "defname": "GR_BearLeg",
@@ -4073,30 +4055,6 @@
       "category": "Utility",
       "defname": "VAEA_Apparel_BattleBanner",
       "price": 93
-    },
-    {
-      "abr": "battledress",
-      "category": "Apparel",
-      "defname": "ChjAndroidMaidBattleDress",
-      "price": 1458
-    },
-    {
-      "abr": "battledroid",
-      "category": "Animal",
-      "defname": "ChjBattleDroid",
-      "price": -10
-    },
-    {
-      "abr": "battledroidassemblykit",
-      "category": "Items",
-      "defname": "ChjAndroidBattleDroidAssemblyKit",
-      "price": 3958
-    },
-    {
-      "abr": "battlemaidhat",
-      "category": "Headgear",
-      "defname": "ChjAndroidBattleMaidHat",
-      "price": 450
     },
     {
       "abr": "bean",
@@ -4867,12 +4825,6 @@
       "price": 800
     },
     {
-      "abr": "corelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChjCoreLauncher",
-      "price": 2283
-    },
-    {
       "abr": "crispymeat",
       "category": "Meat",
       "defname": "GR_TastyMeat",
@@ -4912,7 +4864,7 @@
       "abr": "debugpsychicshirt",
       "category": "Apparel",
       "defname": "CP_DebugShirt",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "deepchem",
@@ -4955,54 +4907,6 @@
       "category": "Fruits",
       "defname": "driedfruit",
       "price": 23
-    },
-    {
-      "abr": "droid",
-      "category": "Animal",
-      "defname": "ChjDroid",
-      "price": -10
-    },
-    {
-      "abr": "droidassemblykit",
-      "category": "Items",
-      "defname": "ChjAndroidDroidAssemblyKit",
-      "price": 1775
-    },
-    {
-      "abr": "droidbattery",
-      "category": "Manufactured",
-      "defname": "ChjAndroidBattery",
-      "price": 17
-    },
-    {
-      "abr": "droidchemfuelgeneratorbelt",
-      "category": "Apparel",
-      "defname": "ChjAndroid_ChemfuelGenerator",
-      "price": 327
-    },
-    {
-      "abr": "droidfabricator",
-      "category": "Misc",
-      "defname": "ChJDroidPrinter",
-      "price": 1825
-    },
-    {
-      "abr": "droidrepairkit",
-      "category": "Manufactured",
-      "defname": "ChjDroidRepairKit",
-      "price": 367
-    },
-    {
-      "abr": "droidrepairparts",
-      "category": "Manufactured",
-      "defname": "ChjDroidRepairParts",
-      "price": 28
-    },
-    {
-      "abr": "droidsolarpanelduster",
-      "category": "Apparel",
-      "defname": "ChjAndroid_SolarDuster",
-      "price": 650
     },
     {
       "abr": "electricmillingstone",
@@ -5527,12 +5431,6 @@
       "price": 350
     },
     {
-      "abr": "hibernationpad",
-      "category": "Production",
-      "defname": "ChjDroidHibernationPad",
-      "price": 104
-    },
-    {
       "abr": "hivepiece",
       "category": "Raw resources",
       "defname": "VG_Hivepiece",
@@ -6005,12 +5903,6 @@
       "category": "Ranged weapons",
       "defname": "TMC_HG_M9A3a",
       "price": 288
-    },
-    {
-      "abr": "maiddress",
-      "category": "Apparel",
-      "defname": "ChjAndroidMaidOutfit",
-      "price": 517
     },
     {
       "abr": "makarov",
@@ -7615,18 +7507,6 @@
       "price": 5
     },
     {
-      "abr": "rebelpistol",
-      "category": "Ranged weapons",
-      "defname": "ChjAndroidGun_Rebelpistol",
-      "price": 323
-    },
-    {
-      "abr": "rebelrifle",
-      "category": "Ranged weapons",
-      "defname": "ChjAndroidGun_RebelRifle",
-      "price": 925
-    },
-    {
       "abr": "redlentil",
       "category": "Garden meat",
       "defname": "RawRedLentil",
@@ -8021,12 +7901,6 @@
       "category": "Musts and syrups",
       "defname": "VBE_TequilaMust",
       "price": 4
-    },
-    {
-      "abr": "thermalwrapping",
-      "category": "Apparel",
-      "defname": "ChJAndroidThermalBandages",
-      "price": 62
     },
     {
       "abr": "thickhybridwool",
@@ -8593,5 +8467,5 @@
       "price": 83
     }
   ],
-  "total": 1432
+  "total": 1411
 }
